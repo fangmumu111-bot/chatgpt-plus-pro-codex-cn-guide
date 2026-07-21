@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <style>
+    :root {
+      --paper: oklch(98.5% 0.004 250);
+      --paper-2: oklch(96.2% 0.008 250);
+      --on-dark: oklch(95% 0.008 250);
+      --accent-soft: oklch(84% 0.075 256);
+      --accent: oklch(49% 0.205 256);
+      --muted: oklch(44% 0.022 257);
+      --ink: oklch(20% 0.021 259);
+      --graphite: oklch(18.5% 0.018 260);
+      --rule: oklch(86% 0.012 252);
+      --rule-strong: oklch(64% 0.018 254);
+    }
+    [fill="var(--paper)"] { fill: var(--paper); }
+    [fill="var(--paper-2)"] { fill: var(--paper-2); }
+    [fill="var(--on-dark)"] { fill: var(--on-dark); }
+    [fill="var(--accent-soft)"] { fill: var(--accent-soft); }
+    [fill="var(--accent)"] { fill: var(--accent); }
+    [fill="var(--muted)"] { fill: var(--muted); }
+    [fill="var(--ink)"] { fill: var(--ink); }
+    [fill="var(--graphite)"] { fill: var(--graphite); }
+    [stroke="var(--rule)"] { stroke: var(--rule); }
+    [stroke="var(--rule-strong)"] { stroke: var(--rule-strong); }
+  </style>
+  <title id="title">ChatGPT Plus、Pro、Codex 与 API 中文选择指南</title>
+  <desc id="desc">冷白色技术型版面，展示从使用入口到选择路径的清晰决策关系。</desc>
+  <rect width="1280" height="640" fill="var(--paper)" />
+  <rect x="0" y="0" width="18" height="640" fill="var(--accent)" />
+
+  <g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="82" y="82" fill="var(--accent)" font-size="22" font-weight="700" letter-spacing="2">2026 中文决策工具</text>
+    <text x="82" y="176" fill="var(--ink)" font-size="64" font-weight="700">ChatGPT Plus、Pro、</text>
+    <text x="82" y="258" fill="var(--ink)" font-size="64" font-weight="700">Codex 与 API 怎么选？</text>
+    <text x="82" y="332" fill="var(--muted)" font-size="28">先分清入口，再决定保持、升级、走 API，还是先排查。</text>
+
+    <g transform="translate(82 404)">
+      <rect width="258" height="64" rx="8" fill="var(--accent)" />
+      <text x="129" y="42" text-anchor="middle" fill="var(--paper)" font-size="24" font-weight="700">最多 4 步得到建议</text>
+    </g>
+
+    <text x="82" y="556" fill="var(--muted)" font-size="20">独立中文参考 · AIXiamo 维护 · 非 OpenAI 官方</text>
+  </g>
+
+  <g transform="translate(835 96)" font-family="PingFang SC, Microsoft YaHei, sans-serif">
+    <rect width="352" height="448" rx="14" fill="var(--paper-2)" stroke="var(--rule-strong)" stroke-width="2" />
+    <text x="32" y="48" fill="var(--muted)" font-size="18" font-weight="700">DECISION / CN</text>
+    <line x1="32" y1="70" x2="320" y2="70" stroke="var(--rule)" stroke-width="2" />
+
+    <g font-size="21" font-weight="700">
+      <rect x="32" y="102" width="288" height="56" rx="7" fill="var(--paper)" stroke="var(--rule)" />
+      <text x="54" y="138" fill="var(--ink)">ChatGPT / Codex / API</text>
+
+      <path d="M176 158v32" stroke="var(--rule-strong)" stroke-width="2" />
+      <circle cx="176" cy="196" r="6" fill="var(--accent)" />
+
+      <rect x="32" y="218" width="130" height="56" rx="7" fill="var(--paper)" stroke="var(--rule)" />
+      <text x="97" y="254" text-anchor="middle" fill="var(--ink)">会员路径</text>
+      <rect x="190" y="218" width="130" height="56" rx="7" fill="var(--paper)" stroke="var(--rule)" />
+      <text x="255" y="254" text-anchor="middle" fill="var(--ink)">API 路径</text>
+
+      <path d="M97 274v34M255 274v34" stroke="var(--rule-strong)" stroke-width="2" />
+
+      <rect x="32" y="320" width="288" height="72" rx="7" fill="var(--graphite)" />
+      <text x="176" y="350" text-anchor="middle" fill="var(--on-dark)" font-size="19">保持 · Plus · Pro · API</text>
+      <text x="176" y="378" text-anchor="middle" fill="var(--accent-soft)" font-size="17">或先排查</text>
+    </g>
+  </g>
+</svg>
