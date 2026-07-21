@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>ChatGPT Plus、Pro、Codex 与 API 怎么选？中文决策工具</title>
+    <meta
+      name="description"
+      content="国内怎么开通 ChatGPT Plus？Plus、Pro、Codex 与 API 有什么区别？用 4 个问题判断保持当前计划、比较会员、走 API，还是先排查。"
+    />
+    <meta name="author" content="AIXiamo" />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+    <link rel="canonical" href="https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" type="application/xml" href="./sitemap.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=JetBrains+Mono:wght@400;600&amp;family=Space+Grotesk:wght@500;700&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content="ChatGPT Plus、Pro、Codex 与 API 中文选择指南" />
+    <meta
+      property="og:description"
+      content="先分清使用入口，再用 4 个问题判断会员、Pro、API 或排查路径。"
+    />
+    <meta property="og:url" content="https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/" />
+    <meta
+      property="og:image"
+      content="https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/assets/social-preview.png"
+    />
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="640" />
+    <meta property="og:image:alt" content="ChatGPT Plus、Pro、Codex 与 API 中文选择指南" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "ChatGPT Plus、Pro、Codex 与 API 中文选择工具",
+        "description": "通过最多四个问题，帮助中文用户判断保持当前计划、比较 Plus 或 Pro、走 API、同时评估两条路径，或先排查。",
+        "url": "https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Any",
+        "browserRequirements": "Requires JavaScript for the interactive selector; core guidance remains readable without JavaScript.",
+        "inLanguage": "zh-CN",
+        "isAccessibleForFree": true,
+        "datePublished": "2026-07-21",
+        "dateModified": "2026-07-21",
+        "publisher": {
+          "@type": "Organization",
+          "name": "AIXiamo",
+          "url": "https://www.aixiamo.com/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要内容</a>
+
+    <header class="nav" id="top">
+      <div class="nav__inner shell">
+        <a class="brand" href="#top" aria-label="AI 选择地图，返回顶部">
+          <svg class="brand__mark" viewBox="0 0 32 32" aria-hidden="true">
+            <path d="M6 7h7v7H6zM19 7h7v7h-7zM6 19h7v7H6z" fill="currentColor" />
+            <path d="M22.5 18.5v7m-3.5-3.5h7" fill="none" stroke="currentColor" stroke-width="2.5" />
+          </svg>
+          <span>AI 选择地图</span>
+          <span class="brand__maintainer">AIXiamo 维护</span>
+        </a>
+
+        <nav class="nav__links" aria-label="主要导航">
+          <a class="nav__link" href="#quick-map">怎么选</a>
+          <a class="nav__link" href="#guides">中文指南</a>
+          <a class="nav__link" href="#sources">事实依据</a>
+        </nav>
+
+        <div class="nav__tools">
+          <button class="search-pill" id="search-trigger" type="button" aria-label="搜索指南，快捷键 Command K" aria-haspopup="dialog" aria-expanded="false">
+            <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8" />
+              <path d="m16 16 4 4" fill="none" stroke="currentColor" stroke-width="1.8" />
+            </svg>
+            <span class="search-pill__text">搜索指南</span>
+            <kbd>⌘ K</kbd>
+          </button>
+          <a
+            class="github-link"
+            href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide"
+            rel="noopener"
+          >
+            GitHub
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero shell" aria-labelledby="hero-title">
+        <div class="hero__copy">
+          <p class="hero__signal">2026 中文决策工具</p>
+          <h1 id="hero-title">先分清入口，再决定买什么</h1>
+          <p class="hero__lede">
+            国内怎么开通 ChatGPT Plus、Plus 和 Pro 怎么选、Codex 要不要单独用 API——最多四步，给出能解释的建议，而不是默认推荐最贵方案。
+          </p>
+          <div class="hero__actions">
+            <a class="button button--primary" href="#decision-tool">开始判断</a>
+            <a class="button" href="#quick-map">先看选择表</a>
+          </div>
+          <p class="hero__note">
+            不收集账号或支付信息，不写死易变价格和额度。最终请核对当前官方页面、你的账号显示和服务页面实时状态。
+          </p>
+        </div>
+
+        <section class="decision-tool" id="decision-tool" aria-label="ChatGPT 与 Codex 选择工具">
+          <div class="tool__topline">
+            <span>DECISION / CN</span>
+            <span class="tool__status">本地计算</span>
+          </div>
+
+          <div class="tool__body">
+            <form class="tool-form" id="decision-form" novalidate>
+              <div class="tool__progress" aria-label="选择进度">
+                <div class="progress__track" aria-hidden="true">
+                  <div class="progress__bar" id="progress-bar"></div>
+                </div>
+                <p class="progress__text" id="progress-text">第 1 步，预计最多 4 步</p>
+              </div>
+
+              <div id="question-slot"></div>
+              <p class="tool__error" id="tool-error" role="alert" aria-live="polite"></p>
+
+              <div class="tool__actions">
+                <button class="button button--quiet" id="prev-button" type="button" disabled>上一步</button>
+                <button class="button button--primary" id="next-button" type="submit">下一步</button>
+              </div>
+            </form>
+
+            <section class="result" id="result-panel" hidden aria-labelledby="result-title">
+              <h2 class="result__title" id="result-title" tabindex="-1"></h2>
+              <p class="result__summary" id="result-summary"></p>
+              <div id="result-groups"></div>
+              <div class="result__links" id="result-links"></div>
+              <button class="button" id="reset-button" type="button">重新判断</button>
+            </section>
+
+            <span class="sr-only" id="result-live" aria-live="polite"></span>
+          </div>
+
+          <noscript>
+            <div class="noscript">
+              JavaScript 关闭时仍可使用下方选择表。会员适合 ChatGPT/Codex 账号登录；程序、脚本和服务器调用优先研究 API。
+            </div>
+          </noscript>
+        </section>
+      </section>
+
+      <section class="section section--tight shell" id="quick-map" aria-labelledby="quick-map-title">
+        <header class="section-head">
+          <h2 id="quick-map-title">先看用途，不先看套餐名</h2>
+          <p>
+            最关键的分界不是“哪个更高级”，而是你在哪里使用、限制是否持续影响工作，以及是否需要程序化调用。
+          </p>
+        </header>
+
+        <table class="comparison">
+          <thead>
+            <tr>
+              <th scope="col">真实需求</th>
+              <th scope="col">优先路径</th>
+              <th scope="col">先排除的误区</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">聊天、写作、学习、办公</th>
+              <td data-label="优先路径">先比较 Plus</td>
+              <td data-label="先排除">偶发限制不等于必须升级</td>
+            </tr>
+            <tr>
+              <th scope="row">高频多文件、长任务、深度研究</th>
+              <td data-label="优先路径">限制持续影响工作时比较 Pro</td>
+              <td data-label="先排除">提示词、环境和客户端问题</td>
+            </tr>
+            <tr>
+              <th scope="row">Codex，使用 ChatGPT 账号登录</th>
+              <td data-label="优先路径">按当前计划和实际用量判断</td>
+              <td data-label="先排除">把 WSL、权限和订阅混在一起</td>
+            </tr>
+            <tr>
+              <th scope="row">程序、脚本、服务器或 CI</th>
+              <td data-label="优先路径">API</td>
+              <td data-label="先排除">会员自动包含 API 账单</td>
+            </tr>
+            <tr>
+              <th scope="row">网页端与程序调用都需要</th>
+              <td data-label="优先路径">会员与 API 分开评估</td>
+              <td data-label="先排除">只买一边就能覆盖全部入口</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="section shell" id="guides" aria-labelledby="guides-title">
+        <header class="section-head">
+          <h2 id="guides-title">常见问题，一次说清</h2>
+          <p>
+            每篇都先给直接答案，再给决策表、排查顺序和安全边界。仓库内文档可以独立使用，不需要先访问商城。
+          </p>
+        </header>
+
+        <div class="guide-list">
+          <article class="guide-row">
+            <h3>国内没有海外银行卡，怎么开通 ChatGPT Plus？</h3>
+            <p>先分清会员与 API，再核对官方结账和第三方服务的订单、售后、隐私边界。</p>
+            <a class="guide-row__link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-plus-cn-payment.md">读完整指南 →</a>
+          </article>
+          <article class="guide-row">
+            <h3>ChatGPT Plus 和 Pro 怎么选？</h3>
+            <p>用工作是否持续被中断来判断，不用一次高峰或别人的套餐替你做决定。</p>
+            <a class="guide-row__link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-plus-vs-pro.md">读完整指南 →</a>
+          </article>
+          <article class="guide-row">
+            <h3>ChatGPT Pro 5x 和 20x 有什么区别？</h3>
+            <p>核心差异是使用量。先记录一周真实任务和中断，再判断更高档位是否有产出依据。</p>
+            <a class="guide-row__link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-pro-5x-vs-20x.md">读完整指南 →</a>
+          </article>
+          <article class="guide-row">
+            <h3>Codex 需要会员，还是应该单独用 API？</h3>
+            <p>ChatGPT 账号登录看会员；API key、脚本和服务器调用看独立 API 账户与账单。</p>
+            <a class="guide-row__link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-membership-vs-api.md">读完整指南 →</a>
+          </article>
+          <article class="guide-row">
+            <h3>Codex 额度用完怎么办，Plus 够不够？</h3>
+            <p>先确认真的是额度，再区分偶发峰值、持续不足、环境问题和适合迁移到 API 的自动化。</p>
+            <a class="guide-row__link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-quota-usage.md">读完整指南 →</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="dark-band" aria-labelledby="verify-title">
+        <div class="section shell">
+          <header class="section-head">
+            <h2 id="verify-title">付款前，核验三件事</h2>
+            <p>事实会变化，安全底线不该变化。任何路径都先守住账号、订单和账单。</p>
+          </header>
+
+          <ol class="steps">
+            <li class="step">
+              <span class="step__number">01</span>
+              <h3>确认入口</h3>
+              <p>会员用于 ChatGPT/Codex 账号登录；API 用于程序化调用。两套账单不要混淆。</p>
+            </li>
+            <li class="step">
+              <span class="step__number">02</span>
+              <h3>保护凭据</h3>
+              <p>不提供密码、验证码、恢复码、Cookie、Session、API key 或 Token。</p>
+            </li>
+            <li class="step">
+              <span class="step__number">03</span>
+              <h3>保留记录</h3>
+              <p>保存订单号和付款记录；状态未同步时先查订单，不要重复付款。</p>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <section class="section shell" id="sources" aria-labelledby="sources-title">
+        <header class="section-head">
+          <h2 id="sources-title">事实、披露与更新</h2>
+          <p>仓库由 AIXiamo 维护，但不代表 OpenAI。延伸链接与商业关系公开写明，易变事实均标注核对日期。</p>
+        </header>
+
+        <div class="fact-grid">
+          <article class="fact">
+            <h3>官方事实</h3>
+            <p>Plus、Pro、Codex 与 API 的关系来自 OpenAI 官方帮助资料，最后核对于 2026-07-21。</p>
+            <a class="text-link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/SOURCES.md">查看来源 →</a>
+          </article>
+          <article class="fact">
+            <h3>商业披露</h3>
+            <p>部分指南含一条 AIXiamo 自有延伸链接；UTM 只统计来源，不改变价格或本文结论。</p>
+            <a class="text-link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/DISCLOSURE.md">查看披露 →</a>
+          </article>
+          <article class="fact">
+            <h3>开放维护</h3>
+            <p>内容使用 MIT License。发现套餐、模型或规则变化时，可附官方来源提交修正。</p>
+            <a class="text-link" href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide">打开仓库 →</a>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer__grid shell">
+        <div>
+          <p class="footer__brand">AI 选择地图</p>
+          <p class="footer__tagline">把入口、额度和账单分开，答案会简单很多。</p>
+        </div>
+        <div>
+          <nav class="footer__links" aria-label="页脚导航">
+            <a href="#decision-tool">重新判断</a>
+            <a href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide">GitHub</a>
+            <a href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/DISCLOSURE.md">披露</a>
+          </nav>
+          <p class="footer__meta">AIXiamo 维护 · 非 OpenAI 官方 · 2026-07-21</p>
+        </div>
+      </div>
+    </footer>
+
+    <dialog class="command-dialog" id="command-dialog" aria-labelledby="command-title">
+      <h2 class="sr-only" id="command-title">搜索指南</h2>
+      <div class="command__field">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8" />
+          <path d="m16 16 4 4" fill="none" stroke="currentColor" stroke-width="1.8" />
+        </svg>
+        <input
+          id="command-input"
+          type="search"
+          placeholder="搜索 Plus、Pro、Codex、API…"
+          autocomplete="off"
+          aria-controls="command-results"
+          aria-autocomplete="list"
+          aria-expanded="true"
+        />
+        <kbd>Esc</kbd>
+      </div>
+      <div class="command__results" id="command-results" role="listbox" aria-label="搜索结果"></div>
+      <div class="command__footer">
+        <span>↑↓ 选择</span>
+        <span>Enter 打开</span>
+        <span>Esc 关闭</span>
+      </div>
+      <span class="sr-only" id="command-live" aria-live="polite"></span>
+    </dialog>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

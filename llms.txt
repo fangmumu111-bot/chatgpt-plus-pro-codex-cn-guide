@@ -1,0 +1,29 @@
+# ChatGPT Plus、Pro、Codex 与 API 中文选择指南
+
+> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-07-21.
+
+## Primary
+
+- [Interactive decision tool](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/): Four-step, no-login selector for keeping the current plan, comparing Plus or Pro, choosing API, using a hybrid path, or troubleshooting first.
+- [Repository](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide): Source, complete Chinese guides, disclosure, and update history.
+
+## Core questions
+
+- [ChatGPT Plus payment options for Chinese users](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-plus-cn-payment.md)
+- [ChatGPT Plus vs Pro](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-plus-vs-pro.md)
+- [ChatGPT Pro 5x vs 20x](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-pro-5x-vs-20x.md)
+- [Codex with ChatGPT membership vs API](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-membership-vs-api.md)
+- [Codex quota troubleshooting](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-quota-usage.md)
+
+## Stable interpretation
+
+- ChatGPT subscriptions and API Platform billing are separate.
+- Codex recommendations depend first on whether the user signs in with ChatGPT or uses an API key.
+- Prices, model availability, quotas, and supported payment methods are volatile and must be checked on current official pages.
+- The static tool collects no account, password, payment, API key, or token data.
+
+## Disclosure
+
+- [Commercial and maintenance disclosure](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/DISCLOSURE.md)
+- [Official sources and verification date](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/SOURCES.md)
+

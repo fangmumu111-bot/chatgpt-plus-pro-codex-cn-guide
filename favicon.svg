@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="AI 选择地图">
+  <style>
+    :root {
+      --paper: oklch(98.5% 0.004 250);
+      --accent: oklch(49% 0.205 256);
+    }
+    [fill="var(--paper)"] { fill: var(--paper); }
+    [fill="var(--accent)"] { fill: var(--accent); }
+    [stroke="var(--accent)"] { stroke: var(--accent); }
+  </style>
+  <rect width="32" height="32" rx="6" fill="var(--paper)" />
+  <path d="M6 7h7v7H6zM19 7h7v7h-7zM6 19h7v7H6z" fill="var(--accent)" />
+  <path d="M22.5 18.5v7m-3.5-3.5h7" fill="none" stroke="var(--accent)" stroke-width="2.5" />
+</svg>

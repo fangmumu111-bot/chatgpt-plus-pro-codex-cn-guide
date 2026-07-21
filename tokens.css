@@ -1,0 +1,77 @@
+/* Hallmark · genre: modern-minimal · macrostructure: Workbench · theme: Cobalt · enrichment: none · nav: N13 · footer: Ft1
+ * H2 Split knobs: ratio=7/5, right-side=live-tool, divider=negative-space · F3 knobs: columns=3, rules=every-row, numbers=tabular
+ * F4 knobs: numbering=01/02/03, layout=horizontal-flow, connector=none · N13 knobs: pill=right-of-brand, groups=flat, footer-hints=shown
+ * Ft1 knobs: wordmark=xl, tagline=roman-body, links=inline · pre-emit critique: P5 H5 E4 S5 R5 V4
+ * contrast: pass (40–41) · nav: pass · footer: pass · slop: pass (42–45) · honest chrome: pass (46–47)
+ * tokens: pass (48) · responsive: pass (49) · mobile: pass (34, 49–57) · slop test: 58/58
+ */
+
+:root {
+  --color-paper: oklch(98.5% 0.004 250);
+  --color-paper-2: oklch(96.2% 0.008 250);
+  --color-paper-3: oklch(92.8% 0.012 250);
+  --color-rule: oklch(86% 0.012 252);
+  --color-rule-strong: oklch(64% 0.018 254);
+  --color-muted: oklch(44% 0.022 257);
+  --color-ink-2: oklch(32% 0.023 258);
+  --color-ink: oklch(20% 0.021 259);
+  --color-graphite: oklch(18.5% 0.018 260);
+  --color-graphite-2: oklch(23% 0.02 260);
+  --color-on-dark: oklch(95% 0.008 250);
+  --color-on-dark-muted: oklch(78% 0.014 252);
+  --color-accent: oklch(49% 0.205 256);
+  --color-accent-ink: oklch(98.5% 0.004 250);
+  --color-accent-soft: oklch(84% 0.075 256);
+  --color-focus: oklch(16% 0.05 256);
+  --color-error: oklch(47% 0.185 28);
+  --color-error-soft: oklch(94% 0.025 28);
+
+  --font-display: "Space Grotesk", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-body: "Inter", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", monospace;
+
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 9rem;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-md: 1.25rem;
+  --text-lg: 1.5625rem;
+  --text-xl: 1.953rem;
+  --text-2xl: 2.441rem;
+  --text-3xl: 3.052rem;
+  --text-display-s: clamp(2.25rem, 7vw, 3.8rem);
+  --text-display: clamp(2.7rem, 7.6vw, 5.1rem);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long: 420ms;
+
+  --rule-hair: 1px;
+  --rule-strong: 2px;
+  --radius-control: 0.375rem;
+  --radius-panel: 0.625rem;
+  --radius-pill: 999px;
+
+  --shadow-whisper: 0 1px 2px oklch(20% 0.02 258 / 0.05);
+
+  --z-base: 1;
+  --z-raised: 10;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-modal: 400;
+  --z-toast: 500;
+  --z-tooltip: 600;
+}
