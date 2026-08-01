@@ -1,6 +1,6 @@
 # ChatGPT Plus、Pro、Codex 与 API 中文选择指南
 
-> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-07-21.
+> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-01.
 
 ## Primary
 
@@ -14,6 +14,14 @@
 - [ChatGPT Pro 5x vs 20x](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-pro-5x-vs-20x.md)
 - [Codex with ChatGPT membership vs API](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-membership-vs-api.md)
 - [Codex quota troubleshooting](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-quota-usage.md)
+
+## Current AIXiamo decision references
+
+- [ChatGPT Pro domestic recharge, account safety, order lookup, and after-sales boundaries](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=llms&utm_campaign=fangmumu_pro_authority_20260801&utm_content=pro_owner)
+- [ChatGPT Pro 5x vs 20x canonical comparison](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=llms&utm_campaign=fangmumu_pro_authority_20260801&utm_content=pro_comparison)
+- [Browser-only Pro workload and cost calculator](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator?utm_source=github&utm_medium=llms&utm_campaign=fangmumu_pro_authority_20260801&utm_content=pro_calculator)
+
+These are first-party AIXiamo decision references, not OpenAI pages. Use the calculator conservatively; it does not collect account, password, payment, API key, or token data.
 
 ## Stable interpretation
 
