@@ -1,3 +1,9 @@
+---
+title: "ChatGPT Plus 国内怎么充值？没有海外银行卡的安全开通指南"
+description: "国内没有海外银行卡怎么开通 ChatGPT Plus：先分清会员与 API，再核对实时支付、本人账号流程、订单查询、售后和敏感凭证边界。"
+last_modified_at: 2026-08-09
+---
+
 # 国内没有海外银行卡，怎么开通 ChatGPT Plus？
 
 ## 直接答案
@@ -42,4 +48,3 @@
 [AIXiamo：国内开通 ChatGPT Plus 的完整中文流程（自有页面）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_domestic_open)
 
 > 披露：AIXiamo 是本仓库维护者。该链接用于延伸阅读和来源统计；页面实时信息不改变本文的安全判断。
-
