@@ -1,0 +1,9 @@
+title: "ChatGPT Plus、Pro、Codex Credits 与 API 中文选择指南"
+description: "面向中文用户的 ChatGPT Plus、Pro、Codex 额度、Credits 与 API 决策手册"
+lang: zh-CN
+locale: zh_CN
+url: "https://fangmumu111-bot.github.io"
+baseurl: "/chatgpt-plus-pro-codex-cn-guide"
+repository: "fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide"
+timezone: "Asia/Shanghai"
+theme: jekyll-theme-primer

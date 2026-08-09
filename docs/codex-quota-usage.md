@@ -1,17 +1,34 @@
+---
+title: "Codex 额度不够怎么办？Credits、Pro 还是 API"
+description: "Codex 额度用完先看 Settings → Usage 是否可购买 Credits，再按中断频率比较等待重置、升级 Pro 或使用独立 API。"
+last_modified_at: 2026-08-09
+---
+
 # Codex 额度用完怎么办，Plus 够不够？
 
 ## 直接答案
 
-先确认这次中断真的是额度问题，而不是登录账号、客户端版本、模型可用性、权限或本地环境。确认后，再根据“发生频率”和“对交付的影响”决定保持、优化用法、比较 Pro，还是把自动化任务迁到 API。
+先确认这次中断真的是额度问题，而不是登录账号、客户端版本、模型可用性、权限或本地环境。确认达到 Codex 包含用量后，先打开 `Settings → Usage`：部分 Plus / Pro 用户会看到购买 Credits 的选项，可以在不立即升级订阅的情况下继续使用；如果当前账号没有该选项，再比较等待重置、升级 Pro 或把自动化任务迁到 API。
+
+Credits 是会员下支持功能的额外用量，不是 API 余额；是否可购买、可用于哪些功能，以当前账号 Usage 页面显示为准。
 
 ## 排查顺序
 
-1. 查看 Codex 当前用量或提示信息，记录重置时间。
+1. 查看 Codex 当前用量或提示信息，记录重置时间，并检查 `Settings → Usage` 是否显示购买 Credits。
 2. 确认登录的是预期 ChatGPT 账号，或使用的是预期 API key。
 3. 确认客户端版本、当前模型和工作区权限。
 4. 区分偶发峰值与持续不足。
 5. 记录任务规模、上下文范围、并行数量和重复重跑。
-6. 只有在限制持续影响工作时，才比较更高用量计划或 API。
+6. 偶发触顶先比较 Credits 或等待重置；只有限制持续影响工作时，才比较更高用量计划或 API。
+
+## 什么时候先购买 Credits
+
+- 偶发触顶，但当前 Plus / Pro 大多数时间够用。
+- Usage 页面明确显示可购买 Credits。
+- 只需要短期完成一批任务，不想立刻长期升级。
+- 已确认 Credits 适用于当前要继续使用的 Codex 功能。
+
+如果账号没有购买入口，不要假设所有地区和账号都能购买；改为等待重置，或按长期使用强度比较 Pro 与 API。
 
 ## Plus 可能仍然够用的情况
 
@@ -48,4 +65,3 @@
 [AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查（自有页面）](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery)
 
 > 披露：AIXiamo 是本仓库维护者。额度与计量规则会变化，先核对当前官方说明。
-

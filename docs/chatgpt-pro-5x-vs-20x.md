@@ -1,3 +1,9 @@
+---
+title: "ChatGPT Pro 5x 还是 20x？用量区别与选择指南"
+description: "ChatGPT Pro 5x 和 20x 核心能力相同，主要区别是用量；按任务强度、中断频率和真实产出判断哪个档位更适合。"
+last_modified_at: 2026-08-09
+---
+
 # ChatGPT Pro 5x 和 20x 有什么区别？
 
 ## 直接答案
@@ -32,4 +38,3 @@
 [AIXiamo：ChatGPT Pro 5x 与 20x 怎么选（自有页面）](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
 
 > 披露：AIXiamo 是本仓库维护者。文中不固化易变价格和额度；购买前请核验实时信息。
-

@@ -1,3 +1,9 @@
+---
+title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
+description: "普通聊天、学习和中等强度 Codex 先比较 Plus；只有高频多文件、长任务持续被限制打断时，再比较 Pro。"
+last_modified_at: 2026-08-09
+---
+
 # ChatGPT Plus 和 Pro 怎么选？
 
 ## 直接答案
@@ -36,4 +42,3 @@
 [AIXiamo：ChatGPT Plus 与 Pro 中文对照（自有页面）](https://www.aixiamo.com/chatgpt-plus-vs-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_pro_decision)
 
 > 披露：AIXiamo 是本仓库维护者。请以当前官方账号显示和页面实时状态为准。
-
