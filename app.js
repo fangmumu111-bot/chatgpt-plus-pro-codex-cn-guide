@@ -59,11 +59,21 @@
       ]
     },
     observe: {
-      title: "先核对额度与 Credits",
-      summary: "目前更像偶发峰值。先查看 Settings → Usage 是否可购买 Credits，并记录一周真实使用，再判断是否需要长期升级。",
+      title: "先观察，不急于升级",
+      summary: "目前更像偶发峰值。先核对当前功能的重置时间并记录一周真实使用，再判断额外用量是否能换来稳定产出。",
       reasons: ["限制没有持续影响交付", "一次高峰不足以代表长期需求"],
       changes: ["等待反复打断交付", "优化任务范围后仍持续不足"],
-      verify: ["查看 Usage 的重置时间与 Credits 入口", "减少重复任务与无边界上下文"],
+      verify: ["核对当前功能的限制与重置时间", "减少重复任务与无边界上下文"],
+      links: [
+        { label: "查看 Plus / Pro 判断依据", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, external: false }
+      ]
+    },
+    credits_check: {
+      title: "先核对 Codex 额度与 Credits",
+      summary: "如果偶发限制发生在 Codex，先查看 Settings → Usage 是否显示购买 Credits，并记录一周真实使用，再判断是否需要长期升级。",
+      reasons: ["限制没有持续影响交付", "部分账号可先用 Credits 补充支持功能的用量"],
+      changes: ["等待反复打断交付", "当前账号没有 Credits 入口或补充后仍持续不足"],
+      verify: ["查看 Usage 的重置时间与 Credits 入口", "确认 Credits 不是 API Platform 余额"],
       links: [
         { label: "查看 Codex 额度与 Credits 排查", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, external: false }
       ]
@@ -284,7 +294,7 @@
     if (entry === "api") return "api";
     if (entry === "unsure" || limits === "unclear") return "diagnose";
     if (limits === "enough") return "keep";
-    if (limits === "occasional") return "observe";
+    if (limits === "occasional") return entry === "codex_chatgpt" ? "credits_check" : "observe";
     if (limits === "persistent" && intensity === "heavy") return "pro_compare";
     return "plus_first";
   }
