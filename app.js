@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const CONTENT_VERSION = "2026-07-21";
+  const CONTENT_VERSION = "2026-08-09";
   const STORAGE_KEY = "aixiamo-ai-choice-map-v1";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -45,7 +45,7 @@
     }
   };
 
-  const REPO_BASE = "https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main";
+  const PAGES_BASE = "https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide";
 
   const RESULTS = {
     keep: {
@@ -55,17 +55,17 @@
       changes: ["限制开始高频出现", "长任务或多文件工作持续被打断"],
       verify: ["记录一周使用和中断", "确认当前登录账号与模型"],
       links: [
-        { label: "查看 Plus / Pro 判断依据", url: `${REPO_BASE}/docs/chatgpt-plus-vs-pro.md`, external: false }
+        { label: "查看 Plus / Pro 判断依据", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, external: false }
       ]
     },
     observe: {
-      title: "先观察，不急于升级",
-      summary: "目前更像偶发峰值。先记录一周真实使用，再判断额外用量是否能换来稳定产出。",
+      title: "先核对额度与 Credits",
+      summary: "目前更像偶发峰值。先查看 Settings → Usage 是否可购买 Credits，并记录一周真实使用，再判断是否需要长期升级。",
       reasons: ["限制没有持续影响交付", "一次高峰不足以代表长期需求"],
       changes: ["等待反复打断交付", "优化任务范围后仍持续不足"],
-      verify: ["记录受限频率和重置时间", "减少重复任务与无边界上下文"],
+      verify: ["查看 Usage 的重置时间与 Credits 入口", "减少重复任务与无边界上下文"],
       links: [
-        { label: "查看 Codex 额度排查", url: `${REPO_BASE}/docs/codex-quota-usage.md`, external: false }
+        { label: "查看 Codex 额度与 Credits 排查", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, external: false }
       ]
     },
     plus_first: {
@@ -75,7 +75,7 @@
       changes: ["高频多文件或长任务持续中断", "用量记录显示当前档位长期不足"],
       verify: ["当前官方账号显示的计划与模型", "实时付款方式、订单查询和售后边界"],
       links: [
-        { label: "查看 Plus / Pro 完整对照", url: `${REPO_BASE}/docs/chatgpt-plus-vs-pro.md`, external: false },
+        { label: "查看 Plus / Pro 完整对照", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, external: false },
         {
           label: "打开 AIXiamo 中文延伸说明",
           url: "https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_first_result",
@@ -90,7 +90,7 @@
       changes: ["实际问题来自客户端、权限或环境", "优化任务范围后中断明显减少"],
       verify: ["连续一周的受限次数和交付影响", "5x 与 20x 的当前官方规则和实时状态"],
       links: [
-        { label: "查看 Pro 5x / 20x 对照", url: `${REPO_BASE}/docs/chatgpt-pro-5x-vs-20x.md`, external: false },
+        { label: "查看 Pro 5x / 20x 对照", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false },
         {
           label: "打开 AIXiamo Pro 延伸说明",
           url: "https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_result",
@@ -105,7 +105,7 @@
       changes: ["同时开始高频使用 ChatGPT/Codex 界面", "需求从自动化转为个人交互工作"],
       verify: ["API 账户的当前计费和模型范围", "密钥管理、预算与调用日志"],
       links: [
-        { label: "查看会员与 API 的区别", url: `${REPO_BASE}/docs/codex-membership-vs-api.md`, external: false }
+        { label: "查看会员、Credits 与 API 的区别", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, external: false }
       ]
     },
     hybrid: {
@@ -115,7 +115,7 @@
       changes: ["其中一条路径停止使用", "团队协作需要改看组织方案"],
       verify: ["哪些任务放在交互界面", "哪些任务由脚本或服务器执行"],
       links: [
-        { label: "查看 Codex 会员与 API 地图", url: `${REPO_BASE}/docs/codex-membership-vs-api.md`, external: false },
+        { label: "查看 Codex 会员、Credits 与 API 地图", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, external: false },
         {
           label: "打开 AIXiamo Codex 延伸说明",
           url: "https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=hybrid_result",
@@ -130,7 +130,7 @@
       changes: ["确认使用 ChatGPT 账号登录且持续受限", "确认需要 API key 和程序化调用"],
       verify: ["当前登录账号与登录方式", "客户端版本、模型、权限、账单和订单状态"],
       links: [
-        { label: "查看 Codex 额度排查", url: `${REPO_BASE}/docs/codex-quota-usage.md`, external: false },
+        { label: "查看 Codex 额度与 Credits 排查", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, external: false },
         {
           label: "打开 AIXiamo 中文排查说明",
           url: "https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=diagnose_result",
@@ -145,7 +145,7 @@
       changes: ["确认只有一个人使用", "团队需求缩小为独立个人任务"],
       verify: ["席位、权限和管理员需求", "数据控制、审计与账单归属"],
       links: [
-        { label: "查看官方来源清单", url: `${REPO_BASE}/SOURCES.md`, external: false }
+        { label: "查看官方来源清单", url: `${PAGES_BASE}/SOURCES.html`, external: false }
       ]
     }
   };
@@ -373,13 +373,13 @@
   const commandItems = [
     { label: "开始 4 步判断", meta: "工具", url: "#decision-tool", terms: "选择 判断 会员" },
     { label: "Plus 与 Pro 快速对照", meta: "页面", url: "#quick-map", terms: "plus pro 选择" },
-    { label: "国内怎么开通 ChatGPT Plus", meta: "指南", url: `${REPO_BASE}/docs/chatgpt-plus-cn-payment.md`, terms: "国内 充值 支付 没有海外卡" },
-    { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${REPO_BASE}/docs/chatgpt-plus-vs-pro.md`, terms: "会员 套餐" },
-    { label: "ChatGPT Pro 5x 与 20x", meta: "指南", url: `${REPO_BASE}/docs/chatgpt-pro-5x-vs-20x.md`, terms: "pro 额度" },
-    { label: "Codex 会员与 API 的关系", meta: "指南", url: `${REPO_BASE}/docs/codex-membership-vs-api.md`, terms: "codex api key plus pro" },
-    { label: "Codex 额度不足怎么排查", meta: "指南", url: `${REPO_BASE}/docs/codex-quota-usage.md`, terms: "限额 用完 不够" },
-    { label: "官方事实与核对日期", meta: "来源", url: `${REPO_BASE}/SOURCES.md`, terms: "openai 官方 来源" },
-    { label: "维护与商业关系披露", meta: "披露", url: `${REPO_BASE}/DISCLOSURE.md`, terms: "aixiamo utm 商业" }
+    { label: "国内怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-cn-payment.html`, terms: "国内 充值 支付 没有海外卡" },
+    { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, terms: "会员 套餐" },
+    { label: "ChatGPT Pro 5x 与 20x", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 额度" },
+    { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },
+    { label: "Codex 额度不足能否购买 Credits", meta: "指南", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, terms: "限额 用完 不够 credits 购买额度" },
+    { label: "官方事实与核对日期", meta: "来源", url: `${PAGES_BASE}/SOURCES.html`, terms: "openai 官方 来源" },
+    { label: "维护与商业关系披露", meta: "披露", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo utm 商业" }
   ];
 
   const searchTrigger = document.querySelector("#search-trigger");

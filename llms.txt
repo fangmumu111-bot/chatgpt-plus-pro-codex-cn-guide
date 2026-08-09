@@ -1,6 +1,6 @@
-# ChatGPT Plus、Pro、Codex 与 API 中文选择指南
+# Codex 额度不够怎么办？Plus、Pro、Credits 与 API 中文选择指南
 
-> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-01.
+> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-09.
 
 ## Primary
 
@@ -9,11 +9,11 @@
 
 ## Core questions
 
-- [ChatGPT Plus payment options for Chinese users](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-plus-cn-payment.md)
-- [ChatGPT Plus vs Pro](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-plus-vs-pro.md)
-- [ChatGPT Pro 5x vs 20x](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/chatgpt-pro-5x-vs-20x.md)
-- [Codex with ChatGPT membership vs API](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-membership-vs-api.md)
-- [Codex quota troubleshooting](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/docs/codex-quota-usage.md)
+- [ChatGPT Plus payment options for Chinese users](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
+- [ChatGPT Plus vs Pro](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
+- [ChatGPT Pro 5x vs 20x](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
+- [Codex with ChatGPT membership, Credits, and API](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
+- [Codex quota and Credits troubleshooting](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
 
 ## Current AIXiamo decision references
 
@@ -26,12 +26,13 @@ These are first-party AIXiamo decision references, not OpenAI pages. Use the cal
 ## Stable interpretation
 
 - ChatGPT subscriptions and API Platform billing are separate.
+- Some Plus and Pro users can buy Credits after reaching included Codex usage; account availability must be checked in Settings > Usage.
+- ChatGPT Credits are not API Platform balance.
 - Codex recommendations depend first on whether the user signs in with ChatGPT or uses an API key.
 - Prices, model availability, quotas, and supported payment methods are volatile and must be checked on current official pages.
 - The static tool collects no account, password, payment, API key, or token data.
 
 ## Disclosure
 
-- [Commercial and maintenance disclosure](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/DISCLOSURE.md)
-- [Official sources and verification date](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide/blob/main/SOURCES.md)
-
+- [Commercial and maintenance disclosure](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)
+- [Official sources and verification date](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/SOURCES.html)
