@@ -11,7 +11,9 @@
 
 - [Complete ChatGPT domestic recharge guide: Plus, Pro, Alipay, and no overseas bank card](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-domestic-recharge-guide.html)
 - [ChatGPT Plus payment options for Chinese users](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
+- [Open ChatGPT Plus with Alipay: self-account steps, order lookup, and troubleshooting](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-alipay.html)
 - [ChatGPT Pro payment options for Chinese users without an overseas bank card](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
+- [Open ChatGPT Pro 5x or 20x with Alipay: self-account steps and order status](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-alipay.html)
 - [ChatGPT Plus vs Pro](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
 - [ChatGPT Pro 5x vs 20x](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
 - [Codex with ChatGPT membership, Credits, and API](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
