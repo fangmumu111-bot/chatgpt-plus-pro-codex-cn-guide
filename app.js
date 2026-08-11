@@ -383,6 +383,7 @@
   const commandItems = [
     { label: "开始 4 步判断", meta: "工具", url: "#decision-tool", terms: "选择 判断 会员" },
     { label: "Plus 与 Pro 快速对照", meta: "页面", url: "#quick-map", terms: "plus pro 选择" },
+    { label: "ChatGPT 国内充值完整指南", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-domestic-recharge-guide.html`, terms: "国内 充gpt 充值 plus pro 支付宝 没有海外银行卡 教程" },
     { label: "国内怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-cn-payment.html`, terms: "国内 充值 支付 没有海外卡" },
     { label: "国内怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-cn-payment.html`, terms: "国内 充值 支付宝 usdt 没有海外银行卡 本人账号" },
     { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, terms: "会员 套餐" },

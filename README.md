@@ -21,14 +21,15 @@
 
 工具不会收集邮箱、账号、密码、验证码或支付信息；选择只在当前浏览器会话内保存。
 
-## 六篇完整指南
+## 七篇完整指南
 
-1. [国内没有海外银行卡，怎么开通 ChatGPT Plus？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
-2. [国内没有海外银行卡，怎么开通 ChatGPT Pro？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
-3. [ChatGPT Plus 和 Pro 怎么选？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
-4. [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
-5. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
-6. [Codex 额度用完怎么办，能不能购买 Credits？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
+1. [2026 ChatGPT 国内怎么充值？Plus / Pro、支付宝与无海外银行卡完整指南](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-domestic-recharge-guide.html)
+2. [国内没有海外银行卡，怎么开通 ChatGPT Plus？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
+3. [国内没有海外银行卡，怎么开通 ChatGPT Pro？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
+4. [ChatGPT Plus 和 Pro 怎么选？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
+5. [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
+6. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
+7. [Codex 额度用完怎么办，能不能购买 Credits？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
 
 ## 安全底线
 

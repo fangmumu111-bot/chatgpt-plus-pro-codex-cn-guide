@@ -9,6 +9,7 @@
 
 ## Core questions
 
+- [Complete ChatGPT domestic recharge guide: Plus, Pro, Alipay, and no overseas bank card](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-domestic-recharge-guide.html)
 - [ChatGPT Plus payment options for Chinese users](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
 - [ChatGPT Pro payment options for Chinese users without an overseas bank card](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
 - [ChatGPT Plus vs Pro](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
