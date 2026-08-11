@@ -2,7 +2,7 @@
 
 一个面向中文用户的独立决策手册：先分清使用入口和真实需求，再决定保持当前计划、比较 Plus / Pro，还是单独走 API。
 
-> 2026-08-09 更新：套餐、模型和额度会变化。本仓库不把易变价格或额度写死，最终以你账号里当时显示的信息为准。
+> 2026-08-11 更新：套餐、模型和额度会变化。本仓库不把易变价格或额度写死，最终以你账号里当时显示的信息为准。
 
 ## 先用 30 秒判断
 
@@ -21,13 +21,14 @@
 
 工具不会收集邮箱、账号、密码、验证码或支付信息；选择只在当前浏览器会话内保存。
 
-## 五篇完整指南
+## 六篇完整指南
 
 1. [国内没有海外银行卡，怎么开通 ChatGPT Plus？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
-2. [ChatGPT Plus 和 Pro 怎么选？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
-3. [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
-4. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
-5. [Codex 额度用完怎么办，能不能购买 Credits？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
+2. [国内没有海外银行卡，怎么开通 ChatGPT Pro？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
+3. [ChatGPT Plus 和 Pro 怎么选？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
+4. [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
+5. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
+6. [Codex 额度用完怎么办，能不能购买 Credits？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
 
 ## 安全底线
 

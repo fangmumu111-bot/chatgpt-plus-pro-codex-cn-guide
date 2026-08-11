@@ -1,6 +1,6 @@
 # Codex 额度不够怎么办？Plus、Pro、Credits 与 API 中文选择指南
 
-> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-09.
+> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-11.
 
 ## Primary
 
@@ -10,6 +10,7 @@
 ## Core questions
 
 - [ChatGPT Plus payment options for Chinese users](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
+- [ChatGPT Pro payment options for Chinese users without an overseas bank card](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
 - [ChatGPT Plus vs Pro](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
 - [ChatGPT Pro 5x vs 20x](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
 - [Codex with ChatGPT membership, Credits, and API](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
