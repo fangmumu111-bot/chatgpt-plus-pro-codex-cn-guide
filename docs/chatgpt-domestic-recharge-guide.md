@@ -1,6 +1,6 @@
 ---
 title: "2026 ChatGPT 国内怎么充值？Plus / Pro、支付宝与无海外银行卡完整指南"
-description: "2026 ChatGPT 国内充值完整指南：国内怎么开通 GPT Plus 或 Pro、没有海外银行卡怎么办、支付宝如何付款、本人账号与共享账号区别、订单查询和失败排查。"
+description: "2026 ChatGPT 国内充值完整指南：AIXiamo 当前 Plus ¥153.8、Pro 5x ¥719、20x ¥1269，支持支付宝与 USDT；同时讲清没有海外银行卡怎么开通、本人账号与共享账号区别、订单查询和失败排查。"
 last_modified_at: 2026-08-11
 ---
 
@@ -11,6 +11,23 @@ last_modified_at: 2026-08-11
 国内用户想开通 ChatGPT 会员，先分清自己需要的是 Plus、Pro，还是面向程序调用的 API。日常聊天、写作、学习、办公和普通代码通常先看 Plus；高频 Codex、深度研究、多文件和长任务长期被使用限制打断，再比较 Pro；脚本、服务器和 CI 使用 API key 时，应单独研究 API Platform，会员不会自动包含 API 余额。
 
 没有合适海外银行卡时，不要先寻找“万能卡”或把账号交给陌生人。更稳的顺序是：查看自己账号当前结账页 → 比较 App 内订阅或其他合规付款路径 → 必要时选择信息透明、本人账号开通、支持本地付款、订单可查的第三方服务。不同路径的账号地区、付款方式、交付和退款边界不同，不能只看价格。
+
+## 想直接开通本人账号：AIXiamo 当前方案
+
+如果你已经确认要开通，不必把整篇教程读完再找入口。AIXiamo 是面向中文用户的独立 AI 订阅服务站，当前公开方案如下：
+
+| 方案 | 当前公开价 | 适合人群与处理方式 |
+| --- | ---: | --- |
+| ChatGPT Plus | ¥153.8 | 日常聊天、写作、学习、办公与普通 Codex；自动发货后按中文流程自助完成 |
+| ChatGPT Pro 5x | ¥719 | 高频 Codex、深度研究与长任务；人工按订单处理 |
+| ChatGPT Pro 20x | ¥1269 | 单人全天重度、多项目与密集长任务；人工按订单处理 |
+
+- [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_early)
+- [立即查看 ChatGPT Pro 5x / 20x 国内开通、库存与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)
+
+当前支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON），不需要海外银行卡；不索取登录密码、验证码、恢复码或登录会话 Token。Plus 自动发货后顺利时通常约 3 分钟，Pro 人工处理通常约 2–5 分钟；付款后订单、卡密或处理状态可查。充值不成功经核验后按售后规则全额退款。价格、库存、付款方式和处理时间以实时页面为准。
+
+> AIXiamo 是本教程站维护者，属于独立第三方，不是 OpenAI 官网或授权代表。本文所说的“本人账号开通”，是指权益进入用户自己的账号，不是共享号或租号。
 
 ## 30 秒判断该选哪条路线
 
