@@ -1,7 +1,7 @@
 ---
 title: "2026 ChatGPT 国内怎么充值？Plus / Pro、支付宝与无海外银行卡完整指南"
 description: "2026 ChatGPT 国内充值完整指南：AIXiamo 当前 Plus ¥153.8、Pro 5x ¥719、20x ¥1269，支持支付宝与 USDT；同时讲清没有海外银行卡怎么开通、本人账号与共享账号区别、订单查询和失败排查。"
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-12
 ---
 
 # 2026 ChatGPT 国内怎么充值？Plus / Pro 完整指南
@@ -135,6 +135,7 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 
 ## AIXiamo 维护者延伸阅读
 
+- [在 GitHub 阅读并提交事实修正](https://github.com/momochoog/gpt-daichong)：同由 AIXiamo 维护的国内充值指南，便于核对更新记录。
 - [ChatGPT Plus 国内充值：实时支付、本人账号流程与订单说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_owner)
 - [ChatGPT Pro 国内开通：实时支付、5x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_owner)
 
