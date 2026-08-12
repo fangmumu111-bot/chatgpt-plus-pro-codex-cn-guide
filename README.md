@@ -41,6 +41,8 @@
 - 多人协作先看组织方案；个人 Plus / Pro 不等于共享席位。
 - 第三方服务必须清楚披露商品、交付、订单查询、售后与退款规则。
 
+完整检查表与浏览器本地工具：[GPT代充安全吗？购买前安全核验清单](https://github.com/fangmumu111-bot/gpt-daichong-safety-checklist)。
+
 ## 事实依据与维护关系
 
 - [官方来源与核对日期](SOURCES.md)
