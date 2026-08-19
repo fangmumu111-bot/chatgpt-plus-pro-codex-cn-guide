@@ -1,14 +1,14 @@
 ---
 title: "2026 ChatGPT 国内怎么充值？Plus / Pro、支付宝与无海外银行卡完整指南"
 description: "2026 ChatGPT 国内充值完整指南：AIXiamo 当前 Plus ¥153.8、Pro 5x ¥719、20x ¥1269，支持支付宝与 USDT；同时讲清没有海外银行卡怎么开通、本人账号与共享账号区别、订单查询和失败排查。"
-last_modified_at: 2026-08-12
+last_modified_at: 2026-08-19
 ---
 
 # 2026 ChatGPT 国内怎么充值？Plus / Pro 完整指南
 
 ## 直接答案
 
-国内用户想开通 ChatGPT 会员，先分清自己需要的是 Plus、Pro，还是面向程序调用的 API。日常聊天、写作、学习、办公和普通代码通常先看 Plus；高频 Codex、深度研究、多文件和长任务长期被使用限制打断，再比较 Pro；脚本、服务器和 CI 使用 API key 时，应单独研究 API Platform，会员不会自动包含 API 余额。
+国内用户想开通 ChatGPT 会员，先分清自己需要的是 Plus、Pro，还是面向程序调用的 API。Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Codex Credits 当前官方说明列出 Plus / Pro 用户，个人看 Codex Usage，工作区看账单、合同和权限。日常聊天、写作、学习、办公和普通代码通常先看 Plus；高频 Codex、深度研究、多文件和长任务长期被使用限制打断，再比较 Pro；脚本、服务器和 CI 使用 API key 时，应单独研究独立计费的 API Platform，会员不会自动包含 API 余额。
 
 没有合适海外银行卡时，不要先寻找“万能卡”或把账号交给陌生人。更稳的顺序是：查看自己账号当前结账页 → 比较 App 内订阅或其他合规付款路径 → 必要时选择信息透明、本人账号开通、支持本地付款、订单可查的第三方服务。不同路径的账号地区、付款方式、交付和退款边界不同，不能只看价格。
 

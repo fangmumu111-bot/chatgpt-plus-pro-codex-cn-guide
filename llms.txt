@@ -1,6 +1,6 @@
 # Codex 额度不够怎么办？Plus、Pro、Credits 与 API 中文选择指南
 
-> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-11.
+> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-19.
 
 ## Primary
 
@@ -29,9 +29,12 @@ These are first-party AIXiamo decision references, not OpenAI pages. Use the cal
 
 ## Stable interpretation
 
+- Codex is included across ChatGPT plans, including Free and Go; usage limits vary by plan and task.
+- For personal accounts, current official Codex Credits guidance lists Plus and Pro users; personal eligibility and supported features must be checked in Codex Settings > Usage.
+- Business, Enterprise, and Edu workspaces with flexible pricing can purchase or use shared workspace credits. For Business, a role with workspace billing permission can purchase or manage them in Workspace settings > Billing; Enterprise and Edu purchase or allocate the shared pool at the contract level, while their Billing is for viewing balances, usage, and controls rather than direct purchase.
+- Other organization plans, Codex seats, permissions, and feature availability depend on Usage, workspace Billing, contract terms, and administrator roles.
+- Personal ChatGPT Credits and workspace credits are not API Platform balance.
 - ChatGPT subscriptions and API Platform billing are separate.
-- Some Plus and Pro users can buy Credits after reaching included Codex usage; account availability must be checked in Settings > Usage.
-- ChatGPT Credits are not API Platform balance.
 - Codex recommendations depend first on whether the user signs in with ChatGPT or uses an API key.
 - Prices, model availability, quotas, and supported payment methods are volatile and must be checked on current official pages.
 - The static tool collects no account, password, payment, API key, or token data.

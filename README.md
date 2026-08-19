@@ -2,14 +2,14 @@
 
 一个面向中文用户的独立决策手册：先分清使用入口和真实需求，再决定保持当前计划、比较 Plus / Pro，还是单独走 API。
 
-> 2026-08-11 更新：套餐、模型和额度会变化。本仓库不把易变价格或额度写死，最终以你账号里当时显示的信息为准。
+> 2026-08-19 更新：OpenAI 当前说明 Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量和可用功能依计划变化；Credits 仅对符合条件的计划和账号开放；个人账号以 Codex Settings → Usage 为准，工作区账号依 Workspace settings → Billing、合同和管理员权限；API Platform 独立计费。套餐、模型和额度会变化，最终以你账号里当时显示的信息为准。
 
 ## 先用 30 秒判断
 
 | 你的主要需求 | 优先研究的路径 | 先别做什么 |
 | --- | --- | --- |
 | ChatGPT 网页或 App：聊天、写作、学习、办公 | 先比较 Plus | 不要因为偶发限制直接升最高档 |
-| Codex，使用 ChatGPT 账号登录 | 先看 Usage 是否可购买 Credits，再比较 Plus / Pro | 不要把 Credits、API 余额和订阅额度混为一谈 |
+| Codex，使用 ChatGPT 账号登录 | 先用当前 Free / Go / Plus / Pro 等计划；个人账号看 Codex Settings → Usage，工作区看 Workspace settings → Billing、合同和管理员权限 | 不要把 Credits、API 余额和计划内用量混为一谈 |
 | 高频多文件、长任务、深度研究，当前限制持续打断工作 | 比较 Pro | 不要把个人计划当作多人共享席位 |
 | 程序、脚本、服务器、CI 或显式 API key | API | 不要以为 ChatGPT 会员自动包含 API 账单 |
 | 网页端与程序调用都需要 | 会员与 API 分开评估 | 不要只买其中一个就假设两边都能用 |

@@ -1,20 +1,20 @@
 ---
 title: "Codex 额度不够怎么办？Credits、Pro 还是 API"
-description: "Codex 额度用完先看 Settings → Usage 是否可购买 Credits，再按中断频率比较等待重置、升级 Pro 或使用独立 API。"
-last_modified_at: 2026-08-09
+description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；额度用完先看 Usage 或工作区 Billing，再比较等待重置、Pro 或独立 API。"
+last_modified_at: 2026-08-19
 ---
 
 # Codex 额度用完怎么办，Plus 够不够？
 
 ## 直接答案
 
-先确认这次中断真的是额度问题，而不是登录账号、客户端版本、模型可用性、权限或本地环境。确认达到 Codex 包含用量后，先打开 `Settings → Usage`：部分 Plus / Pro 用户会看到购买 Credits 的选项，可以在不立即升级订阅的情况下继续使用；如果当前账号没有该选项，再比较等待重置、升级 Pro 或把自动化任务迁到 API。
+Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计划和任务复杂度变化。先确认这次中断真的是额度问题，而不是登录账号、客户端版本、模型可用性、权限或本地环境。达到计划内用量后，个人账号只有符合条件时才会在 `Codex Settings → Usage` 看到 Credits 入口；当前个人 Codex Credits 官方说明列出 Plus / Pro 用户。Business 工作区由有权限的角色在 `Workspace settings → Billing` 购买或管理共享 workspace credits；Enterprise / Edu 的共享 credits 按合同层级购买或分配，Billing 用于查看余额、用量与控制，不能把 Billing 当作直接购买入口。其他组织计划、Codex seats、权限和可用功能应以 Usage、工作区 Billing、合同和管理员角色为准。若当前个人账号没有入口，再比较等待重置、升级 Pro 或把自动化任务迁到独立计费 API。
 
-Credits 是会员下支持功能的额外用量，不是 API 余额；是否可购买、可用于哪些功能，以当前账号 Usage 页面显示为准。
+个人 Credits 与 workspace credits 是支持功能的额外用量，不是 API 余额；个人是否可购买以 Codex Settings → Usage 为准，工作区是否可用以 Billing、合同和管理员权限为准；API Platform 独立计费。
 
 ## 排查顺序
 
-1. 查看 Codex 当前用量或提示信息，记录重置时间，并检查 `Settings → Usage` 是否显示购买 Credits。
+1. 查看 Codex 当前用量或提示信息，记录重置时间；个人账号检查 `Codex Settings → Usage`，工作区请由有权限的角色检查 `Workspace settings → Billing`，并核对合同和管理员权限。
 2. 确认登录的是预期 ChatGPT 账号，或使用的是预期 API key。
 3. 确认客户端版本、当前模型和工作区权限。
 4. 区分偶发峰值与持续不足。
@@ -24,11 +24,11 @@ Credits 是会员下支持功能的额外用量，不是 API 余额；是否可�
 ## 什么时候先购买 Credits
 
 - 偶发触顶，但当前 Plus / Pro 大多数时间够用。
-- Usage 页面明确显示可购买 Credits。
+- 个人账号的 Codex Settings → Usage 显示可购买 Credits，或工作区 Billing、合同和权限显示 workspace credits 可用。
 - 只需要短期完成一批任务，不想立刻长期升级。
 - 已确认 Credits 适用于当前要继续使用的 Codex 功能。
 
-如果账号没有购买入口，不要假设所有地区和账号都能购买；改为等待重置，或按长期使用强度比较 Pro 与 API。
+如果个人账号没有购买入口，不要假设所有地区和账号都能购买；工作区还要核对 credits 是否启用、Workspace settings → Billing、合同和管理员权限。之后改为等待重置，或按长期使用强度比较 Pro 与 API。
 
 ## Plus 可能仍然够用的情况
 

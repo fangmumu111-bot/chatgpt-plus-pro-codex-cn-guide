@@ -51,7 +51,7 @@
         "inLanguage": "zh-CN",
         "isAccessibleForFree": true,
         "datePublished": "2026-07-21",
-        "dateModified": "2026-08-11",
+        "dateModified": "2026-08-19",
         "publisher": {
           "@type": "Organization",
           "name": "AIXiamo",
@@ -106,14 +106,14 @@
           <p class="hero__signal">2026 Codex 中文决策工具</p>
           <h1 id="hero-title">Codex 额度不够，下一步选 Credits、Pro 还是 API？</h1>
           <p class="hero__lede">
-            Codex 额度用完能否购买 Credits、Plus 和 Pro 怎么选、什么时候单独用 API——最多四步，给出能解释的建议，而不是默认推荐最贵方案。
+            Codex 可在 Free / Go / Plus / Pro 等 ChatGPT 计划中使用；额度用完能否购买 Credits、Plus 和 Pro 怎么选、什么时候单独用 API——最多四步，给出能解释的建议，而不是默认推荐最贵方案。
           </p>
           <div class="hero__actions">
             <a class="button button--primary" href="#decision-tool">开始判断</a>
             <a class="button" href="#quick-map">先看选择表</a>
           </div>
           <p class="hero__note">
-            不收集账号或支付信息，不写死易变价格和额度。Credits 是否可买、适用功能和当前用量，以你的 Usage 页面显示为准。
+            不收集账号或支付信息，不写死易变价格和额度。Credits 仅对符合条件的计划和账号开放；个人账号以 Codex Settings → Usage 为准，工作区账号依 Workspace settings → Billing、合同和管理员权限；API Platform 独立计费。
           </p>
         </div>
 
@@ -154,7 +154,7 @@
 
           <noscript>
             <div class="noscript">
-              JavaScript 关闭时仍可使用下方选择表。会员适合 ChatGPT/Codex 账号登录；程序、脚本和服务器调用优先研究 API。
+              JavaScript 关闭时仍可使用下方选择表。Free / Go / Plus / Pro 等计划都可用于 ChatGPT 账号登录的 Codex；程序、脚本和服务器调用优先研究独立计费 API。
             </div>
           </noscript>
         </section>
@@ -188,9 +188,9 @@
               <td data-label="先排除">提示词、环境和客户端问题</td>
             </tr>
             <tr>
-              <th scope="row">Codex，使用 ChatGPT 账号登录</th>
-              <td data-label="优先路径">先看 Usage 是否可购买 Credits</td>
-              <td data-label="先排除">把 Credits、API 余额和订阅混在一起</td>
+              <th scope="row">Codex，使用 ChatGPT 账号登录（Free / Go / Plus / Pro 等计划）</th>
+              <td data-label="优先路径">先用当前计划；个人账号看 Codex Settings → Usage，工作区看 Workspace settings → Billing、合同和管理员权限</td>
+              <td data-label="先排除">把 Credits、API 余额和计划内用量混在一起</td>
             </tr>
             <tr>
               <th scope="row">程序、脚本、服务器或 CI</th>
@@ -252,12 +252,12 @@
           </article>
           <article class="guide-row">
             <h3>Codex 需要会员，还是应该单独用 API？</h3>
-            <p>ChatGPT 账号登录看会员；API key、脚本和服务器调用看独立 API 账户与账单。</p>
+            <p>ChatGPT 账号登录看当前计划（含 Free / Go / Plus / Pro 等）；符合条件的计划和账号才会显示 Credits；API key、脚本和服务器调用看独立 API 账户与账单。</p>
             <a class="guide-row__link" href="./docs/codex-membership-vs-api.html">读完整指南 →</a>
           </article>
           <article class="guide-row">
             <h3>Codex 额度用完怎么办，能不能购买 Credits？</h3>
-            <p>先确认真的是额度并查看 Usage，再比较 Credits、等待重置、持续不足和适合迁移到 API 的自动化。</p>
+            <p>先确认真的是额度并查看 Usage 与 Credits 资格，再比较 Credits、等待重置、持续不足和适合迁移到独立计费 API 的自动化。</p>
             <a class="guide-row__link" href="./docs/codex-quota-usage.html">读完整指南 →</a>
           </article>
           <article class="guide-row">
@@ -283,7 +283,7 @@
             <li class="step">
               <span class="step__number">01</span>
               <h3>确认入口</h3>
-              <p>会员用于 ChatGPT/Codex 账号登录；API 用于程序化调用。两套账单不要混淆。</p>
+              <p>Free / Go / Plus / Pro 等计划可用于 ChatGPT/Codex 账号登录；API 用于程序化调用，API Platform 独立计费。</p>
             </li>
             <li class="step">
               <span class="step__number">02</span>
@@ -308,7 +308,7 @@
         <div class="fact-grid">
           <article class="fact">
             <h3>官方事实</h3>
-            <p>Plus、Pro、Codex、Credits 与 API 的关系来自 OpenAI 官方帮助资料，最后核对于 2026-08-09。</p>
+            <p>Free、Go、Plus、Pro、Codex、Credits 与 API 的关系来自 OpenAI 官方帮助资料，最后核对于 2026-08-19。</p>
             <a class="text-link" href="./SOURCES.html">查看来源 →</a>
           </article>
           <article class="fact">
@@ -337,7 +337,7 @@
             <a href="https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide">GitHub</a>
             <a href="./DISCLOSURE.html">披露</a>
           </nav>
-          <p class="footer__meta">AIXiamo 维护 · 非 OpenAI 官方 · 2026-08-09</p>
+          <p class="footer__meta">AIXiamo 维护 · 非 OpenAI 官方 · 2026-08-19</p>
         </div>
       </div>
     </footer>

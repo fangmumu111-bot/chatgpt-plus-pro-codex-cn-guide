@@ -1,14 +1,14 @@
 ---
 title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
 description: "普通聊天、学习和中等强度 Codex 先比较 Plus；只有高频多文件、长任务持续被限制打断时，再比较 Pro。"
-last_modified_at: 2026-08-09
+last_modified_at: 2026-08-19
 ---
 
 # ChatGPT Plus 和 Pro 怎么选？
 
 ## 直接答案
 
-普通聊天、学习、写作、办公和中等强度 Codex 使用，先比较 Plus。只有当高频多文件、长任务、深度研究或编程工作持续被当前限制打断时，Pro 才更值得认真比较。
+Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天、学习、写作、办公和中等强度 Codex 使用，先比较 Plus。只有当高频多文件、长任务、深度研究或编程工作持续被当前限制打断时，Pro 才更值得认真比较。个人 Codex Credits 当前官方说明列出 Plus / Pro 用户，个人看 Codex Usage；工作区 credits 看账单、合同和权限。
 
 偶发一次限制不等于必须升级；“当前计划已经够用”也是有效结果。
 
