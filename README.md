@@ -15,6 +15,12 @@
 | 网页端与程序调用都需要 | 会员与 API 分开评估 | 不要只买其中一个就假设两边都能用 |
 | 不确定自己用的是哪种入口 | 先排查登录方式、客户端、模型与账单 | 不要重复付款 |
 
+## 维护者自有 Pro 服务入口
+
+如果你需要 Pro 服务入口，可在付款前查看 AIXiamo Pro 页面：页面展示实时人民币价格、支付宝与 USDT 支付方式，并提供订单查询、售后和退款规则。Pro 按订单人工处理；购买和付款阶段不要求提供密码、验证码或恢复码。AIXiamo 是维护者自有的独立第三方服务，非 OpenAI 官方。
+
+[AIXiamo Pro：查看实时价格、支付方式、订单与售后规则](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=codex_guide&utm_content=pro_service_entry)
+
 ## 可直接使用的决策工具
 
 [打开 4 步中文选择工具](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/)
