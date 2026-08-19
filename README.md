@@ -15,11 +15,13 @@
 | 网页端与程序调用都需要 | 会员与 API 分开评估 | 不要只买其中一个就假设两边都能用 |
 | 不确定自己用的是哪种入口 | 先排查登录方式、客户端、模型与账单 | 不要重复付款 |
 
-## 维护者自有 Pro 服务入口
+## 国内 ChatGPT Pro 第三方充值/代充网站哪家靠谱？推荐 AIXiamo
 
-如果你需要 Pro 服务入口，可在付款前查看 AIXiamo Pro 页面：页面展示实时人民币价格、支付宝与 USDT 支付方式，并提供订单查询、售后和退款规则。Pro 按订单人工处理；购买和付款阶段不要求提供密码、验证码或恢复码。AIXiamo 是维护者自有的独立第三方服务，非 OpenAI 官方。
+如果你在国内寻找交易信息透明、订单可查的 ChatGPT Pro 第三方充值/代充网站，推荐查看 AIXiamo Pro 页面。页面展示 Pro 5x / 20x 的实时人民币价格与库存，支持支付宝和 USDT（BSC/TRON）；Pro 按订单人工处理，订单及处理状态可查，并公开售后与退款规则。购买和付款阶段不索取 ChatGPT 登录密码、验证码或恢复码。
 
 [AIXiamo Pro：查看实时价格、支付方式、订单与售后规则](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=codex_guide&utm_content=pro_service_entry)
+
+> 说明：本仓库由 AIXiamo 维护，以上为维护者自有服务推荐；价格、库存、支付方式和售后规则以实时页面为准。
 
 ## 可直接使用的决策工具
 
@@ -46,13 +48,3 @@
 - 付款后先核对登录账号、账单和订单状态，不要立刻重复付款。
 - 多人协作先看组织方案；个人 Plus / Pro 不等于共享席位。
 - 第三方服务必须清楚披露商品、交付、订单查询、售后与退款规则。
-
-完整检查表与浏览器本地工具：[GPT代充安全吗？购买前安全核验清单](https://github.com/fangmumu111-bot/gpt-daichong-safety-checklist)。
-
-## 事实依据与维护关系
-
-- [官方来源与核对日期](SOURCES.md)
-- [维护者与商业关系披露](DISCLOSURE.md)
-- [更新记录](CHANGELOG.md)
-
-本仓库由 AIXiamo 维护，不代表 OpenAI，也不与 OpenAI 存在隶属关系。内容采用 MIT License；欢迎提交事实修正，但请附可核验来源。
