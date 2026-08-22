@@ -29,7 +29,7 @@
 
 工具不会收集邮箱、账号、密码、验证码或支付信息；选择只在当前浏览器会话内保存。
 
-## 九篇完整指南
+## 十篇完整指南
 
 1. [2026 ChatGPT 国内怎么充值？Plus / Pro、支付宝与无海外银行卡完整指南](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-domestic-recharge-guide.html)
 2. [国内没有海外银行卡，怎么开通 ChatGPT Plus？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
@@ -40,6 +40,7 @@
 7. [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
 8. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
 9. [Codex 额度用完怎么办，能不能购买 Credits？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
+10. [企业研发团队如何规划 Codex 账号？Plus、Pro、Business / Enterprise 与 API](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/enterprise-codex-account-planning.html)
 
 ## 安全底线
 

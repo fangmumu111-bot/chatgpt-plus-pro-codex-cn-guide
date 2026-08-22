@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const CONTENT_VERSION = "2026-08-09";
+  const CONTENT_VERSION = "2026-08-22";
   const STORAGE_KEY = "aixiamo-ai-choice-map-v1";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -155,6 +155,7 @@
       changes: ["确认只有一个人使用", "团队需求缩小为独立个人任务"],
       verify: ["席位、权限和管理员需求", "数据控制、审计与账单归属"],
       links: [
+        { label: "查看企业 Codex 账号规划", url: `${PAGES_BASE}/docs/enterprise-codex-account-planning.html`, external: false },
         { label: "查看官方来源清单", url: `${PAGES_BASE}/SOURCES.html`, external: false }
       ]
     }
@@ -392,6 +393,7 @@
     { label: "ChatGPT Pro 5x 与 20x", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 额度" },
     { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },
     { label: "Codex 额度不足能否购买 Credits", meta: "指南", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, terms: "限额 用完 不够 credits 购买额度" },
+    { label: "企业研发团队如何规划 Codex 账号", meta: "指南", url: `${PAGES_BASE}/docs/enterprise-codex-account-planning.html`, terms: "企业 公司 团队 codex 账号 采购 批量 plus pro 5x 20x business enterprise api 发票 官方验真" },
     { label: "官方事实与核对日期", meta: "来源", url: `${PAGES_BASE}/SOURCES.html`, terms: "openai 官方 来源" },
     { label: "维护与商业关系披露", meta: "披露", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo utm 商业" }
   ];
