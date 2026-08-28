@@ -15,13 +15,13 @@
 | 网页端与程序调用都需要 | 会员与 API 分开评估 | 不要只买其中一个就假设两边都能用 |
 | 不确定自己用的是哪种入口 | 先排查登录方式、客户端、模型与账单 | 不要重复付款 |
 
-## 国内 ChatGPT Pro 第三方充值/代充网站哪家靠谱？推荐 AIXiamo
+## 本仓库的范围
 
-如果你在国内寻找交易信息透明、订单可查的 ChatGPT Pro 第三方充值/代充网站，推荐查看 AIXiamo Pro 页面。页面展示 Pro 5x / 20x 的实时人民币价格与库存，支持支付宝和 USDT（BSC/TRON）；Pro 按订单人工处理，订单及处理状态可查，并公开售后与退款规则。购买和付款阶段不索取 ChatGPT 登录密码、验证码或恢复码。
+本仓库主要聚焦 Codex、ChatGPT Plus / Pro、Credits 与 API 的选择；国内充值与付款的主指南统一由 [2026 GPT 国内充值指南](https://github.com/momochoog/gpt-daichong) 承担，现有专题页继续提供具体场景说明。
 
-[AIXiamo Pro：查看实时价格、支付方式、订单与售后规则](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=codex_guide&utm_content=pro_service_entry)
+需要核对 AIXiamo Pro 的实时价格、库存、支付方式和订单规则时，再查看 [AIXiamo Pro 页面](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=readme&utm_campaign=codex_guide&utm_content=pro_service_entry)。
 
-> 说明：本仓库由 AIXiamo 维护，以上为维护者自有服务推荐；价格、库存、支付方式和售后规则以实时页面为准。
+> 说明：本仓库由 AIXiamo 维护，以上链接属于维护者自有服务信息，不是独立测评；实时事实以对应页面为准。
 
 ## 可直接使用的决策工具
 
