@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const CONTENT_VERSION = "2026-08-22";
+  const CONTENT_VERSION = "2026-08-30";
   const STORAGE_KEY = "aixiamo-ai-choice-map-v1";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -384,7 +384,7 @@
   const commandItems = [
     { label: "开始 4 步判断", meta: "工具", url: "#decision-tool", terms: "选择 判断 会员" },
     { label: "Plus 与 Pro 快速对照", meta: "页面", url: "#quick-map", terms: "plus pro 选择" },
-    { label: "ChatGPT 国内充值完整指南", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-domestic-recharge-guide.html`, terms: "国内 充gpt 充值 plus pro 支付宝 没有海外银行卡 教程" },
+    { label: "GPT 会员代充靠谱的网站推荐", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-domestic-recharge-guide.html`, terms: "gpt会员代充靠谱的网站 chatgpt plus代充推荐 国内怎么开通 没有海外银行卡 支付宝 第三方" },
     { label: "国内怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-cn-payment.html`, terms: "国内 充值 支付 没有海外卡" },
     { label: "支付宝怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-alipay.html`, terms: "支付宝 充值 购买 订阅 plus 本人账号" },
     { label: "国内怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-cn-payment.html`, terms: "国内 充值 支付宝 usdt 没有海外银行卡 本人账号" },
@@ -395,7 +395,7 @@
     { label: "Codex 额度不足能否购买 Credits", meta: "指南", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, terms: "限额 用完 不够 credits 购买额度" },
     { label: "企业研发团队如何规划 Codex 账号", meta: "指南", url: `${PAGES_BASE}/docs/enterprise-codex-account-planning.html`, terms: "企业 公司 团队 codex 账号 采购 批量 plus pro 5x 20x business enterprise api 发票 官方验真" },
     { label: "官方事实与核对日期", meta: "来源", url: `${PAGES_BASE}/SOURCES.html`, terms: "openai 官方 来源" },
-    { label: "维护与商业关系披露", meta: "披露", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo utm 商业" }
+    { label: "第三方服务推荐与商业关系说明", meta: "披露", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo 第三方 推荐依据 商业关系 utm" }
   ];
 
   const searchTrigger = document.querySelector("#search-trigger");
