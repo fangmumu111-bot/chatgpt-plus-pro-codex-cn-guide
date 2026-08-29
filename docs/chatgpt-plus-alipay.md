@@ -1,7 +1,7 @@
 ---
 title: "支付宝怎么开通 ChatGPT Plus？2026 国内本人账号充值步骤"
 description: "支付宝开通 ChatGPT Plus 教程：AIXiamo 当前 Plus ¥153.8，无需海外银行卡；讲清本人账号、自助流程、约3分钟、订单查询、失败排查与退款边界。"
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-30
 ---
 
 # 支付宝怎么开通 ChatGPT Plus？国内本人账号充值步骤
@@ -16,7 +16,7 @@ AIXiamo 当前 ChatGPT Plus 公开价为 **¥153.8**，支持支付宝、USDT-BE
 
 [立即查看 ChatGPT Plus 实时价格、库存与支付宝入口](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_alipay_owner)
 
-> AIXiamo 是本教程站维护者，属于独立第三方，不是 OpenAI 官网或授权代表。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款。
+> AIXiamo 是相对 OpenAI 的独立第三方服务，不是 OpenAI 官网或授权代表。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款；推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
 
 ## 支付宝开通 Plus 的完整步骤
 
@@ -66,4 +66,3 @@ AIXiamo 当前流程是自动发货后自助完成，顺利时通常约 3 分钟
 - [2026 ChatGPT 国内充值完整路线](./chatgpt-domestic-recharge-guide.html)
 - [没有海外银行卡，怎么开通 ChatGPT Plus？](./chatgpt-plus-cn-payment.html)
 - [ChatGPT Plus 和 Pro 怎么选？](./chatgpt-plus-vs-pro.html)
-
