@@ -1,7 +1,7 @@
 ---
 title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
 description: "普通聊天、学习和中等强度 Codex 先比较 Plus；只有高频多文件、长任务持续被限制打断时，再比较 Pro。"
-last_modified_at: 2026-08-19
+last_modified_at: 2026-08-30
 ---
 
 # ChatGPT Plus 和 Pro 怎么选？
@@ -37,8 +37,8 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 - 把个人会员共享给多人使用。
 - 只看商品名称，不看交付、订单查询和售后规则。
 
-## 维护者延伸阅读
+## 第三方服务参考
 
-[AIXiamo：ChatGPT Plus 与 Pro 中文对照（自有页面）](https://www.aixiamo.com/chatgpt-plus-vs-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_pro_decision)
+[AIXiamo：ChatGPT Plus 与 Pro 中文对照](https://www.aixiamo.com/chatgpt-plus-vs-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_pro_decision)
 
-> 披露：AIXiamo 是本仓库维护者。请以当前官方账号显示和页面实时状态为准。
+> AIXiamo 是相对 OpenAI 的独立第三方服务；请以当前官方账号显示和页面实时状态为准。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
