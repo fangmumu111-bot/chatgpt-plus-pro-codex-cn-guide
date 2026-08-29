@@ -1,7 +1,7 @@
 ---
 title: "Codex 需要什么会员？Plus、Pro、Credits 与 API 的区别"
 description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；使用 API key、脚本或服务器时看独立 API 账户与账单。"
-last_modified_at: 2026-08-19
+last_modified_at: 2026-08-30
 ---
 
 # Codex 需要 Plus / Pro，还是应该单独用 API？
@@ -41,8 +41,8 @@ Codex 是工具入口，不是一个可以脱离登录方式单独判断的“�
 
 Windows 原生还是 WSL2，决定命令在哪种系统环境执行；完全访问权限和审批模式，决定 Codex 能访问哪些文件、能否联网以及何时确认；Plus / Pro / API 决定入口和使用量。三个维度应分开排查。
 
-## 维护者延伸阅读
+## 第三方服务参考
 
-[AIXiamo：Codex 与 ChatGPT 会员、API 的关系（自有页面）](https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_membership_api)
+[AIXiamo：Codex 与 ChatGPT 会员、API 的关系](https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_membership_api)
 
-> 披露：AIXiamo 是本仓库维护者。会员、API 与模型可用范围以当前官方说明为准。
+> AIXiamo 是相对 OpenAI 的独立第三方服务。会员、API 与模型可用范围以当前官方说明为准；推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
