@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 国内怎么开通？没有海外银行卡与支付宝支付指南"
 description: "ChatGPT Pro 国内充值与开通指南：没有海外银行卡时，先判断 Pro 是否必要，再核对支付宝或 USDT、本人账号、订单查询、5x / 20x 选择和售后边界。"
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-30
 ---
 
 # ChatGPT Pro 国内怎么开通？没有海外银行卡怎么办
@@ -51,11 +51,11 @@ AIXiamo 当前把两档商品标作 Pro 5x（100 美元档）与 Pro 20x（200 �
 
 依次检查：登录账号是否正确 → 登录方式是否一致 → 订单是否已付款 → 是否仍在人工处理 → ChatGPT 页面是否需要刷新或重新登录。先保存订单号与付款记录，再按订单页说明联系售后；不要因为页面没有立刻变化就再次付款。
 
-## 维护者延伸阅读
+## 第三方服务参考
 
-[AIXiamo：ChatGPT Pro 国内开通、实时支付与订单说明（自有页面）](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)
+[AIXiamo：ChatGPT Pro 国内开通、实时支付与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)
 
-> 披露：AIXiamo 是本仓库维护者，属于独立第三方，不是 OpenAI 官网。上方链接用于延伸阅读和来源统计；实时价格、库存、付款方式与售后规则以页面当前显示为准。
+> AIXiamo 是相对 OpenAI 的独立第三方服务，不是 OpenAI 官网或授权代表；实时价格、库存、付款方式与售后规则以页面当前显示为准。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
 
 ## 继续判断
 
