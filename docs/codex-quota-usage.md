@@ -1,7 +1,7 @@
 ---
 title: "Codex 额度不够怎么办？Credits、Pro 还是 API"
 description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；额度用完先看 Usage 或工作区 Billing，再比较等待重置、Pro 或独立 API。"
-last_modified_at: 2026-08-19
+last_modified_at: 2026-08-30
 ---
 
 # Codex 额度用完怎么办，Plus 够不够？
@@ -60,8 +60,8 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 - 不要同时开启多个目标相同的任务。
 - 把项目约束写入 `AGENTS.md`，减少反复解释。
 
-## 维护者延伸阅读
+## 第三方服务参考
 
-[AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查（自有页面）](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery)
+[AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery)
 
-> 披露：AIXiamo 是本仓库维护者。额度与计量规则会变化，先核对当前官方说明。
+> AIXiamo 是相对 OpenAI 的独立第三方服务。额度与计量规则会变化，先核对当前官方说明；推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
