@@ -1,7 +1,7 @@
 ---
 title: "企业研发团队如何规划 Codex 账号：Plus、Pro 5x、Pro 20x、Business / Enterprise 与 API"
 description: "从账号归属、Codex 用量、集中管理、官方验真、发票与售后边界，判断企业应采用独立 Plus / Pro、Business / Enterprise 工作区还是 API。"
-last_modified_at: 2026-08-22
+last_modified_at: 2026-08-30
 ---
 
 # 企业研发团队如何规划 Codex 账号？
@@ -100,9 +100,9 @@ AIXiamo 是独立第三方采购、开通与售后协助服务，不是 OpenAI �
 
 企业联系人可发送邮件至 duanxiamo@gmail.com，建议只说明公司或团队称呼、预计人数、Codex 场景、套餐倾向、是否需要协助准备账号、期望时间和发票要求；首次联系不要发送密码、验证码或恢复码。
 
-[AIXiamo 企业 AI 账号采购与合作说明（维护者自有页面）](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=enterprise_codex_account_planning_20260822&utm_content=enterprise_owner)
+[AIXiamo 企业 AI 账号采购与合作说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=enterprise_codex_account_planning_20260822&utm_content=enterprise_owner)
 
-> 披露：本仓库由 AIXiamo 维护，上述链接是维护者自有服务入口，不是独立第三方推荐。价格、库存、交付方式和官方规则均以咨询时实时信息为准。
+> AIXiamo 是相对 OpenAI 的独立第三方企业采购、开通与售后协助服务，不是 OpenAI 官方销售代理。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)；价格、库存、交付方式和官方规则均以咨询时实时信息为准。
 
 ## 企业采购 FAQ
 
