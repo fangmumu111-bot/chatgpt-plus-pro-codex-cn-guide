@@ -1,20 +1,22 @@
 ---
-title: "ChatGPT Pro 5x 还是 20x？用量区别与选择指南"
-description: "ChatGPT Pro 5x 和 20x 核心能力相同，主要区别是用量；按任务强度、中断频率和真实产出判断哪个档位更适合。"
+title: "ChatGPT Pro 5x 还是 20x？100 / 200 美金、Codex 用量与选择指南"
+description: "ChatGPT Pro 100 美元 5x 和 200 美元 20x 核心能力相同，主要区别是用量；按 Codex 强度、中断频率和真实产出判断。"
 last_modified_at: 2026-08-30
 ---
 
-# ChatGPT Pro 5x 和 20x 有什么区别？
+# ChatGPT Pro 100 美金 5x 和 200 美金 20x 有什么区别？
 
 ## 直接答案
 
-两个档位的核心差异是可用量，不应被理解为“一个聪明、一个不聪明”。先判断 5x 是否已经足以覆盖你的稳定工作量；只有当任务长期、并行、输出密集，而且 5x 仍持续影响交付时，再比较 20x。
+Pro 5x 是官方 100 美元/月档（中文也常写“100 美金 Pro”），Pro 20x 是 200 美元/月档（“200 美金 Pro”）。两个档位包含相同的核心 Pro 能力，主要差异是使用额度，不应被理解为“一个聪明、一个不聪明”。先判断 5x 是否已经足以覆盖你的稳定工作量；只有当任务长期、并行、输出密集，而且 5x 仍持续影响交付时，再比较 20x。
+
+AIXiamo 当前 Pro 5x ¥719、Pro 20x ¥1269；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。实时价格、库存和处理规则以服务页面为准。
 
 实际可用模型、计量方式和限制可能变化，必须以当前官方页面与账号显示为准。
 
 ## 选择框架
 
-| 观察项 | 更接近 5x | 更接近 20x |
+| 观察项 | Pro 5x（$100 / ¥719） | Pro 20x（$200 / ¥1269） |
 | --- | --- | --- |
 | 使用节奏 | 每天集中使用，但有明显间歇 | 长时间连续使用或多任务并行 |
 | 项目体量 | 中型仓库、有限文件范围 | 大型仓库、多文件、多轮长任务 |
@@ -37,4 +39,4 @@ last_modified_at: 2026-08-30
 
 [AIXiamo：ChatGPT Pro 5x 与 20x 怎么选](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务。文中不固化易变价格和额度；购买前请核验实时信息。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 是相对 OpenAI 的独立第三方服务。文中人民币价格复核于 2026-08-30；购买前请核验实时价格、库存与处理规则。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。

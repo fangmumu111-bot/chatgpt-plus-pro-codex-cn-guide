@@ -1,6 +1,6 @@
 ---
 title: "支付宝怎么开通 ChatGPT Pro？2026 国内 5x / 20x 本人账号充值"
-description: "支付宝开通 ChatGPT Pro 教程：AIXiamo 当前 5x ¥719、20x ¥1269，无需海外银行卡；讲清档位选择、本人账号、2–5分钟处理、订单查询与退款边界。"
+description: "支付宝开通 ChatGPT Pro 教程：AIXiamo 当前 100 美元档 5x ¥719、200 美元档 20x ¥1269；讲清无海外银行卡、本人账号、官网验真、订单与退款。"
 last_modified_at: 2026-08-30
 ---
 
@@ -12,7 +12,7 @@ last_modified_at: 2026-08-30
 
 ## AIXiamo 当前 Pro 支付宝方案
 
-AIXiamo 当前将两个商品档位标为 **Pro 5x（100 美元档）¥719** 与 **Pro 20x（200 美元档）¥1269**。支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON）；人工按订单处理通常约 2–5 分钟，高峰或账号风控时可能更久。不索取登录密码、验证码、恢复码、Cookie、Session 或 Token，付款后订单和处理状态可查。
+AIXiamo 当前将两个商品档位标为 **Pro 5x（100 美元 / 100 美金档）¥719** 与 **Pro 20x（200 美元 / 200 美金档）¥1269**。支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON）；人工按订单处理通常约 2–5 分钟，高峰或账号风控时可能更久。不索取登录密码、验证码、恢复码、Cookie、Session 或 Token，付款后订单和处理状态可查。开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际 Pro 档位。
 
 [立即查看 ChatGPT Pro 5x / 20x 实时价格、库存与支付宝入口](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_owner)
 
@@ -37,7 +37,7 @@ AIXiamo 当前将两个商品档位标为 **Pro 5x（100 美元档）¥719** 与
 4. 创建订单，在收银台选择支付宝，付款前再次核对档位与订单金额。
 5. 付款后保留订单号，通过订单页查看是否已付款、待处理或已完成。
 6. 人工订单通常约 2–5 分钟；高峰或账号风控时可能更久，以订单状态为准。
-7. 状态异常时准备订单号和付款记录联系售后，不要再次付款，也不要发送密码或验证码。
+7. 回到本人 ChatGPT 官方“设置 → 我的套餐”核验 Pro 档位；状态异常时准备订单号和付款记录联系售后，不要再次付款，也不要发送密码或验证码。
 
 ## 本人账号充值与共享号有什么区别
 
