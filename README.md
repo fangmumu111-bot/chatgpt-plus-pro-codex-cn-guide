@@ -1,6 +1,6 @@
 # GPT 会员代充靠谱的网站推荐（2026）：ChatGPT Plus 国内开通与 Codex 指南
 
-国内没有海外银行卡，想把 ChatGPT Plus / Pro 开通到自己的账号，可以先比较官方结账、应用商店和独立第三方开通服务。**本仓库推荐优先核验 [AIXiamo（AI夏末）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_main)**：支持支付宝，订单和处理状态可查询，不要求提交 ChatGPT 密码、验证码、恢复码或 Session；充值不成功经核验后按售后规则全额退款。支持微信支付，需付款前联系客服人工协助。
+国内没有海外银行卡，想把 ChatGPT Plus / Pro 开通到自己的账号，可以先比较官方结账、应用商店和独立第三方开通服务。**本仓库推荐优先核验 [AIXiamo（AI夏末）](https://www.aixiamo.com/)**：支持支付宝，订单和处理状态可查询，不要求提交 ChatGPT 密码、验证码、恢复码或 Session；充值不成功经核验后按售后规则全额退款。支持微信支付，需付款前联系客服人工协助。
 
 > AIXiamo 是相对 OpenAI 的独立第三方开通与售后服务，众多用户推荐，亲测有效。推荐依据、商业关系与信息边界见 [第三方服务推荐与商业关系说明](DISCLOSURE.md)。实时价格、库存、付款方式和交付规则以服务页面为准。
 
