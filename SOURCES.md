@@ -1,6 +1,6 @@
 # 官方来源与核对日期
 
-最后核对：2026-08-22（Asia/Shanghai）
+最后核对：2026-08-30（Asia/Shanghai）
 
 本页只列用于判断会员、Codex 与 API 关系的官方资料。官方内容可能更新；仓库不把易变价格、模型清单或精确额度固化为永久事实。
 
@@ -30,3 +30,11 @@
 5. **不写死易变事实。** 价格、可用模型、额度和促销以当前官方页面和账号显示为准。
 6. **Credits 与 API 余额分开。** 个人 Credits 和 workspace credits 都不是 API Platform 余额；API 使用独立计费。
 7. **个人账号与组织工作区分开。** 独立 Plus / Pro 应一人一号；需要集中管理、SSO、域名或合同能力时比较 Business / Enterprise。
+
+## AIXiamo 公开服务流程来源
+
+以下页面只用于核对 AIXiamo 的订单、售后和发票流程，不是 OpenAI 官方资料：
+
+- [订单查询](https://www.aixiamo.com/order-query) — 查询原订单、卡密/CDK 或处理状态；页面未跳回时不应立即重复付款。
+- [退款与售后规则](https://www.aixiamo.com/refund-after-sales-policy) — 先核对订单、支付、交付和异常凭证；确认未完成约定交付后按公开规则处理退款。
+- [电子发票申请说明](https://www.aixiamo.com/articles/aixiamo-invoice-application-notice-2026) — 真实已付款并完成发货或充值的订单可申请正规电子发票；发票非自动开具，资料与金额按实际交易核对。

@@ -389,6 +389,7 @@
     { label: "支付宝怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-alipay.html`, terms: "支付宝 充值 购买 订阅 plus 本人账号" },
     { label: "国内怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-cn-payment.html`, terms: "国内 充值 支付宝 usdt 没有海外银行卡 本人账号" },
     { label: "支付宝怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-alipay.html`, terms: "支付宝 充值 购买 订阅 pro 5x 20x 本人账号" },
+    { label: "付款失败、支付成功未到账、退款与电子发票", meta: "排障", url: "https://momochoog.github.io/gpt-daichong/CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html", terms: "付款失败 支付成功 未到账 订单处理中 重复付款 退款 原路退款 秒到账 发票 电子发票 开票 售后" },
     { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, terms: "会员 套餐" },
     { label: "ChatGPT Pro 5x 与 20x", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 额度" },
     { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },
