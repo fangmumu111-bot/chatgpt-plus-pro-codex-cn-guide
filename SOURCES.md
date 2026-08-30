@@ -7,7 +7,7 @@
 ## OpenAI 官方资料
 
 - [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) — Plus 是 ChatGPT 订阅；API 使用不包含在其中。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans) — Pro 面向高强度工作；不同 Pro 档位的核心区别是使用量。
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 100 美元 Pro 档约为 Plus 5x 用量，200 美元 Pro 档约为 Plus 20x 用量；两档核心能力相同，部分模型或功能可能有独立限额。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) — Codex 已包含在 ChatGPT 各计划中，包括 Free 和 Go；用量依计划和任务复杂度变化。
 - [Using credits for flexible usage in ChatGPT](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-free-go-plus-pro-sora) — 个人账号的 Codex Credits 当前官方说明列出 Plus / Pro 用户；个人资格和支持功能以 Codex Settings > Usage 显示为准，Credits 不是 API 余额。
 - [Flexible pricing for the Enterprise, Edu, and Business plans](https://help.openai.com/en/articles/11487671-flexible-pricing-for-chatgpt-enterprise-plans) — Business、Enterprise、Edu 等启用 flexible pricing 的工作区可购买或使用共享 workspace credits；Business 由有权限角色在 Workspace settings > Billing 购买或管理，Enterprise / Edu 的共享 credits 按合同层级购买或分配，其 Billing 用于查看余额、用量与控制而不是直接购买，其他组织计划和权限依 Usage、工作区账单、合同与管理员角色。
