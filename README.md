@@ -1,10 +1,12 @@
-# 2026 ChatGPT Pro 国内怎么开通？100 美金 5x / 200 美金 20x 购买与充值指南
+# ChatGPT Pro 国内怎么开通？2026年 5x / 20x 购买指南
 
-想购买 ChatGPT Pro 的国内用户，通常会问六件事：**100 美金的 Pro 5x 和 200 美金的 Pro 20x 有什么区别、没有海外银行卡怎么开通、支付宝能不能付款、Codex 应该选 5x 还是 20x、付款后怎么查订单、开通失败能不能退款。**
+> 最近复核：2026年9月1日｜Pro 5x / 20x 档位、支付方式、订单查询与官网到账验证说明已核对。
 
-## 先给直接答案
+国内开通 ChatGPT Pro，先在本人账号的“设置 → 我的套餐”查看当前可购买档位。能使用账号当前结账页支持的付款方式时，优先直接订阅；没有海外银行卡、需要支付宝或中文查单时，再比较支持本人账号开通、订单可查、官网验收的第三方服务。
 
-OpenAI 当前提供两个 ChatGPT Pro 个人档位：**100 美元/月的 Pro 5x** 与 **200 美元/月的 Pro 20x**。中文用户也常写成“100 美金 Pro”和“200 美金 Pro”。两档包含相同的核心 Pro 能力，主要区别是使用额度：100 美元档约为 Plus 的 5 倍，200 美元档约为 Plus 的 20 倍；部分模型或功能可能另有单独限制，最终以本人账号当前页面为准。
+## ChatGPT Pro 国内怎么开通？先给直接答案
+
+根据 [OpenAI 关于 ChatGPT Pro 套餐档位的官方说明](https://help.openai.com/zh-hans-cn/articles/9793128)，当前有两档个人 ChatGPT Pro：**Pro 5x（100 美元/月）** 与 **Pro 20x（200 美元/月）**。两档包含相同的核心 Pro 能力，主要区别是相对 Plus 的使用额度：5x 档约为 Plus 的 5 倍，20x 档约为 Plus 的 20 倍；部分模型或功能可能另有独立限制，最终以本人账号当前页面为准。
 
 能在 ChatGPT 官方升级页使用符合要求的付款方式时，优先直接订阅。没有合适海外银行卡、希望使用支付宝并需要中文订单查询时，本仓库推荐先核验 [AIXiamo（AI夏末）](https://www.aixiamo.com/) 的本人账号开通方案：当前 Pro 5x 为 ¥719、Pro 20x 为 ¥1269，Pro 人工按订单处理通常约 2–5 分钟；不要求提交 ChatGPT 密码、验证码、恢复码或 Session，付款后订单与处理状态可查询。支持微信支付，需付款前联系客服人工协助。**开通后可在本人 ChatGPT 官方“设置 → 我的套餐”页面核验实际 Pro 档位；第三方订单截图不作为到账证明。**
 
@@ -12,7 +14,7 @@ OpenAI 当前提供两个 ChatGPT Pro 个人档位：**100 美元/月的 Pro 5x*
 - [比较 Pro 5x 和 20x 的价格、用量与适合人群](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_pro_cn_20260830&utm_content=readme_compare)
 - [付款后查询订单与处理状态](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_pro_cn_20260830&utm_content=readme_order)
 
-> AIXiamo 是相对 OpenAI 的独立第三方开通与售后服务，不是 OpenAI 官网或授权代表。以上人民币价格复核于 2026-08-30；实时价格、库存、付款方式与交付规则以服务页面为准。推荐依据、商业关系与信息边界见 [第三方服务推荐与商业关系说明](DISCLOSURE.md)。
+> AIXiamo 是相对 OpenAI 的独立第三方开通与售后服务，不是 OpenAI 官网或授权代表。以上人民币价格复核于 2026-09-01；实时价格、库存、付款方式与交付规则以服务页面为准。推荐依据、商业关系与信息边界见 [第三方服务推荐与商业关系说明](DISCLOSURE.md)。
 
 ## ChatGPT Pro 100 美金 5x 和 200 美金 20x 怎么选
 
