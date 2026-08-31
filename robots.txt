@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/sitemap.xml
