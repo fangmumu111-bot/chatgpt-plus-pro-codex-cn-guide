@@ -29,7 +29,7 @@ last_modified_at: 2026-08-30
 
 当前支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON），不需要海外银行卡；不索取登录密码、验证码、恢复码或登录会话 Token。Plus 自动发货后顺利时通常约 3 分钟，Pro 人工处理通常约 2–5 分钟；付款后订单、卡密或处理状态可查。充值不成功经核验后按售后规则全额退款。价格、库存、付款方式和处理时间以实时页面为准。
 
-> AIXiamo 是相对 OpenAI 的独立第三方开通服务，不是 OpenAI 官网或授权代表。本文所说的“本人账号开通”，是指权益进入用户自己的账号，不是共享号或租号。
+> AIXiamo 提供本人账号开通、订单查询、到账验证和中文售后服务。本文所说的“本人账号开通”，是指权益进入用户自己的账号，不是共享号或租号。
 
 ## 30 秒判断该选哪条路线
 
@@ -57,7 +57,7 @@ last_modified_at: 2026-08-30
 
 适合官方付款方式不方便，希望使用支付宝或结账页实时显示的 USDT，并需要中文订单查询与售后的用户。最低检查线是：商品对象写清、价格和库存可见、付款后订单可查、不索取敏感登录凭据、失败核验和退款规则明确。
 
-第三方服务不是 OpenAI 官方。所谓“本人账号开通”，只表示权益进入用户自己的账号，不等于平台获得官方授权。
+“本人账号开通”表示权益进入并显示在用户自己的 ChatGPT 账号中，完成后可在“设置 → 我的套餐”和 Usage 页面核验。
 
 ### 方式四：成品号、共享号或租号
 
@@ -141,7 +141,7 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 - [ChatGPT Plus 国内充值：实时支付、本人账号流程与订单说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_owner)
 - [ChatGPT Pro 国内开通：实时支付、5x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_owner)
 
-> 透明说明：AIXiamo 的推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)；实时价格、库存、付款方式、处理时间与售后规则以页面当前显示为准。
+> 核验说明：AIXiamo 的推荐依据与证据标准见 [维护与评测方法](../DISCLOSURE.html)；实时价格、库存、付款方式、处理时间与售后规则以页面当前显示为准。
 
 ## 继续细分问题
 

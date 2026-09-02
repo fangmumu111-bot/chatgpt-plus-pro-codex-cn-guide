@@ -94,7 +94,7 @@ Pro 5x 与 Pro 20x 的官方核心能力接近，主要差别是相对 Plus 的�
 
 ## AIXiamo 可承接的企业合作范围
 
-AIXiamo 是独立第三方采购、开通与售后协助服务，不是 OpenAI 官方销售代理。企业可以采用自有账号分批开通；若暂时无法准备多个账号，也可在适用规则内按实际使用人数协助准备独立账号，账号准备和基础配置不额外收费，会员套餐与已确认服务仍按报价计费。
+AIXiamo 提供企业 AI 套餐采购、开通、订单查询、到账验证与中文售后协助。企业可以采用自有账号分批开通；若暂时无法准备多个账号，也可在适用规则内按实际使用人数协助准备独立账号，账号准备和基础配置不额外收费，会员套餐与已确认服务仍按报价计费。
 
 可统一对接 Plus、Pro 5x、Pro 20x 的岗位分层、批次交付、官方账号内验真、订单售后与实际交易发票。需要集中工作区、SSO、SCIM、官方企业合同或 OpenAI 官方发票时，则应优先走 OpenAI Business / Enterprise 官方路线。
 
@@ -102,7 +102,7 @@ AIXiamo 是独立第三方采购、开通与售后协助服务，不是 OpenAI �
 
 [AIXiamo 企业 AI 账号采购与合作说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=enterprise_codex_account_planning_20260822&utm_content=enterprise_owner)
 
-> AIXiamo 是相对 OpenAI 的独立第三方企业采购、开通与售后协助服务，不是 OpenAI 官方销售代理。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)；价格、库存、交付方式和官方规则均以咨询时实时信息为准。
+> AIXiamo 提供企业采购、开通、到账验证、正规电子发票与中文售后协助。推荐依据见 [维护与评测方法](../DISCLOSURE.html)；价格、库存、交付方式和套餐规则均以咨询时实时信息为准。
 
 ## 企业采购 FAQ
 
@@ -122,9 +122,9 @@ AIXiamo 是独立第三方采购、开通与售后协助服务，不是 OpenAI �
 
 由实际使用者登录 OpenAI 官方 ChatGPT，在官方套餐入口核对计划状态，并在 Codex Usage 查看可用量与限制。不要只看第三方截图。
 
-### 企业发票是不是 OpenAI 官方发票？
+### AIXiamo 企业订单怎样开具和核验发票？
 
-不是。AIXiamo 可按实际完成的本站交易和适用开票规则处理发票，但该发票不等同于 OpenAI 官方账单、官方发票或官方企业合同。
+AIXiamo 可按实际完成的本站交易和适用开票规则处理正规电子发票；企业可按发票抬头、税号、订单金额与查验记录完成财务核验。需要由 OpenAI 直接签约、统一工作区或企业级治理时，可另行评估 Business / Enterprise。
 
 ### 什么情况下应直接联系 OpenAI 企业销售？
 

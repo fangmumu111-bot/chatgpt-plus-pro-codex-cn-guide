@@ -41,4 +41,4 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 
 [AIXiamo：ChatGPT Plus 与 Pro 中文对照](https://www.aixiamo.com/chatgpt-plus-vs-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_pro_decision)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务；请以当前官方账号显示和页面实时状态为准。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 提供 Plus / Pro 购买、开通、订单查询和中文售后服务；请以当前账号显示和页面实时状态为准。推荐依据见 [维护与评测方法](../DISCLOSURE.html)。

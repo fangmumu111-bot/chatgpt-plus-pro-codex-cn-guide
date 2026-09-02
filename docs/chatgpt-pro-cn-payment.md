@@ -12,7 +12,7 @@ OpenAI 当前提供 **100 美元/月的 Pro 5x** 与 **200 美元/月的 Pro 20x
 
 AIXiamo 当前公开价格为 **Pro 5x ¥719、Pro 20x ¥1269**。开通后应在本人 ChatGPT 官方“设置 → 我的套餐”页面核验实际 Pro 档位；第三方订单截图不作为到账证明。实时价格、库存和交付规则以 Pro 页面为准。
 
-本文所说的“本人账号开通”，是把权益开到用户自己的 ChatGPT 账号，不是购买共享号或租号；第三方服务也不等于 OpenAI 官方授权。
+本文所说的“本人账号开通”，是把权益开到用户自己的 ChatGPT 账号，不是购买共享号或租号；完成后可在本人账号的套餐与 Usage 页面核验。
 
 ## 先判断 Plus 还是 Pro
 
@@ -57,7 +57,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 [AIXiamo：ChatGPT Pro 国内开通、实时支付与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务，不是 OpenAI 官网或授权代表；实时价格、库存、付款方式与售后规则以页面当前显示为准。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 提供 Pro 购买、本人账号开通、订单查询、到账验证和中文售后服务；实时价格、库存、付款方式与售后规则以页面当前显示为准。推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
 
 ## 继续判断
 

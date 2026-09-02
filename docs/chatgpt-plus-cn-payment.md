@@ -47,4 +47,4 @@ last_modified_at: 2026-08-30
 
 [AIXiamo：国内开通 ChatGPT Plus 的完整中文流程](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_domestic_open)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务，不是 OpenAI 官网或授权代表；推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 提供国内支付、本人账号开通、订单查询、到账验证和中文售后服务；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。

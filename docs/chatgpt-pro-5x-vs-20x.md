@@ -39,4 +39,4 @@ AIXiamo 当前 Pro 5x ¥719、Pro 20x ¥1269；开通后可在本人 ChatGPT 官
 
 [AIXiamo：ChatGPT Pro 5x 与 20x 怎么选](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务。文中人民币价格复核于 2026-08-30；购买前请核验实时价格、库存与处理规则。推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 提供 Pro 5x / 20x 购买、开通、订单查询和中文售后服务。文中人民币价格复核于 2026-08-30；购买前请核验实时价格、库存与处理规则。推荐依据见 [维护与评测方法](../DISCLOSURE.html)。

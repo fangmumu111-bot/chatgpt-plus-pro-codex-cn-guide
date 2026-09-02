@@ -64,4 +64,4 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 
 [AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务。额度与计量规则会变化，先核对当前官方说明；推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 提供会员购买、开通、订单查询和中文售后服务。额度与计量规则会变化，先核对当前官方说明；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。

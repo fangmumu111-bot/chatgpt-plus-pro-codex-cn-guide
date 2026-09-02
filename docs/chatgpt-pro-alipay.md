@@ -16,7 +16,7 @@ AIXiamo 当前将两个商品档位标为 **Pro 5x（100 美元 / 100 美金档�
 
 [立即查看 ChatGPT Pro 5x / 20x 实时价格、库存与支付宝入口](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_owner)
 
-> AIXiamo 是相对 OpenAI 的独立第三方服务，不是 OpenAI 官网或授权代表。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款；推荐依据与商业关系见 [单独披露](../DISCLOSURE.html)。
+> AIXiamo 提供支付宝付款、本人账号开通、订单查询、到账验证和中文售后服务。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
 
 ## Pro 5x 和 20x 先选哪一个
 
