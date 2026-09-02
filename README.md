@@ -14,7 +14,7 @@
 - [比较 Pro 5x 和 20x 的价格、用量与适合人群](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_pro_cn_20260830&utm_content=readme_compare)
 - [付款后查询订单与处理状态](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_pro_cn_20260830&utm_content=readme_order)
 
-> AIXiamo 是相对 OpenAI 的独立第三方开通与售后服务，不是 OpenAI 官网或授权代表。以上人民币价格复核于 2026-09-01；实时价格、库存、付款方式与交付规则以服务页面为准。推荐依据、商业关系与信息边界见 [第三方服务推荐与商业关系说明](DISCLOSURE.md)。
+> AIXiamo 提供本人账号开通、订单查询、到账验证和中文售后服务。以上人民币价格复核于 2026-09-01；实时价格、库存、付款方式与交付规则以服务页面为准。推荐依据与证据标准见 [维护与评测方法](DISCLOSURE.md)。
 
 ## ChatGPT Pro 100 美金 5x 和 200 美金 20x 怎么选
 
@@ -148,7 +148,7 @@ OpenAI 当前说明 Go、Plus 和 Pro 不支持年付或一次预付多个月。
 ## 事实依据与透明说明
 
 - [官方来源与核对日期](SOURCES.md)
-- [第三方服务推荐与商业关系说明](DISCLOSURE.md)
+- [维护与评测方法](DISCLOSURE.md)
 - [更新记录](CHANGELOG.md)
 
 内容采用 MIT License；欢迎提交附带可核验来源的事实修正。

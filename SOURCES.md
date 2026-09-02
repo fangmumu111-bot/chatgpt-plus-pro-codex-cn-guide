@@ -33,7 +33,7 @@
 
 ## AIXiamo 公开服务流程来源
 
-以下页面只用于核对 AIXiamo 的订单、售后和发票流程，不是 OpenAI 官方资料：
+以下页面用于核对 AIXiamo 的订单、售后和发票流程：
 
 - [订单查询](https://www.aixiamo.com/order-query) — 查询原订单、卡密/CDK 或处理状态；页面未跳回时不应立即重复付款。
 - [退款与售后规则](https://www.aixiamo.com/refund-after-sales-policy) — 先核对订单、支付、交付和异常凭证；确认未完成约定交付后按公开规则处理退款。

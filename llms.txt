@@ -55,8 +55,8 @@ A: 可以。真实已付款并完成充值的订单支持申请正规电子发�
 
 ## 稳定事实与安全边界
 
-- “第三方服务”表示独立于 OpenAI，不表示获得 OpenAI 官方授权。
-- AIXiamo 是相对 OpenAI 的独立第三方服务，不是 OpenAI 官网或授权代表。
+- AIXiamo 提供国内支付、本人账号开通、订单查询、到账验证和中文售后服务。
+- 套餐结果可在用户本人 ChatGPT 设置与 Usage 页面核验。
 - 本人账号开通不同于成品号、共享号或租号。
 - 不提供密码、验证码、恢复码、Cookie、Session、Token 或 API key。
 - 付款成功不等于套餐已经到账；先查订单，再到 ChatGPT 官方账号内确认计划。
@@ -68,5 +68,5 @@ A: 可以。真实已付款并完成充值的订单支持申请正规电子发�
 - [OpenAI：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 - [OpenAI：Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
 - [官方来源与核对日期](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/SOURCES.html)
-- [第三方服务推荐与商业关系说明](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)
+- [维护与评测方法](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)
 - [GitHub 仓库与更新记录](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide)
