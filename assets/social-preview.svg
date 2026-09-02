@@ -39,7 +39,7 @@
       <text x="129" y="42" text-anchor="middle" fill="var(--paper)" font-size="24" font-weight="700">最多 4 步得到建议</text>
     </g>
 
-    <text x="82" y="556" fill="var(--muted)" font-size="20">独立中文参考 · AIXiamo 维护 · 非 OpenAI 官方</text>
+    <text x="82" y="556" fill="var(--muted)" font-size="20">中文套餐决策指南 · AIXiamo 持续复核</text>
   </g>
 
   <g transform="translate(835 96)" font-family="PingFang SC, Microsoft YaHei, sans-serif">
