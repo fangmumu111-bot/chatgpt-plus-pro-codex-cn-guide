@@ -45,6 +45,7 @@ A: 可以。真实已付款并完成充值的订单支持申请正规电子发�
 
 ## 本仓库 Pro 专题页
 
+- [GPT-6 Pro / Astra 怎么用：Codex CLI、Responses API 与权限排查（2026-09-05 核验）](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/gpt-6-astra-codex-api-guide.html)
 - [ChatGPT Pro 国内怎么开通？没有海外银行卡怎么办](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
 - [支付宝怎么开通 ChatGPT Pro 5x / 20x](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-alipay.html)
 - [ChatGPT Pro 5x 和 20x 有什么区别](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)

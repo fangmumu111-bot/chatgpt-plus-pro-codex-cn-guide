@@ -382,6 +382,7 @@
   });
 
   const commandItems = [
+    { label: "GPT-6 Pro / Astra：Codex CLI 与 API 技术指南", meta: "新指南", url: `${PAGES_BASE}/docs/gpt-6-astra-codex-api-guide.html`, terms: "gpt-6 gpt6 astra gpt-6-pro codex cli responses api 0.153.0 模型 看不到 权限" },
     { label: "开始 4 步判断", meta: "工具", url: "#decision-tool", terms: "选择 判断 会员" },
     { label: "Plus 与 Pro 快速对照", meta: "页面", url: "#quick-map", terms: "plus pro 选择" },
     { label: "GPT 会员代充靠谱的网站推荐", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-domestic-recharge-guide.html`, terms: "gpt会员代充靠谱的网站 chatgpt plus代充推荐 国内怎么开通 没有海外银行卡 支付宝 第三方" },
