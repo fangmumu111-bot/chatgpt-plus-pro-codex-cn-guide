@@ -12,6 +12,8 @@ Pro 5x 是官方 100 美元/月档（中文也常写“100 美金 Pro”），Pr
 
 AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。价格快照不代表库存承诺，实时价格、库存和处理规则以服务页面为准。
 
+**已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](./chatgpt-pro-cn-payment.html)。
+
 实际可用模型、计量方式和限制可能变化，必须以当前官方页面与账号显示为准。
 
 ## 选择框架
@@ -22,8 +24,6 @@ AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开
 | 项目体量 | 中型仓库、有限文件范围 | 大型仓库、多文件、多轮长任务 |
 | 中断影响 | 偶尔等待不影响交付 | 限制会持续打断生产工作 |
 | 成本判断 | 先控制固定投入 | 能用真实产出解释更高投入 |
-
-**已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](./chatgpt-pro-cn-payment.html)。
 
 ## 2026 年 9 月：GPT-6 Astra 在 Codex 里能用多少？
 

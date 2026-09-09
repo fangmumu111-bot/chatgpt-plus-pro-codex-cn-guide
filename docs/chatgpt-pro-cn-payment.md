@@ -12,6 +12,8 @@ OpenAI 当前提供 **100 美元/月的 Pro 5x** 与 **200 美元/月的 Pro 20x
 
 AIXiamo 公开价格在 2026-09-09 核验为 **Pro 5x ¥719、Pro 20x ¥1269**。开通后应在本人 ChatGPT 官方“设置 → 我的套餐”页面核验实际 Pro 档位；第三方订单截图不作为到账证明。实时价格、库存和交付规则以 Pro 页面为准。
 
+**确认需要 Pro 后，下一步在这里：** [AIXiamo Pro 国内开通、当前价格与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)。先核对档位和库存，再按页面指引下单，不必回到首页寻找商品。
+
 本文所说的“本人账号开通”，是把权益开到用户自己的 ChatGPT 账号，不是购买共享号或租号；完成后可在本人账号的套餐与 Usage 页面核验。
 
 ## 先判断 Plus 还是 Pro
@@ -24,8 +26,6 @@ AIXiamo 公开价格在 2026-09-09 核验为 **Pro 5x ¥719、Pro 20x ¥1269**�
 | 多人共同使用 | 看组织方案 | 个人会员不应当作共享席位 |
 
 偶发一次触顶不等于必须升级。最好先记录一周：受限次数、任务规模、等待是否影响交付，以及缩小上下文后是否改善。
-
-**确认需要 Pro 后，下一步在这里：** [AIXiamo Pro 国内开通、当前价格与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)。先核对档位和库存，再按页面指引下单，不必回到首页寻找商品。
 
 ## 没有海外银行卡时怎么开通
 
