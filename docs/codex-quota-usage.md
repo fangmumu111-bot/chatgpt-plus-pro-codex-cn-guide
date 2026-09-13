@@ -47,7 +47,7 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 
 ### Codex 20x 怎么充值，还能续费吗？
 
-先确认你要办理的是 **ChatGPT Pro 20x 套餐**，而不是单独购买 API 余额或 Codex Credits。按 AIXiamo 当前受理条件，原订阅不是通过 App Store / Google Play 付款，且账号属于“尚未到期”或“已到期但仍显示 Pro 20x”之一，可以办理续费；新开通或升级 20x、到期后已不再显示 20x，以及原商店付款订阅暂不支持这项服务。使用苹果手机或 Google 登录不等于通过商店付款。
+**AIXiamo 可以办理用于 Codex 的 ChatGPT Pro 20x 套餐充值与续费。** 不确定账号是否适用，可先联系咨询与售后 QQ **928683877**。原订阅须非 App Store / Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x；具体受理范围见下方条件链接。这里办理的是 ChatGPT Pro 套餐，API 余额与 Codex Credits 另行计费；使用苹果手机或 Google 登录不等于通过商店付款。
 
 先查看 [当前开通与续费条件](chatgpt-pro-cn-payment.md#pro-availability)，符合条件后可到 [AIXiamo Pro 开通与续费页](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery) 核对实时价格和库存；有疑问可咨询 QQ **928683877**。付款后由客服按订单协助办理，完成后在本人 ChatGPT 套餐页核验，充值不成功全额退款。
 

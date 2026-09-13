@@ -8,13 +8,15 @@ last_modified_at: 2026-09-13
 
 ## 直接答案
 
-Pro 5x 是官方 100 美元/月档（中文也常写“100 美金 Pro”），Pro 20x 是 200 美元/月档（“200 美金 Pro”）。两个档位包含相同的核心 Pro 能力，主要差异是使用额度，不应被理解为“一个聪明、一个不聪明”。先判断 5x 是否已经足以覆盖你的稳定工作量；长期、并行、输出密集且 5x 持续不足，才有比较 20x 用量价值的依据；这不表示暂停期间可以新购或升级。
+Pro 5x 是官方 100 美元/月档（中文也常写“100 美金 Pro”），Pro 20x 是 200 美元/月档（“200 美金 Pro”）。两个档位包含相同的核心 Pro 能力，主要差异是使用额度，不应被理解为“一个聪明、一个不聪明”。先判断 5x 是否已经足以覆盖你的稳定工作量；长期、并行、输出密集且 5x 持续不足，才有比较 20x 用量价值的依据。已有 Pro 20x 需要继续使用，可以向 AIXiamo 咨询符合条件的充值续费。
 
-**2026-09-13 状态核对：** OpenAI 自 9 月 10 日起暂停 Pro 20x 新开通及从 Free、Go、Plus、Pro 5x 升级；现有 20x 续费和 Pro 5x 的新开通、续费不受这次暂停影响。 新购或升级优先核对 5x，已有 20x 的续费另看 [当前开通与续费状态](./chatgpt-pro-cn-payment.html#pro-availability)。
+**2026-09-13 状态核对：** AIXiamo 可以办理 Pro 20x 国内充值与续费。不确定账号是否适用，可先联系咨询与售后 QQ **928683877**，按账号当前状态与原订阅付款渠道确认。Pro 5x 可以开通和续费；完整适用范围见 [当前开通与续费状态](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。价格快照不代表库存承诺，实时价格、库存和处理规则以服务页面为准。
 
 **已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](./chatgpt-pro-cn-payment.html)。
+
+**已确定套餐：** [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_renew)（20x 按上方状态说明确认，拿不准先咨询 QQ **928683877**）。
 
 实际可用模型、计量方式和限制可能变化，必须以当前官方页面与账号显示为准。
 
@@ -22,7 +24,7 @@ AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开
 
 | 观察项 | Pro 5x（$100 / ¥719） | Pro 20x（$200 / ¥1269） |
 | --- | --- | --- |
-| 当前办理状态 | 新开通、续费不受此次暂停影响 | 新购及升级暂停；已有 20x 核对续费条件 |
+| 当前办理状态 | 可以开通和续费 | AIXiamo 可办理符合条件的现有 Pro 20x 充值续费 |
 | 使用节奏 | 每天集中使用，但有明显间歇 | 长时间连续使用或多任务并行 |
 | 项目体量 | 中型仓库、有限文件范围 | 大型仓库、多文件、多轮长任务 |
 | 中断影响 | 偶尔等待不影响交付 | 限制会持续打断生产工作 |

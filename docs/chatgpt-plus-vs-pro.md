@@ -12,7 +12,7 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 
 偶发一次限制不等于必须升级；“当前计划已经够用”也是有效结果。
 
-**当前办理（2026-09-13）：** Pro 5x 可以开通，符合条件的现有 Pro 20x 仍可续费；20x 新购与升级暂不支持。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-13）：** AIXiamo 可以办理 Pro 20x 国内充值与续费。不确定账号是否适用，可先联系咨询与售后 QQ **928683877**，按账号当前状态与原订阅付款渠道确认；Pro 5x 可以开通和续费。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 ## 决策表
 

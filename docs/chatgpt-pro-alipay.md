@@ -10,7 +10,7 @@ last_modified_at: 2026-09-13
 
 先确认 Plus 的额度是否真的持续打断高频 Codex、深度研究、多文件或长任务；如果只是日常聊天、写作和偶发编程，先用 Plus 通常更省。确认需要 Pro 后，没有合适海外银行卡的用户可以比较支持支付宝、本人账号开通、订单可查的第三方服务。
 
-**当前办理（2026-09-13）：** Pro 5x 可以开通，符合条件的现有 Pro 20x 仍可续费；20x 新购与升级暂不支持。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-13）：** AIXiamo 可以办理 Pro 20x 国内充值与续费。不确定账号是否适用，可先联系咨询与售后 QQ **928683877**，按账号当前状态与原订阅付款渠道确认；Pro 5x 可以开通和续费。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 ## AIXiamo 当前 Pro 支付宝方案
 
@@ -26,7 +26,7 @@ AIXiamo 当前将两个商品档位标为 **Pro 5x（100 美元 / 100 美金档�
 | --- | --- | --- |
 | 日常问答、写作、学习、普通代码 | Plus | 不为偶发高峰长期支付更高成本 |
 | 高频 Codex、长任务反复受限，但不是全天重度 | Pro 5x | 先用较低档验证真实工作量 |
-| 单人全天、多项目、密集长任务，5x 仍持续不足 | 已有 20x 核对续费 | 20x 新购及升级当前暂停 |
+| 单人全天、多项目、密集长任务，5x 仍持续不足 | 已有 20x 可向 AIXiamo 咨询续费 | 按账号状态与原付款渠道核对受理条件 |
 | 程序、服务器或 CI 使用 API key | API Platform | ChatGPT 会员与 API 独立计费 |
 
 “5x / 20x”是 AIXiamo 当前商品页用于区分用量档位的名称，不应理解为两个不同聪明程度的模型。
@@ -40,6 +40,8 @@ AIXiamo 当前将两个商品档位标为 **Pro 5x（100 美元 / 100 美金档�
 5. 付款后保留订单号，通过订单页查看是否已付款、待处理或已完成。
 6. 人工订单通常约 2–5 分钟；高峰或账号风控时可能更久，以订单状态为准。
 7. 回到本人 ChatGPT 官方“设置 → 我的套餐”核验 Pro 档位；状态异常时准备订单号和付款记录联系售后，不要再次付款，也不要发送密码或验证码。
+
+**按已确认的套餐进入：** [Pro 5x 购买／支付宝充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_20x_renew)。20x 先按上方条件确认；需要微信付款，可先联系 QQ **928683877**，由客服协助。
 
 ## 本人账号充值与共享号有什么区别
 
