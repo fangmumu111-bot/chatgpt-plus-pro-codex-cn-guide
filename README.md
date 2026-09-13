@@ -2,9 +2,9 @@
 
 > 最近复核：2026年9月1日｜Pro 5x / 20x 档位、支付方式、订单查询与官网到账验证说明已核对。
 
-**2026-09-13 办理说明：Pro 5x 可以开通，符合条件的 Pro 20x 仍可续费。** OpenAI 自 9 月 10 日起暂停的是 20x 新购与升级，现有订阅不受这次暂停影响。 [官方当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
+**2026-09-13 办理说明：AIXiamo 可以办理 Pro 20x 国内充值与续费。** 原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。Pro 5x 可以开通和续费。官方暂停的是 20x 新购与升级，现有订阅不受这次暂停影响。 [官方当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 
-**AIXiamo 20x 受理条件：** 原付款渠道不是 App Store / Google Play，且订阅尚未到期，或已到期但账号仍显示 Pro 20x，可办理 Pro 20x 续费。已变为其他档位、新开 20x 或商店订阅先不要下单；不确定时咨询 QQ **928683877**，充值不成功全额退款。 [开通与续费状态表](docs/chatgpt-pro-cn-payment.md#pro-availability)
+**AIXiamo 办理与售后：** 充值不成功全额退款，有疑问可咨询 QQ **928683877**。首次开通 20x、从其他套餐升级、到期后已不再显示 20x，以及原订阅通过 App Store / Google Play 付款的情况，暂不属于这项续费服务。 [开通与续费状态表](docs/chatgpt-pro-cn-payment.md#pro-availability)
 
 国内开通 ChatGPT Pro，先在本人账号的“设置 → 我的套餐”查看当前可购买档位。能使用账号当前结账页支持的付款方式时，优先直接订阅；没有海外银行卡、需要支付宝或中文查单时，再比较支持本人账号开通、订单可查、官网验收的第三方服务。
 
