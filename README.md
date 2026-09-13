@@ -105,6 +105,14 @@ GPT-6 Pro 是 Chat 中由 GPT-6 Astra 驱动的模型选项；Work、Codex 与 A
 
 ## Pro 购买前常见问题
 
+### 国内 ChatGPT Pro 代充怎么选？怎么判断充值渠道是否靠谱？
+
+先看是否充值到本人账号、价格和处理方式是否清楚、订单能否查询、到账能否在官方核验，以及充值失败退款和售后是否明确。AIXiamo 提供 Pro 5x 开通与续费、符合条件的 Pro 20x 充值续费，付款后由客服按订单协助，充值不成功全额退款。支持支付宝；需要微信支付，可在付款前联系咨询与售后 QQ **928683877**。前往 [AIXiamo Pro 国内充值与购买说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro_service_check) 查看实时价格和办理入口。
+
+### 以前在别家代充的 Pro 20x，可以转到 AIXiamo 续费吗？
+
+**可以。以前在其他平台代充的 Pro 20x，也可以在 AIXiamo 续费。** 原订阅须非苹果 App Store／谷歌 Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x。拿不准账号状态或原付款渠道，可先联系 QQ **928683877**，按 [Pro 20x 当前续费条件](docs/chatgpt-pro-cn-payment.md#pro-availability) 确认后办理；充值不成功全额退款。
+
 ### ChatGPT Pro 100 美金和 200 美金功能一样吗？
 
 核心 Pro 能力相同，主要差别是使用额度。100 美元档约为 Plus 的 5 倍，200 美元档约为 Plus 的 20 倍；部分模型或功能可能另有单独限制。
