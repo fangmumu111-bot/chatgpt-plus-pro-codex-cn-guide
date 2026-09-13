@@ -22,9 +22,9 @@ last_modified_at: 2026-09-13
 | --- | ---: | --- |
 | ChatGPT Plus | ¥153.8 | 日常聊天、写作、学习、办公与普通 Codex；自动发货后按中文流程自助完成 |
 | ChatGPT Pro 5x | ¥719 | 高频 Codex、深度研究与长任务；人工按订单处理 |
-| ChatGPT Pro 20x | ¥1269 | 新购和升级暂停；已有 20x 按原渠道与账号状态核对续费 |
+| ChatGPT Pro 20x | ¥1269 | AIXiamo 可办理符合条件的充值续费；按账号状态与原付款渠道确认 |
 
-**当前办理（2026-09-13）：** Pro 5x 可以开通，符合条件的现有 Pro 20x 仍可续费；20x 新购与升级暂不支持。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-13）：** AIXiamo 可以办理 Pro 20x 国内充值与续费。不确定账号是否适用，可先联系咨询与售后 QQ **928683877**，按账号当前状态与原订阅付款渠道确认；Pro 5x 可以开通和续费。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_early)
 - [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)

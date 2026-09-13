@@ -8,7 +8,7 @@ last_modified_at: 2026-09-13
 
 ## 直接答案
 
-**AIXiamo 可以办理 Pro 20x 国内充值与续费：原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。** Pro 5x 可以开通；充值不成功全额退款，有疑问可联系咨询与售后 QQ **928683877**。完整受理范围见下方状态表。
+**AIXiamo 可以办理 Pro 20x 国内充值与续费。** 不确定账号是否适用，可先联系咨询与售后 QQ **928683877**。原订阅须非苹果 App Store／谷歌 Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x。Pro 5x 可以正常开通和续费，Plus 未到期也可以直接办理；充值不成功全额退款。完整受理范围见下方状态表。
 
 OpenAI 当前提供 **100 美元/月的 Pro 5x** 与 **200 美元/月的 Pro 20x**。先确认 Plus 的使用量是否真的持续影响高频 Codex、深度研究、多文件或长任务；如果只是日常聊天、写作和偶发编程，Plus 往往已经够用。确认需要 Pro 后，优先查看自己账号当前升级页支持的付款方式；没有合适海外银行卡时，再比较支持支付宝或 USDT、本人账号开通、订单可查且写明售后边界的第三方服务。
 
@@ -21,18 +21,20 @@ AIXiamo 公开价格在 2026-09-09 核验为 **Pro 5x ¥719、Pro 20x ¥1269**�
 <a id="pro-availability"></a>
 ## 当前开通与续费状态
 
-**AIXiamo 目前可办理 Pro 5x 开通，以及符合以下条件的 Pro 20x 续费。** 20x 先核对原订阅付款渠道：通过 App Store 或 Google Play 付款开通的订阅，暂不在本服务受理范围；使用苹果手机或 Google 登录不等于通过商店付款。
+**AIXiamo 可以办理符合以下条件的 Pro 20x 充值续费，也可以办理 Pro 5x 开通。** 不确定原订阅付款渠道或当前套餐状态，可先咨询 QQ **928683877**；使用苹果手机或 Google 登录不等于通过商店付款。
 
 | 你现在的情况 | AIXiamo Pro 20x 能否办理 | 下一步 |
 | --- | --- | --- |
 | 已开通 20x，而且还没到期；原付款非 App Store / Google Play | 可以续费 | 到期前 2 天内安排最佳，不必等到期 |
 | 已过到期日，但账号仍显示 Pro 20x；原付款非 App Store / Google Play | 可以续费 | 按账号当前显示的状态办理 |
-| 从未开通 20x，或到期后已不再显示 20x | 暂不支持这项续费 | 按需求查看 Pro 5x |
+| 从未开通 20x、从其他套餐升级至 20x，或到期后已不再显示 20x | 暂不支持这项续费 | 按需求查看 Pro 5x |
 | 原订阅通过 App Store / Google Play 付款开通 | 暂不支持这项续费 | 在原付款渠道管理订阅 |
 
 符合条件即可按商品页下单。**充值不成功全额退款。** 有疑问可联系咨询与售后 QQ **928683877**，说明“当前档位、到期情况、原付款渠道”即可；付款后按订单由客服协助办理，完成后在本人账号核验实际套餐。
 
-**官方订阅状态（2026-09-13 核对）：** OpenAI 自 9 月 10 日起暂停 Pro 20x 新购与升级，现有 20x 及 Pro 5x 不受这次暂停影响。若已取消或安排降级，可在当前账期结束前撤销；实际订阅结束后，暂停期内不能重新购买 20x。[OpenAI 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
+[符合条件，前往 Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)。
+
+**官方订阅状态（2026-09-13 核对）：** 现有 Pro 20x 续费及 Pro 5x 不受此次暂停影响；AIXiamo 按上方账号状态和原付款渠道受理。OpenAI 自 9 月 10 日起暂停的是 Pro 20x 新购与升级。若已取消或安排降级，可在当前账期结束前撤销；若订阅实际结束、账号已不再显示 Pro 20x，暂停期内不能重新购买 20x。过了到期日但仍显示 Pro 20x 的情况，按上表确认即可。[OpenAI 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 
 ## 先判断 Plus 还是 Pro
 
@@ -64,7 +66,9 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ## 已经有 Plus，升级 Pro 前先确认什么？
 
-**可以。在 AIXiamo 办理 Plus 升级 Pro 5x，完成后覆盖为新的 30 天 Pro 5x，原 Plus 剩余天数不叠加。** 例如 Plus 还剩 10 天，办理后是 30 天 Pro 5x，不是 40 天。当前不能从 Plus 升级 Pro 20x。
+**可以。Plus 还没到期也能直接办理 Pro 5x，不用等到期。** AIXiamo 的 Pro 5x 可以正常开通和续费；完成后覆盖为新的 **30 天 Pro 5x**，原 Plus 剩余天数不叠加。例如 Plus 还剩 10 天，办理后是 30 天 Pro 5x，不是 40 天。有疑问可先咨询 QQ **928683877**，付款后由客服按订单协助办理。
+
+[前往 Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)。
 
 办理前核对 **当前套餐、原订阅付款渠道和到期时间**；不要默认本次升级会替你取消原有自动续费。有疑问可联系咨询与售后 QQ **928683877**，说明当前情况并确认订单起算时间，再按商品页下单。
 
@@ -94,6 +98,16 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 ## 第三方服务参考
 
 > 本指南为 AIXiamo 关联项目。上述服务说明于 2026-09-09 核对 Pro 5x / 20x 公开商品页；实时价格、库存、付款方式与售后规则以页面当前显示为准。维护关系与推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
+
+## 下单前常见问题
+
+### 以前在别处代充的 Pro 20x，可以找 AIXiamo 续费吗？
+
+**可以。以前在其他平台代充的 Pro 20x，也可以在 AIXiamo 续费。** 原订阅须非苹果 App Store／谷歌 Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x。拿不准原付款渠道或账号状态，可先联系咨询与售后 QQ **928683877**，确认后按订单办理；充值不成功全额退款。
+
+### Codex 5x、Codex 20x 怎么充值，买的是哪种套餐？
+
+这里所说的 Codex 5x／20x 充值，对应本人 ChatGPT 账号的 **Pro 5x／Pro 20x 套餐**。AIXiamo 的 Pro 5x 可以正常开通和续费，Plus 未到期也可直接办理；Pro 20x 按上方账号状态和原付款渠道确认续费。完成后在本人 ChatGPT 套餐页核验，再查看 Codex 用量。API 余额和 Codex Credits 另行计费，不与这两款会员商品混用。
 
 ## 继续判断
 
