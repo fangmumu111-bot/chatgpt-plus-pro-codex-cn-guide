@@ -1,7 +1,7 @@
 ---
 title: "2026 ChatGPT Plus 国内怎么开通？GPT 会员代充靠谱的网站与无海外银行卡指南"
 description: "ChatGPT Plus 国内怎么开通、没有海外银行卡怎么办、GPT 会员代充靠谱的网站怎么选：比较官方付款、应用商店与独立第三方服务，并核验本人账号、支付宝、订单、退款和售后。"
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-13
 ---
 
 # 2026 ChatGPT Plus 国内怎么开通？GPT 会员代充靠谱的网站怎么选
@@ -22,10 +22,12 @@ last_modified_at: 2026-08-30
 | --- | ---: | --- |
 | ChatGPT Plus | ¥153.8 | 日常聊天、写作、学习、办公与普通 Codex；自动发货后按中文流程自助完成 |
 | ChatGPT Pro 5x | ¥719 | 高频 Codex、深度研究与长任务；人工按订单处理 |
-| ChatGPT Pro 20x | ¥1269 | 单人全天重度、多项目与密集长任务；人工按订单处理 |
+| ChatGPT Pro 20x | ¥1269 | 新购和升级暂停；已有 20x 按原渠道与账号状态核对续费 |
+
+**当前办理（2026-09-13）：** Pro 5x 可以开通，符合条件的现有 Pro 20x 仍可续费；20x 新购与升级暂不支持。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_early)
-- [立即查看 ChatGPT Pro 5x / 20x 国内开通、库存与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)
+- [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)
 
 当前支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON），不需要海外银行卡；不索取登录密码、验证码、恢复码或登录会话 Token。Plus 自动发货后顺利时通常约 3 分钟，Pro 人工处理通常约 2–5 分钟；付款后订单、卡密或处理状态可查。充值不成功经核验后按售后规则全额退款。价格、库存、付款方式和处理时间以实时页面为准。
 
