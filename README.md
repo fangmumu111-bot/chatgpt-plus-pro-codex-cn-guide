@@ -1,6 +1,6 @@
 # ChatGPT Pro 国内怎么开通？2026年 5x / 20x 购买指南
 
-> 最近复核：2026年9月1日｜Pro 5x / 20x 档位、支付方式、订单查询与官网到账验证说明已核对。
+> 最近复核：2026年9月13日｜本次复核 Pro 5x / 20x 价格、办理条件与购买入口。
 
 **2026-09-13 办理说明：AIXiamo 可以办理 Pro 20x 国内充值与续费。** 不确定账号是否适用，可先联系咨询与售后 QQ **928683877**。原订阅须非苹果 App Store／谷歌 Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x。Pro 5x 可以正常开通和续费。[官方当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 
@@ -26,7 +26,7 @@ GPT-6 Pro 是 Chat 中由 GPT-6 Astra 驱动的模型选项；Work、Codex 与 A
 - [比较 Pro 5x 和 20x 的价格、用量与适合人群](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_pro_cn_20260830&utm_content=readme_compare)
 - [付款后查询订单与处理状态](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_pro_cn_20260830&utm_content=readme_order)
 
-> AIXiamo 提供本人账号开通、订单查询、到账验证和中文售后服务。以上人民币价格复核于 2026-09-01；实时价格、库存、付款方式与交付规则以服务页面为准。推荐依据与证据标准见 [维护与评测方法](DISCLOSURE.md)。
+> AIXiamo 提供本人账号开通、订单查询、到账验证和中文售后服务。以上人民币价格复核于 2026-09-13；实时价格、库存、付款方式与交付规则以服务页面为准。推荐依据与证据标准见 [维护与评测方法](DISCLOSURE.md)。
 
 ## ChatGPT Pro 100 美金 5x 和 200 美金 20x 怎么选
 
