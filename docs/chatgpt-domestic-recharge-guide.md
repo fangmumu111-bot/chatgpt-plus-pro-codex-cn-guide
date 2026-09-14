@@ -1,7 +1,7 @@
 ---
 title: "2026 ChatGPT Plus 国内怎么开通？GPT 会员代充靠谱的网站与无海外银行卡指南"
 description: "ChatGPT Plus 国内怎么开通、没有海外银行卡怎么办、GPT 会员代充靠谱的网站怎么选：比较官方付款、应用商店与独立第三方服务，并核验本人账号、支付宝、订单、退款和售后。"
-last_modified_at: 2026-09-13
+last_modified_at: 2026-09-14
 ---
 
 # 2026 ChatGPT Plus 国内怎么开通？GPT 会员代充靠谱的网站怎么选
@@ -22,9 +22,9 @@ last_modified_at: 2026-09-13
 | --- | ---: | --- |
 | ChatGPT Plus | ¥153.8 | 日常聊天、写作、学习、办公与普通 Codex；自动发货后按中文流程自助完成 |
 | ChatGPT Pro 5x | ¥719 | 高频 Codex、深度研究与长任务；人工按订单处理 |
-| ChatGPT Pro 20x | ¥1269 | AIXiamo 可办理符合条件的充值续费；按账号状态与原付款渠道确认 |
+| ChatGPT Pro 20x | 条件续费 ¥1269／全新充值 ¥1529 | 新号、无会员，或过期后不再显示 20x 的老用户可全新充值；符合原 20x 条件的账号可续费 |
 
-**当前办理（2026-09-13）：** AIXiamo 可以办理 Pro 20x 国内充值与续费。不确定账号是否适用，可先联系咨询与售后 QQ **928683877**，按账号当前状态与原订阅付款渠道确认；Pro 5x 可以开通和续费。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-14）：** AIXiamo 可以办理 Pro 20x 开通、充值与续费。**Pro 20x 条件续费 ¥1269**，适用于原订阅非苹果 App Store／谷歌 Google Play 付款，且尚未到期或到期后仍显示 Pro 20x 的账号；**Pro 20x 全新充值 ¥1529**，适用于新注册账号、当前没有会员，以及订阅到期后已不再显示 Pro 20x 的老用户。Pro 5x ¥719 可以正常开通和续费。付款后由客服按订单协助，充值不成功全额退款；拿不准选择时可咨询 QQ **928683877**。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_early)
 - [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)

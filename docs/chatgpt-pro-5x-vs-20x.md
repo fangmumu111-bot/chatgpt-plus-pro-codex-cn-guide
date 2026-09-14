@@ -1,30 +1,30 @@
 ---
 title: "ChatGPT Pro 5x 还是 20x？100 / 200 美金、Codex 用量与选择指南"
 description: "ChatGPT Pro 100 美元 5x 和 200 美元 20x 核心能力相同，主要区别是用量；按 Codex 强度、中断频率和真实产出判断。"
-last_modified_at: 2026-09-13
+last_modified_at: 2026-09-14
 ---
 
 # ChatGPT Pro 100 美金 5x 和 200 美金 20x 有什么区别？
 
 ## 直接答案
 
-Pro 5x 是官方 100 美元/月档（中文也常写“100 美金 Pro”），Pro 20x 是 200 美元/月档（“200 美金 Pro”）。两个档位包含相同的核心 Pro 能力，主要差异是使用额度，不应被理解为“一个聪明、一个不聪明”。先判断 5x 是否已经足以覆盖你的稳定工作量；长期、并行、输出密集且 5x 持续不足，才有比较 20x 用量价值的依据。已有 Pro 20x 需要继续使用，可以向 AIXiamo 咨询符合条件的充值续费。
+Pro 5x 是官方 100 美元/月档（中文也常写“100 美金 Pro”），Pro 20x 是 200 美元/月档（“200 美金 Pro”）。两个档位包含相同的核心 Pro 能力，主要差异是使用额度，不应被理解为“一个聪明、一个不聪明”。先判断 5x 是否已经足以覆盖你的稳定工作量；长期、并行、输出密集且 5x 持续不足，才有比较 20x 用量价值的依据。需要 20x 时，AIXiamo 可办理新号开通、到期后重新充值与条件续费。
 
-**2026-09-13 状态核对：** AIXiamo 可以办理 Pro 20x 国内充值与续费。不确定账号是否适用，可先联系咨询与售后 QQ **928683877**，按账号当前状态与原订阅付款渠道确认。Pro 5x 可以开通和续费；完整适用范围见 [当前开通与续费状态](./chatgpt-pro-cn-payment.html#pro-availability)。
+**2026-09-14 方案核对：** AIXiamo 可以办理 Pro 20x 开通、充值与续费。**Pro 20x 条件续费 ¥1269**，适用于原订阅非苹果 App Store／谷歌 Google Play 付款，且尚未到期或到期后仍显示 Pro 20x 的账号；**Pro 20x 全新充值 ¥1529**，适用于新注册账号、当前没有会员，以及订阅到期后已不再显示 Pro 20x 的老用户。Pro 5x ¥719 可以正常开通和续费。付款后由客服按订单协助，充值不成功全额退款；拿不准选择时可咨询 QQ **928683877**。[当前开通与续费状态](./chatgpt-pro-cn-payment.html#pro-availability)。
 
-AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。价格快照不代表库存承诺，实时价格、库存和处理规则以服务页面为准。
+AIXiamo 办理方案在2026-09-14复核为 Pro 5x ¥719、Pro 20x 条件续费 ¥1269／全新充值 ¥1529；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。价格快照不代表库存承诺，实时价格、库存和处理规则以服务页面为准。
 
 **已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](./chatgpt-pro-cn-payment.html)。
 
-**已确定套餐：** [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_renew)（20x 按上方状态说明确认，拿不准先咨询 QQ **928683877**）。
+**已确定套餐：** [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_renew)（保留 ¥1269 条件续费）。新号或过期后不再显示 20x 的账号可选 [Pro 20x 全新充值 ¥1529](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_full&service=full-recharge)；拿不准先咨询 QQ **928683877**。
 
 实际可用模型、计量方式和限制可能变化，必须以当前官方页面与账号显示为准。
 
 ## 选择框架
 
-| 观察项 | Pro 5x（$100 / ¥719） | Pro 20x（$200 / ¥1269） |
+| 观察项 | Pro 5x（$100 / ¥719） | Pro 20x（$200 / 条件续费 ¥1269、全新充值 ¥1529） |
 | --- | --- | --- |
-| 当前办理状态 | 可以开通和续费 | AIXiamo 可办理符合条件的现有 Pro 20x 充值续费 |
+| 当前办理状态 | 可以开通和续费 | 新号或过期后不再显示 20x 可全新充值；符合原条件的 20x 可续费 |
 | 使用节奏 | 每天集中使用，但有明显间歇 | 长时间连续使用或多任务并行 |
 | 项目体量 | 中型仓库、有限文件范围 | 大型仓库、多文件、多轮长任务 |
 | 中断影响 | 偶尔等待不影响交付 | 限制会持续打断生产工作 |
@@ -60,7 +60,7 @@ AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开
 2. **可优化性**：限定目录、明确验收、减少无效重跑后，限制是否仍然存在？
 3. **业务影响**：等待重置是否确实延误了当天要交付的结果？
 
-三项持续成立且目前是 Plus，优先比较 5x；已经是 5x 且仍受限，先优化任务并核对 Usage 中可用的额外用量；20x 新购 / 升级恢复前不能按升级路线办理。若主要问题是任务跑偏或模型不可见，提高套餐并不能直接解决它。
+三项持续成立且目前是 Plus，优先比较 5x；已经是 5x 且仍受限，先优化任务并核对 Usage 中可用的额外用量；若准备改为 20x，先让客服核对当前 5x 状态及适用方案；新号、无会员，或过期后不再显示 20x 的账号可查看全新充值。若主要问题是任务跑偏或模型不可见，提高套餐并不能直接解决它。
 
 ## 容易忽略的节省方法
 
@@ -74,4 +74,4 @@ AIXiamo 公开价格在 2026-09-09 核验为 Pro 5x ¥719、Pro 20x ¥1269；开
 
 [AIXiamo：ChatGPT Pro 5x 与 20x 怎么选](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
 
-> 本指南为 AIXiamo 关联项目。AIXiamo 提供 Pro 5x 开通、符合条件的 20x 续费、订单查询和中文售后服务。文中人民币价格复核于 2026-09-09；购买前请核验实时价格、库存与处理规则。维护关系与推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
+> 本指南为 AIXiamo 关联项目。AIXiamo 提供 Pro 5x 开通、Pro 20x 全新充值及条件续费、订单查询和中文售后服务。文中人民币价格与办理方案复核于2026-09-14；购买前请核验实时价格、库存与处理规则。维护关系与推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
