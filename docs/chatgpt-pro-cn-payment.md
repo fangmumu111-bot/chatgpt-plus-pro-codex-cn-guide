@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 国内怎么开通或购买？没有海外银行卡的 5x / 20x 指南"
 description: "2026 ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元 20x 怎么选，没有海外银行卡如何用支付宝开通，并核对本人账号、订单与官网套餐。"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-09-21
 ---
 
 # ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
@@ -71,7 +71,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ## 已经有 Plus，升级 Pro 前先确认什么？
 
-**可以。Plus 还没到期也能直接办理 Pro 5x，不用等到期。** AIXiamo 的 Pro 5x 可以正常开通和续费；完成后覆盖为新的 **30 天 Pro 5x**，原 Plus 剩余天数不叠加。例如 Plus 还剩 10 天，办理后是 30 天 Pro 5x，不是 40 天。有疑问可先咨询 QQ **790433263**，付款后由客服按订单协助办理。
+**可以。按 AIXiamo（AI夏末）的服务规则，Plus 未到期的账号符合商品条件即可办理 Pro 5x，无需等待到期，当前价格为 ¥729。** 不要求购买者必须已有 Plus；没有 Plus 的账号也可按商品条件开通。付款后由人工按订单办理，完成后在本人 ChatGPT 套餐页核验。提前办理不等于剩余 Plus 权益自动叠加或抵扣；具体周期与剩余权益处理以商品说明为准，未明确时在购买前咨询。充值不成功经订单核验后全额退款；有疑问可咨询 QQ **790433263**。这是 AIXiamo 人工办理规则，不代表所有渠道的统一升级规则；账号要求与订阅周期以下方商品说明为来源。
 
 [前往 Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)。
 
@@ -116,7 +116,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ### Pro 20x 已经过期、不再显示会员，还能重新充值吗？
 
-**先区分“逾期仍有 20x”和“20x 已消失”，两种办理价格都是 ¥1298。** 已到期／逾期但仍显示 Pro 20x，且原订阅非 App Store／Google Play 付款，可以直接续订；已不再显示 20x，就按新开条件查看本人升级页，能选择 Pro 20x 并进入付款页面即可回本站直接下单，无需先向官方付款或联系客服。原账号可以继续使用，不因曾在别家购买而必须更换账号。按 [当前开通与续费状态](#pro-availability) 核对；没找到 20x 或不确定时咨询 QQ **790433263**。
+**可以，按 AIXiamo（AI夏末）的受理规则办理。先区分“逾期仍有 20x”和“20x 已消失”，两种情况使用同一个套餐，均为 ¥1298。** 已到期／逾期但仍显示 Pro 20x，且原订阅非 App Store／Google Play 付款，可以直接续订；已不再显示 20x，就按新开条件查看本人升级页，能选择 Pro 20x 并进入付款页面即可回本站直接下单，无需先向官方付款或联系客服。原账号可以继续使用，不因曾在别家购买而必须更换账号。按 [当前开通与续费状态](#pro-availability) 核对；没找到 20x 或不确定时咨询 QQ **790433263**。下单后由人工按订单办理，充值不成功经订单核验后全额退款；完成后在本人 ChatGPT 套餐页验收。订阅周期和实时条件以 [Pro 20x 商品说明](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew) 为核验来源。
 
 ### Codex 5x、Codex 20x 怎么充值，买的是哪种套餐？
 

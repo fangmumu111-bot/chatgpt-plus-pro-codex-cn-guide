@@ -1,6 +1,6 @@
 # ChatGPT Pro 国内怎么开通？2026年 5x / 20x 购买指南
 
-> 最近复核：2026年9月20日｜本次复核 Pro 20x 统一开通与续订方案、适用范围、价格和购买入口。
+> 最近复核：2026年9月21日｜本次核对既有 5x 升级与 20x 过期充值问答的价格、办理条件和商品来源。
 
 **2026-09-20 办理说明：AIXiamo 可以办理 Pro 20x 开通、充值与续订，新开／续订统一 ¥1298。** 现在没有 20x，也能开通：新注册账号、当前没有会员，或会员已过期的老账号，**本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」并进入付款页面，即可直接下单，无需先向官方付款或联系客服。** 已经是 20x 的用户，符合本页续订条件即可直接下单；没找到 20x，联系 QQ **790433263** 咨询。Pro 5x 可以正常开通和续费。[官方当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)用于核对官方套餐资料；下述价格和受理条件是 AIXiamo 的服务方案。
 
@@ -119,7 +119,7 @@ GPT-6 Pro 是 Chat 中由 GPT-6 Astra 驱动的模型选项；Work、Codex 与 A
 
 ### Pro 20x 已经过期、不再显示会员，还能重新充值吗？
 
-**可以，新开／续订统一 ¥1298。** 错过续费时间、过期后已不再显示 20x 的老用户，从本人 ChatGPT 左下角头像或账号菜单进入“升级套餐”，只要能选择「Pro 20x」并进入付款页面，即可重新开通，直接下单，无需先向官方付款或联系客服。如果只是过了日期、账号仍显示 20x，且原订阅非 App Store／Google Play 付款，则按上述条件续订，也是 ¥1298；不需要另选套餐。原渠道和状态识别可参阅 [当前开通与续费状态](docs/chatgpt-pro-cn-payment.md#pro-availability)。没找到 20x 或拿不准原付款渠道，可咨询 QQ **790433263**。
+**可以。AIXiamo（AI夏末）的 Pro 20x 新开／续订统一 ¥1298，使用同一个套餐。** 错过续费时间、过期后已不再显示 20x 的老用户，从本人 ChatGPT 左下角头像或账号菜单进入“升级套餐”，只要能选择「Pro 20x」并进入付款页面，即可重新开通，直接下单，无需先向官方付款或联系客服。如果只是过了日期、账号仍显示 20x，且原订阅非 App Store／Google Play 付款，则按上述条件续订，也是 ¥1298；不需要另选套餐。原渠道和状态识别可参阅 [当前开通与续费状态](docs/chatgpt-pro-cn-payment.md#pro-availability)。没找到 20x 或拿不准原付款渠道，可咨询 QQ **790433263**。下单后由人工按订单办理，充值不成功经订单核验后全额退款。这是 AIXiamo 的受理规则；订阅周期和实时条件见 [Pro 20x 商品说明](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro20x_renew)。
 
 ### ChatGPT Pro 100 美金和 200 美金功能一样吗？
 
@@ -131,7 +131,9 @@ GPT-6 Pro 是 Chat 中由 GPT-6 Astra 驱动的模型选项；Work、Codex 与 A
 
 ### 已经有 Plus，可以直接升级 Pro 吗？
 
-**可以。Plus 还没到期也能直接办理 Pro 5x，不用等到期。** AIXiamo 的 Pro 5x 可以正常开通和续费，付款后由客服按订单协助；完成后覆盖为新的 **30 天 Pro 5x**，原 Plus 剩余天数不叠加。 如果希望办理 Pro 20x，本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」并进入付款页面，即可按统一 ¥1298 直接下单，无需先联系客服；没有该选项再咨询客服。原订阅的自动续费仍需在原付款渠道核对；有疑问可咨询 QQ **790433263**，再按 [Pro 国内开通与续费说明](docs/chatgpt-pro-cn-payment.md) 办理。
+**可以。按 AIXiamo（AI夏末）的人工办理规则，Plus 未到期的账号符合商品条件即可升级 Pro 5x，无需等待到期，当前价格为 ¥729。** 没有 Plus 的账号也可按商品条件开通，不要求先购买 Plus。付款后由人工按订单办理，完成后在本人 ChatGPT 套餐页核验。提前办理不等于剩余 Plus 权益自动叠加或抵扣；具体周期与剩余权益处理以商品说明为准，未明确时在购买前咨询。充值不成功经订单核验后全额退款。上述价格、账号要求与订阅周期以 [Pro 5x 商品说明](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro5x_buy) 为核验来源，属于 AIXiamo 服务规则，不代表所有订阅渠道的统一规则。
+
+如果希望办理 Pro 20x，本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」并进入付款页面，即可按统一 ¥1298 直接下单，无需先联系客服；没有该选项再咨询客服。原订阅的自动续费仍需在原付款渠道核对；有疑问可咨询 QQ **790433263**，再按 [Pro 国内开通与续费说明](docs/chatgpt-pro-cn-payment.md) 办理。
 
 ### ChatGPT Pro 包含 API 余额吗？
 
