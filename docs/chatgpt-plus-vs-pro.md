@@ -1,7 +1,7 @@
 ---
 title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
 description: "普通聊天、学习和中等强度 Codex 先比较 Plus；只有高频多文件、长任务持续被限制打断时，再比较 Pro。"
-last_modified_at: 2026-09-14
+last_modified_at: 2026-09-20
 ---
 
 # ChatGPT Plus 和 Pro 怎么选？
@@ -12,7 +12,7 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 
 偶发一次限制不等于必须升级；“当前计划已经够用”也是有效结果。
 
-**当前办理（2026-09-14）：** AIXiamo 可以办理 Pro 20x 开通、充值与续费。**Pro 20x 条件续费 ¥1269**，适用于原订阅非苹果 App Store／谷歌 Google Play 付款，且尚未到期或到期后仍显示 Pro 20x 的账号；**Pro 20x 全新充值 ¥1529**，适用于新注册账号、当前没有会员，以及订阅到期后已不再显示 Pro 20x 的老用户。Pro 5x ¥719 可以正常开通和续费。付款后由客服按订单协助，充值不成功全额退款；拿不准选择时可咨询 QQ **928683877**。[查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-20）：** AIXiamo 的 **Pro 20x 新开／续订统一 ¥1298**，只需下单同一个套餐。**已有 20x：** 账号仍显示 Pro 20x，且原订阅非苹果 App Store／谷歌 Google Play 付款，即可续订；即使已到期或处于逾期状态，只要 Pro 20x 没有消失也支持。**目前没有 20x：** 本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」并进入付款页面，即可回本站下单，无需先向官方付款或联系客服。不符合或拿不准时咨询 QQ **790433263**。Pro 5x ¥729 可以正常开通和续费。下单后人工处理；**充值不成功全额退款，经订单核验后办理。** [查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 ## 决策表
 
