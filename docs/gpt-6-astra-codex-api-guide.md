@@ -1,14 +1,20 @@
 ---
 title: "GPT-6 Astra 怎么用？Codex CLI、Responses API 与权限排查"
 description: "GPT-6 Pro 与 Astra 的入口区别，Codex CLI 0.153.0 版本核验、gpt-6-astra Responses API 最小请求、权限与额度排查，以及可复用代码任务模板。"
-last_modified_at: 2026-09-05
+last_modified_at: 2026-09-23
 ---
 
 # GPT-6 Astra 怎么用？Codex CLI、Responses API 与模型不可见排查
 
-核验日期：2026-09-05，北京时间。本文由 AIXiamo 维护者整理，示例为可自行检查的技术用法，不表示已在读者账号上完成模型调用。
+原 Astra 步骤核验于 2026-09-05；下述 Sol / Luna 补充核验于 2026-09-23（北京时间）。本文由 AIXiamo 维护者整理，示例为可自行检查的技术用法，不表示已在读者账号上完成模型调用。
 
 **先确定入口：**Chat 中的 GPT-6 Pro 由 GPT-6 Astra 驱动，正向 Pro $100 / $200、Business 和 Enterprise 分批开放。Work / Codex 使用 Astra，Plus 在开放后有有限用量；API 请求中的模型 ID 则是 `gpt-6-astra`，由 API 项目独立计费。[官方计划说明](https://help.openai.com/en/articles/20001354-gpt-56-and-gpt-6-pro-in-chatgpt)与 [Work / Codex 说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)会持续更新。
+
+## GPT-6 Sol / Luna 在 Plus、Pro 怎么用？
+
+**直接答案：**OpenAI 于 2026-09-22 发布 GPT-6 Sol 和 GPT-6 Luna，并向 Plus、Pro 等计划的 **ChatGPT Work 与 Codex** 分批开放；普通 Chat 对话目前不能选择。Sol 适合复杂编程和多步任务，Luna 适合目标明确、需要频繁处理的任务。Plus 已在开放范围内，不能把 Sol / Luna 写成 Pro 5x 或 20x 专属权益。依据：[OpenAI 发布说明](https://openai.com/index/introducing-gpt-6-sol-and-luna/)与 [Work / Codex 模型说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)。
+
+用本人 ChatGPT 账号登录 Work 或 Codex，查看当前模型选择器；是否显示仍取决于分批开放、工作区设置和客户端版本。Codex CLI 按 [官方更新记录](https://learn.chatgpt.com/docs/changelog)更新到 `0.156.1` 或更高，再用 `/model` 查看，或用 `codex --model gpt-6-sol`、`codex --model gpt-6-luna` 选择已开放的模型；下文 `0.153.0` 只是 Astra 的最低版本要求。若使用 API key，则在 API 项目中分别调用 `gpt-6-sol`、`gpt-6-luna`，按 [API 模型目录](https://developers.openai.com/api/docs/models)独立计费；ChatGPT 会员不包含 API 余额。普通 Chat 没有这两个选项，不能据此判断会员开通失败。
 
 ## 1. 在 Codex CLI 中确认 Astra
 
