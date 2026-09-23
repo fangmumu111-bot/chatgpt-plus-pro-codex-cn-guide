@@ -14,6 +14,8 @@
 
 GPT-6 Pro 是 Chat 中由 GPT-6 Astra 驱动的模型选项；Work、Codex 与 API 的入口、资格和计量要分别核对。新增 [GPT-6 Astra：Codex CLI、Responses API 与模型不可见排查](docs/gpt-6-astra-codex-api-guide.md)，包含 CLI `0.153.0` 最低版本要求、`gpt-6-astra` 最小请求、报错定位和可复用的代码任务说明。
 
+**2026-09-23 模型补充：** [GPT-6 Sol / Luna 在 Plus、Pro 怎么用？](docs/gpt-6-astra-codex-api-guide.md)。OpenAI 已在 ChatGPT Work 和 Codex 对 Plus、Pro 等计划分批开放这两个模型；普通 Chat 对话目前不能选择，API 则使用独立模型 ID 和账单。先在本人账号的 Work / Codex 模型选择器核对，不要把 Pro 5x / 20x 当成 Sol / Luna 的专属购买条件。
+
 **2026-09-09 选型补充：** [Pro 5x 到底够不够？Astra 用量估算与 20x 升级判断](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html) 已补充官方来源、估算适用范围及三项判断；[已有 Plus 的 Pro 开通前核对清单](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html) 补充期限、账号信息、交付核验和查单入口。
 
 ## ChatGPT Pro 国内怎么开通？先给直接答案
