@@ -22,9 +22,9 @@ last_modified_at: 2026-09-20
 | --- | ---: | --- |
 | ChatGPT Plus | ¥153.8 | 日常聊天、写作、学习、办公与普通 Codex；付款后自动发充值卡密，客户按教程自助激活 |
 | ChatGPT Pro 5x | ¥729 | 高频 Codex、深度研究与长任务；人工按订单处理 |
-| ChatGPT Pro 20x | 新开／续订统一 ¥1298 | 升级页可选 20x 并进入付款页面可新开；仍显示 20x 且原非商店付款可续订 |
+| ChatGPT Pro 20x | 新开／续订统一 ¥1298 | 本人升级页可选 20x，即可按商品条件新开；仍显示 20x 且原非商店付款可续订 |
 
-**当前办理（2026-09-20）：** AIXiamo 的 **Pro 20x 新开／续订统一 ¥1298**，只需下单同一个套餐。**已有 20x：** 账号仍显示 Pro 20x，且原订阅非苹果 App Store／谷歌 Google Play 付款，即可续订；即使已到期或处于逾期状态，只要 Pro 20x 没有消失也支持。**目前没有 20x：** 本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」并进入付款页面，即可回本站下单，无需先向官方付款或联系客服。不符合或拿不准时咨询 QQ **790433263**。Pro 5x ¥729 可以正常开通和续费。下单后人工处理；**充值不成功全额退款，经订单核验后办理。** [查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-20）：** AIXiamo 的 **Pro 20x 新开／续订统一 ¥1298**，只需下单同一个套餐。**已有 20x：** 账号仍显示 Pro 20x，且原订阅非苹果 App Store／谷歌 Google Play 付款，即可续订；即使已到期或处于逾期状态，只要 Pro 20x 没有消失也支持。**目前没有 20x：** 本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」，即可回本站下单，无需先向官方付款或联系客服。不符合或拿不准时咨询 QQ **790433263**。Pro 5x ¥729 可以正常开通和续费。下单后人工处理；**充值不成功全额退款，经订单核验后办理。** [查看当前开通与续费条件](./chatgpt-pro-cn-payment.html#pro-availability)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_early)
 - [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)
