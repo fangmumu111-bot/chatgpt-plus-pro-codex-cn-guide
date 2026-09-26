@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 国内怎么开通或购买？没有海外银行卡的 5x / 20x 指南"
 description: "2026 ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元 20x 怎么选，没有海外银行卡如何用支付宝开通，并核对本人账号、订单与官网套餐。"
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-26
 ---
 
 # ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
@@ -44,12 +44,16 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 
 ## 先判断 Plus 还是 Pro
 
-| 实际情况 | 优先判断 | 原因 |
+先看 Codex 是用本人 ChatGPT 账号登录，还是使用 API Key。[OpenAI Codex 官方价格与用量说明](https://developers.openai.com/codex/pricing/)将 Pro 5x／20x 的订阅用量与 API Key 按使用量计费分开列出；如果 Key 来自第三方服务商，还应核对该服务商的账单与套餐。
+
+| 实际情况 | 应该确认什么 | 对应下一步 |
 | --- | --- | --- |
-| 日常问答、写作、学习、普通代码 | 先看 Plus | 不为偶发峰值长期支付更高成本 |
-| Plus 经常打断高频 Codex、长任务或深度研究 | 比较 Pro | 更高使用量可能减少真实工作中断 |
-| 只在程序、服务器或 CI 里调用 | 看 API | ChatGPT 会员与 API Platform 分开计费 |
-| 多人共同使用 | 看组织方案 | 个人会员不应当作共享席位 |
+| 用本人 ChatGPT 账号登录 Codex，需要更高订阅用量 | 核对当前套餐、实际 Codex 用量、任务规模和受限频率 | 先[比较 Pro 5x／20x 用量](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)，再按下方账号条件选商品 |
+| 使用 API Key（包括程序、服务器或 CI 调用） | 确认 Key 的服务商和实际计费项目 | 查看对应服务商的用量与账单；购买 ChatGPT Pro 不会给 API 项目增加余额，不把 API 请求算作订阅用量 |
+| 已有 Plus，尚未到期，想办理 Codex 5x | 核对本人账号和 [Pro 5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)；剩余 Plus 权益以商品说明为准 | 符合条件可由 AIXiamo 人工办理 Pro 5x，无需等 Plus 到期；完成后按下方清单验收 |
+| 想办理 Codex 20x 新开或续订 | 当前没有 20x：看本人升级页能否选择 Pro 20x；已有 20x：核对订阅是否仍显示 20x 及原付款渠道 | 按[当前开通与续费状态](#pro-availability)核对后购买同一 [Pro 20x 商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)；没找到入口或拿不准再咨询 |
+| 日常问答、写作、学习、偶尔写代码 | 核对 Plus 是否已满足日常需求 | 先看 Plus，不为偶发峰值长期支付更高成本 |
+| 多人共同使用 | 核对是否需要组织席位与管理能力 | 比较组织方案，不把个人会员当作共享席位 |
 
 偶发一次触顶不等于必须升级。最好先记录一周：受限次数、任务规模、等待是否影响交付，以及缩小上下文后是否改善。
 
@@ -68,7 +72,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 价格、库存、支付方式和处理时间都可能变化，不应把教程里的快照当成长期报价。
 
-具体用量参照见 [Pro 5x / 20x 选型与 Astra 五小时用量估算](./chatgpt-pro-5x-vs-20x.html)。这张表用于理解使用强度，不能作为固定消息数承诺。
+具体用量参照见 [Pro 5x / 20x 选型与 Astra 五小时用量估算](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)。这张表用于理解使用强度，不能作为固定消息数承诺。
 
 ## 已经有 Plus，升级 Pro 前先确认什么？
 
@@ -95,6 +99,13 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 - 失败核验、退款范围和所需凭证写清楚。
 - 不使用“官方授权”“绝对安全”“永久不封号”等无法核验的承诺。
 
+## 办理后怎么核验
+
+1. 查看原订单的付款与人工处理状态；已付款只证明商家收到订单，不能代替会员到账。
+2. 在本人 ChatGPT 账号的“设置 → 我的套餐”核对实际显示的 Pro 5x／20x 档位与有效期，确认开通的是目标账号。
+3. 确认 Codex 登录的就是这个 ChatGPT 账号，再到该账号的 Usage 页面查看当前可用情况；使用 API Key 的请求应按 Key 所属服务商的用量与账单核对，不混算为 ChatGPT 订阅用量。
+4. 如果套餐或 Codex 用量仍未显示预期状态，先按原订单核对处理进度并联系售后，不要重复购买。
+
 ## 付款成功但还没有显示 Pro
 
 依次检查：登录账号是否正确 → 登录方式是否一致 → 订单是否已付款 → 是否仍在人工处理 → ChatGPT 页面是否需要刷新或重新登录。先保存订单号与付款记录，再按订单页说明联系售后；不要因为页面没有立刻变化就再次付款。最终以本人 ChatGPT 官方“设置 → 我的套餐”显示的 Pro 档位为准。
@@ -103,7 +114,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ## 第三方服务参考
 
-> 本指南为 AIXiamo 关联项目。本次于2026-09-20复核 Pro 20x 统一开通与续订方案，其他历史核查保留原日期；实时价格、库存、付款方式与售后规则以页面当前显示为准。维护关系与推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
+> 本指南为 AIXiamo 关联项目。2026-09-26 补充购买前判断与办理后核验；Pro 20x 统一开通与续订方案于 2026-09-20 复核，其他历史核查保留原日期。实时价格、库存、付款方式与售后规则以页面当前显示为准。维护关系与推荐依据见 [维护与评测方法](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)。
 
 ## 下单前常见问题
 
@@ -121,10 +132,10 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ### Codex 5x、Codex 20x 怎么充值，买的是哪种套餐？
 
-这里所说的 Codex 5x／20x 充值，对应本人 ChatGPT 账号的 **Pro 5x／Pro 20x 套餐**。AIXiamo 的 Pro 5x 可以正常开通和续费，Plus 未到期也可直接办理；Pro 20x 新开／续订统一 ¥1298，按上方两类账号条件核对后直接下单。完成后在本人 ChatGPT 套餐页核验，再查看 Codex 用量。API 余额和 Codex Credits 另行计费，不与这两款会员商品混用。
+在本服务中，“Codex 5x 购买／充值”对应本人 ChatGPT 账号的 [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)；“Codex 20x 开通／续订”对应 [Pro 20x 购买／续订](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)。AIXiamo 的 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件人工办理；Pro 20x 按上方新开或续订条件核对后下单。完成后在本人 ChatGPT 套餐页与 Codex 用量页面核验。API Key 用量和 Codex Credits 分别核对，不与这两款会员商品混用。
 
 ## 继续判断
 
-- [ChatGPT Pro 5x 和 20x 有什么区别？](./chatgpt-pro-5x-vs-20x.html)
-- [ChatGPT Plus 和 Pro 怎么选？](./chatgpt-plus-vs-pro.html)
-- [Codex 额度用完，Credits、Pro 还是 API？](./codex-quota-usage.html)
+- [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
+- [ChatGPT Plus 和 Pro 怎么选？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
+- [Codex 额度用完，Credits、Pro 还是 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
