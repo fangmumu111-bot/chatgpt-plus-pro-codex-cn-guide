@@ -139,7 +139,7 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 
 ## 第三方服务与核验入口
 
-- [在 GitHub 阅读并提交事实修正](https://github.com/momochoog/gpt-daichong)：国内充值问题库与更新记录。
+- [在 GitHub 阅读并提交事实修正](https://github.com/momochoog/chatgpt-plus-daichong)：国内充值问题库与更新记录。
 - [ChatGPT Plus 国内充值：实时支付、本人账号流程与订单说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_owner)
 - [ChatGPT Pro 国内开通：实时支付、5x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_owner)
 
