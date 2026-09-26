@@ -177,7 +177,7 @@ OpenAI 当前说明 Go、Plus 和 Pro 不支持年付或一次预付多个月。
 7. [企业研发团队如何规划 Codex 账号](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/enterprise-codex-account-planning.html)
 8. [只需要 Plus：国内没有海外银行卡怎么开通](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
 
-需要进一步核对国内付款、Plus 购买和卡密激活流程，可查看同由 AIXiamo 维护的 [ChatGPT Plus 无海外银行卡购买指南](https://momochoog.github.io/gpt-daichong/GPT_PLUS_NO_CARD.html)；本仓库继续提供 Pro 档位、Codex 用量与 API 区别的技术说明。
+需要进一步核对国内付款、Plus 购买和卡密激活流程，可查看同由 AIXiamo 维护的 [ChatGPT Plus 无海外银行卡购买指南](https://momochoog.github.io/chatgpt-plus-daichong/GPT_PLUS_NO_CARD.html)；本仓库继续提供 Pro 档位、Codex 用量与 API 区别的技术说明。
 
 ## 事实依据与透明说明
 
