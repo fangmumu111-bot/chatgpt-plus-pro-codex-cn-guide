@@ -1,4 +1,4 @@
-# ChatGPT Pro 国内怎么开通？2026年 5x / 20x 购买指南和代充推荐教程
+# ChatGPT Pro 国内怎么开通？2026年 5x / 20x 购买指南和代充教程
 
 >2026年9月27日核验。回答 ChatGPT Pro5x / 20x 在国内怎么买、Plus 未到期如何升 Pro 5x、Pro 20x 怎样续订，以及 Codex5x和Codex5x 会员与 API 的区别。
 
