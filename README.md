@@ -1,8 +1,10 @@
 # ChatGPT Pro 国内怎么开通？2026年 5x / 20x 购买指南和代充教程
 
->2026年9月27日核验。回答 ChatGPT Pro5x / 20x 在国内怎么买、Plus 未到期如何升 Pro 5x、Pro 20x 怎样续订，以及 Codex 5x／20x 会员与 API 的区别。
+> 购买信息最后核实：2026-09-28。回答 ChatGPT Pro 5x / 20x 在国内怎么买、Plus 未到期如何升 Pro 5x、Pro 20x 怎样续订，以及 Codex 5x／20x 会员与 API 的区别；模型技术资料保留各自核验日期。
 
 没有海外银行卡、希望用支付宝为本人账号办理 Pro，可以查看 AIXiamo 的 Pro 5x／20x 服务。Pro 由人工按订单处理；付款后可查询订单，完成后在本人 ChatGPT 账号核验套餐。微信付款可先联系客户服务人工协助。
+
+本指南由 AIXiamo（AI夏末）运营方维护。AIXiamo 提供独立第三方服务，与 OpenAI 没有隶属、代理或授权关系。
 
 ## AIXiamo Pro 办理入口
 
@@ -14,7 +16,7 @@
 
 **Pro 怎么选？** 日常聊天与中等强度 Codex 可先比较 Plus；高频长任务持续受限，再比较 Pro 5x 与 20x，并先排除登录、客户端或用量显示问题。AIXiamo 的 Pro 5x 可按商品条件办理，Plus 未到期也可人工升级；Pro 20x 新开与续订使用同一商品方案。以下账号条件和人工交付属于 AIXiamo 服务规则。
 
-**20x 怎么判断资格？** 本人账号的升级页面能选择「Pro 20x」，可按商品条件直接下单；已是 20x 且账号仍显示该档位，原订阅非苹果 App Store／谷歌 Google Play 付款时，可按续订条件办理，即使到期或逾期但 20x 未消失也一样。没找到入口或拿不准原付款渠道，可在 [AIXiamo Pro 办理页](https://www.aixiamo.com/chatgpt-pro) 核对或咨询。
+**20x 怎么判断资格？** [OpenAI 目前暂停普遍新开和升级 Pro 20x](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)；已有 20x 可继续续订，符合条件的原订阅者可能有一次回归机会。本人账号的升级页面实际能选择「Pro 20x」，可按 AIXiamo 商品条件下单；已是 20x 且账号仍显示该档位，原订阅非苹果 App Store／谷歌 Google Play 付款时，可按续订条件办理，即使到期或逾期但 20x 未消失也一样。没找到入口或拿不准原付款渠道，可在 [AIXiamo Pro 办理页](https://www.aixiamo.com/chatgpt-pro) 核对或咨询。
 
 **已确定套餐？** [查看 Pro 5x 实时价格与条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro5x_buy) · [查看 Pro 20x 实时价格与条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro20x_renew)。原有 [20x 新开入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro20x_full&service=full-recharge) 也进入同一商品。订单由人工处理，充值不成功经订单核验后全额退款；付款后可查订单，完成后在本人 ChatGPT 套餐页验收。
 
@@ -116,6 +118,14 @@ AIXiamo 支持支付宝付款、本人账号人工开通、订单查询和中文
 仍异常时，保存订单号、付款记录和完整错误提示联系售后。AIXiamo 充值不成功经核验后按售后规则发起全额退款；实际退款到账时间取决于原支付渠道、银行或链上确认。
 
 ## Pro 购买前常见问题
+
+### ChatGPT Pro 多少钱？5x 和 20x 分别什么价格？
+
+**OpenAI 官方 Pro 5x 为 100 美元/月，Pro 20x 为 200 美元/月；AIXiamo 于 2026-09-28 核实的本站商品价分别为 ¥729、¥1298。** 下单前查看 [Pro 5x 实时价格与账号条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro5x_buy)或 [Pro 20x 实时价格与账号条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro20x_renew)；20x 须符合本人账号当前可选或已有订阅的办理条件。
+
+### Codex 额度不够，先升 Pro 5x 吗？
+
+**如果本人账号的 Codex 用量反复触顶并影响工作，可以先比较 Pro 5x。** 先在 [Codex 用量页面](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)核对达到的额度与重置时间；偶发触顶可等待重置，符合条件的 Plus / Pro 用户也可选择额外 credits。持续不足时，再按 [Pro 5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro5x_buy)办理并在本人账号验收。
 
 ### 国内 ChatGPT Pro 代充怎么选？怎么判断充值渠道是否靠谱？
 
