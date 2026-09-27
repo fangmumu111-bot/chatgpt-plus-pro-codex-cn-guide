@@ -1,15 +1,15 @@
 # 官方来源与核对日期
 
-最后核对：2026-08-30（Asia/Shanghai）
+基础资料核对：2026-08-30（Asia/Shanghai）；Pro 档位规则另于 2026-09-27 复核。
 
-**历史核查（2026-09-13）：** 当时官方说明 Pro 20x 自 9 月 10 日起暂停新购和升级；已有 20x 续费、Pro 5x 新开通与续费不受此次暂停影响。取消 / 降级可在当前账期结束前撤销；实际结束后暂停期不能重新购买 20x。[官方 Pro 档位说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。此段保留当时记录，不代表今天所有账号的可购买状态；当前选项需在本人账号核对。其余资料保留各自原核对日期。
+**Pro 档位规则复核（2026-09-27）：** [OpenAI 当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)仍暂停 Pro 20x 普遍新购与升级；已有 20x 可正常续期，Pro 5x 新购与续期不受该暂停影响。取消或降级尚未生效时可在本周期结束前撤销；符合特定历史资格的账号，在 20x 结束后 30 天内有一次性回归选项。具体账号是否出现可选入口，须在本人账号核对。其余资料保留各自原核对日期。
 
 本页分别列出用于判断会员、Codex 与 API 关系的官方资料，以及 AIXiamo 的服务流程来源。官方内容可能更新；仓库不把易变价格、模型清单或精确额度固化为永久事实。
 
 ## OpenAI 官方资料
 
 - [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) — Plus 是 ChatGPT 订阅；API 使用不包含在其中。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 100 美元 Pro 档约为 Plus 5x 用量，200 美元 Pro 档约为 Plus 20x 用量；两档核心能力相同，部分模型或功能可能有独立限额。
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 100 美元 Pro 档约为 Plus 5x 用量，200 美元 Pro 档约为 Plus 20x 用量；两档核心能力相同，部分模型或功能有独立限额。页面还列出当前 20x 新购暂停、取消与降级撤销、一次性回归资格和用量重置说明。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) — Codex 已包含在 ChatGPT 各计划中，包括 Free 和 Go；用量依计划和任务复杂度变化。
 - [Using credits for flexible usage in ChatGPT](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-free-go-plus-pro-sora) — 个人账号的 Codex Credits 当前官方说明列出 Plus / Pro 用户；个人资格和支持功能以 Codex Settings > Usage 显示为准，Credits 不是 API 余额。
 - [Flexible pricing for the Enterprise, Edu, and Business plans](https://help.openai.com/en/articles/11487671-flexible-pricing-for-chatgpt-enterprise-plans) — Business、Enterprise、Edu 等启用 flexible pricing 的工作区可购买或使用共享 workspace credits；Business 由有权限角色在 Workspace settings > Billing 购买或管理，Enterprise / Edu 的共享 credits 按合同层级购买或分配，其 Billing 用于查看余额、用量与控制而不是直接购买，其他组织计划和权限依 Usage、工作区账单、合同与管理员角色。
