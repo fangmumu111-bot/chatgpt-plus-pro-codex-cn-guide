@@ -1,7 +1,7 @@
 ---
 title: "支付宝怎么开通 ChatGPT Plus？2026 国内本人账号充值步骤"
 description: "支付宝开通 ChatGPT Plus 教程：AIXiamo 当前 Plus ¥153.8，无需海外银行卡；讲清本人账号、自助流程、约3分钟、订单查询、失败排查与退款边界。"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-09-27
 ---
 
 # 支付宝怎么开通 ChatGPT Plus？国内本人账号充值步骤
@@ -12,7 +12,7 @@ last_modified_at: 2026-09-20
 
 ## AIXiamo 当前 Plus 支付宝方案
 
-AIXiamo 当前 ChatGPT Plus 公开价为 **¥153.8**，支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON）。付款后自动发充值卡密，客户使用卡密按中文流程在本人账号自助激活，顺利时通常约 3 分钟；所需账号信息按商品页与订单说明提供，不要求 ChatGPT 密码、验证码或恢复码；涉及会话信息时，先核对接收页面、用途与处理说明，不在公开仓库或评论中提交。付款后订单、卡密和处理状态可查。
+AIXiamo 当前 ChatGPT Plus 公开价为 **¥153.8**，支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON）。付款后自动发充值卡密，客户按中文教程在本人账号自助激活，顺利时通常约 3 分钟；激活所需信息按商品与流程页面指引提交。付款后订单、卡密和处理状态可查。
 
 [立即查看 ChatGPT Plus 实时价格、库存与支付宝入口](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_alipay_owner)
 
@@ -34,14 +34,14 @@ AIXiamo 当前 ChatGPT Plus 公开价为 **¥153.8**，支持支付宝、USDT-BE
 | --- | --- | --- |
 | 商品对象 | ChatGPT Plus 会员 | API 余额、成品号、共享号混写 |
 | 账号归属 | 权益进入本人账号 | 交付陌生账号或要求共享登录 |
-| 账号信息 | 不交密码、验证码、恢复码；按流程核对必要会话信息的用途 | 未说明接收方、用途，或要求公开粘贴账号凭证 |
+| 账号信息 | 按商品与激活流程在对应页面填写，权益进入本人账号 | 未说明交付对象或订阅验收方式 |
 | 售后路径 | 独立订单可查，规则公开 | 只能私聊、没有订单状态 |
 
 ## 支付宝付款后没有显示 Plus 怎么办
 
 先按顺序检查：订单是否已付款 → 是否已自动发货 → 当前登录账号是否正确 → 邮箱、Google 或 Apple 登录是否进入了不同账号 → 是否需要刷新或重新登录。不要因为页面暂时显示 Free 就再次付款；两个订单只会增加排查难度。
 
-需要联系售后时，准备订单号和付款记录即可，不要发送 ChatGPT 密码、验证码、恢复码或登录会话。
+需要联系售后时，准备订单号和付款记录，按订单页指引核对处理状态。
 
 ## 常见问题
 

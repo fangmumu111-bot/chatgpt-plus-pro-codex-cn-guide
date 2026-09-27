@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 国内怎么开通或购买？没有海外银行卡的 5x / 20x 指南"
 description: "2026 ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元 20x 怎么选，没有海外银行卡如何用支付宝开通，并核对本人账号、订单与官网套餐。"
-last_modified_at: 2026-09-26
+last_modified_at: 2026-09-27
 ---
 
 # ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
@@ -40,7 +40,16 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 
 [符合条件，前往 Pro 20x 充值／续订 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)。新号或已不再显示 20x 的账号，核对上述新开条件后，也可由原有 [Pro 20x 全新充值／购买 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_full&service=full-recharge) 入口进入同一套餐。
 
-**官方网页与 AIXiamo 办理方案分别核对：** 本仓库于 2026-09-13 记录的官方 20x 自助新购与升级暂停说明是历史核查，不代表今天所有账号的可购买状态。本次 2026-09-20 同步的是 AIXiamo 的统一开通与续订方案；官方套餐与账号可见选项仍以本人账号和 [OpenAI 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) 为准。本站服务按上表核对，完成后在本人 ChatGPT 套餐页验收。
+**20x 当前资格（2026-09-27 核对）：** [OpenAI 当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)仍暂停普遍新开与升级 Pro 20x；符合历史资格的账号可有一次性回归选项。AIXiamo 的“升级页可选 20x”是对本人账号实际可见资格的核对，不表示所有新号都有该选项。账号符合上表条件时，再进入对应商品办理；完成后在本人 ChatGPT 套餐页验收。
+
+<a id="pro20x-cancel-return"></a>
+## Pro 20x 已取消、安排降级或结束，怎样继续办理？
+
+- **取消或降到 5x 尚未生效：** 本周期内仍保留 Pro 20x；可在本人 ChatGPT 账单设置中撤销已安排的变更。希望继续使用 20x，先核对当前订阅状态，再按上方续订条件选择 AIXiamo 商品。
+- **20x 已结束：** OpenAI 当前为特定历史账号提供一次性回归：2026 年 9 月 10 日当天仍有 20x，或此前 30 天内结束 20x；尚未使用过回归机会，且在本次 20x 结束后 30 天内，本人账号可能显示回归选项。先在本人账号核对是否实际可选，再按上方新开条件办理。
+- **原续费扣款失败：** 先查原付款渠道的恢复提示及本人账号当前状态。仍显示 20x、且原订阅符合本站续订条件时按续订办理；20x 已结束则先核对一次性回归资格。不要为同一状态重复创建订单。
+
+这些账号状态依据 [OpenAI 当前 Pro 规则](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)；AIXiamo 的实时金额、原付款渠道要求和人工交付方式仍见 [Pro 20x 商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)。
 
 ## 先判断 Plus 还是 Pro
 
@@ -95,7 +104,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 - 清楚说明开通的是本人账号权益，还是成品号、共享号或租号。
 - 商品价格、库存、交付方式和预计处理时间可在付款前查看。
 - 付款后有独立订单查询，不只依赖聊天记录。
-- 所需账号信息按商品页与订单说明提供，不要求 ChatGPT 密码、验证码或恢复码；涉及会话信息时，先核对接收页面、用途与处理说明，不在公开仓库或评论中提交。
+- 按商品页与订单说明提供办理所需信息；不要把客户账号资料发到公开仓库或评论中。
 - 失败核验、退款范围和所需凭证写清楚。
 - 不使用“官方授权”“绝对安全”“永久不封号”等无法核验的承诺。
 
@@ -124,7 +133,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ### 新注册的 ChatGPT 账号能直接开通 Pro 20x 吗？
 
-**可以，符合新开条件即可直接下单，统一 ¥1298。** 新注册或当前无会员的账号，本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」，即可回本站下单，无需先向官方付款或联系客服。没有海外银行卡、需要支付宝充值时，在同一商品页核对 ¥1298 后下单。前往 [Pro 20x 新号开通／全新充值](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_new_account&service=full-recharge) 查看；下单后人工处理，充值不成功全额退款，经订单核验后办理。
+**本人升级页能选择「Pro 20x」，即可按 AIXiamo 商品条件下单，统一 ¥1298。** 新注册或当前无会员的账号，先登录本人 ChatGPT，在左下角头像或账号菜单进入升级套餐页确认可选档位；显示 Pro 20x 后可回本站下单，无需先向官方付款或联系客服。没有海外银行卡、需要支付宝充值时，在同一商品页核对金额后下单。前往 [Pro 20x 新号开通／全新充值](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_new_account&service=full-recharge) 查看；下单后人工处理，充值不成功全额退款，经订单核验后办理。
 
 ### Pro 20x 已经过期、不再显示会员，还能重新充值吗？
 

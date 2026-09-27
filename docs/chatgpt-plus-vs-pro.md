@@ -1,7 +1,7 @@
 ---
 title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
 description: "普通聊天、学习和中等强度 Codex 先比较 Plus；只有高频多文件、长任务持续被限制打断时，再比较 Pro。"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-09-27
 ---
 
 # ChatGPT Plus 和 Pro 怎么选？
@@ -24,6 +24,12 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 | 当前计划基本满足 | 保持当前计划 | 升级不会自动改善提示词、环境或工作流 |
 | 只在程序、脚本或服务器调用 | API | 这是程序化调用路径，不是网页会员 |
 | 多人共同使用 | 组织方案 | 个人会员不应被当成共享席位 |
+
+## Plus 还没到期，可以升级 Pro 5x 吗？
+
+**可以。** AIXiamo 可按 [Pro 5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_pro_to_5x)为符合条件的本人账号人工办理，不必等 Plus 到期；没有 Plus 的账号也可核对开通。办理前记下当前 Plus 到期日和原付款渠道，检查原渠道的自动续费设置；购买 Pro 不会自动替你管理原渠道的后续扣款。办理完成后，在同一个 ChatGPT 账号的“设置 → 我的套餐”核验 Pro 档位和新周期。
+
+Plus 剩余天数或款项不应直接当作本次 Pro 订单的抵扣金额。需要核对实际结算和起算日期时，先查看商品说明并在付款前联系 AIXiamo 确认对应订单。
 
 ## 三个比“价格”更重要的问题
 

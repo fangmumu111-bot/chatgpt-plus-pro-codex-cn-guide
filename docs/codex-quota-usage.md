@@ -1,7 +1,7 @@
 ---
 title: "Codex 额度不够怎么办？Credits、Pro 还是 API"
 description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；额度用完先看 Usage 或工作区 Billing，再比较等待重置、Pro 或独立 API。"
-last_modified_at: 2026-09-20
+last_modified_at: 2026-09-27
 ---
 
 # Codex 额度用完怎么办，Plus 够不够？
@@ -54,6 +54,14 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 ### Codex 20x 新用户怎么买，会员过期还能重新充值吗？
 
 如果需要的是 ChatGPT 账号登录 Codex 所用的 Pro 20x 套餐，新号及过期后 20x 已消失的账号，先在本人升级页确认能选择 Pro 20x，再查看 [Pro 20x 全新充值 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_20x_full&service=full-recharge)。以前在其他平台开通也可按当前账号状态办理；已逾期但仍显示 20x、且原非 App Store／Google Play 付款时可直接续订；新开与续订同为 ¥1298。付款后由客服按订单协助，完成后核验本人 ChatGPT 套餐及 Codex Usage，充值不成功全额退款。
+
+### Pro 续订后，Codex 已用额度会马上恢复吗？
+
+先把**套餐续订是否完成**和**当前用量窗口是否重置**分开看。前者在本人 ChatGPT 套餐页核验，后者在同一账号的 Codex Usage 查看剩余量和显示的重置时间；订单已完成不等于用量条都会立即变成 100%。如果套餐仍未显示 Pro，先查 AIXiamo 原订单；套餐已显示 Pro、只是用量未到重置时间，则按 Usage 提示安排任务。[OpenAI 的 Codex 用量说明](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)列出了用量面板、限额和重置时间的核对入口。
+
+### 刚升级 Pro，额度不是 100%，怎样确认是否到账？
+
+确认 Codex 登录的是刚办理的同一个 ChatGPT 账号，再核对“设置 → 我的套餐”的 Pro 档位和 Codex Usage 的当前窗口。**套餐档位正确**是订阅交付的首要核验；**剩余额度百分比**还受对应模型和用量窗口影响。账号、套餐或订单状态不一致时，凭原订单联系 AIXiamo 核对处理记录，不需要重复购买。
 
 ## 应考虑 API 的情况
 
