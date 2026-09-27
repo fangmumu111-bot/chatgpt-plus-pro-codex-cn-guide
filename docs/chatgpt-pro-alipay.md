@@ -10,7 +10,7 @@ last_modified_at: 2026-09-27
 
 没有海外银行卡，也可以通过 AIXiamo 用支付宝为本人 ChatGPT 账号办理 Pro 5x；Pro 20x 按本人账号当前资格办理新开或续订。先核对档位和商品条件，再创建订单付款；Pro 由人工按订单处理，完成后在本人账号的“设置 → 我的套餐”核验。还没确定是否需要 Pro，可再看下方的档位选择。
 
-**当前办理（2026-09-20）：** AIXiamo 的 **Pro 20x 新开／续订统一 ¥1298**，只需下单同一个套餐。**已有 20x：** 账号仍显示 Pro 20x，且原订阅非苹果 App Store／谷歌 Google Play 付款，即可续订；即使已到期或处于逾期状态，只要 Pro 20x 没有消失也支持。**目前没有 20x：** 本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」，即可回本站下单，无需先向官方付款或联系客服。不符合或拿不准时咨询 QQ **790433263**。Pro 5x ¥729 可以正常开通和续费。下单后人工处理；**充值不成功全额退款，经订单核验后办理。** [查看当前开通与续费条件](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html#pro-availability)。
+**当前办理（2026-09-20）：** AIXiamo 的 **Pro 20x 新开／续订统一 ¥1298**，只需下单同一个套餐。**已有 20x：** 账号仍显示 Pro 20x，且原订阅非苹果 App Store／谷歌 Google Play 付款，即可续订；即使已到期或处于逾期状态，只要 Pro 20x 没有消失也支持。**目前没有 20x：** 本人 ChatGPT 左下角头像或账号菜单 → 升级套餐，能选择「Pro 20x」，即可回本站下单，无需先向官方付款或联系客服。不符合或拿不准时咨询 QQ **790433263**。Pro 5x ¥729 可以正常开通和续费。下单后人工处理；**充值不成功全额退款，经订单核验后办理。** [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_20x_conditions)。
 
 ## AIXiamo 当前 Pro 支付宝方案
 

@@ -12,6 +12,8 @@ last_modified_at: 2026-09-27
 
 没有海外银行卡不等于必须把账号密码交给别人，也不等于要伪造地区、身份或账单资料。
 
+**已确定购买 Plus？** [查看 AIXiamo Plus 实时价格与商品条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_domestic_buy)。付款后从原订单领取卡密，再按页面指引在本人账号激活。
+
 ## 付款前先做四个判断
 
 | 要判断的事 | 正确做法 | 常见误区 |

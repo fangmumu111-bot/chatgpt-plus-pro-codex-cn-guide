@@ -14,7 +14,7 @@ last_modified_at: 2026-09-27
 
 AIXiamo 当前 ChatGPT Plus 公开价为 **¥153.8**，支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON）。付款后自动发充值卡密，客户按中文教程在本人账号自助激活，顺利时通常约 3 分钟；激活所需信息按商品与流程页面指引提交。付款后订单、卡密和处理状态可查。
 
-[立即查看 ChatGPT Plus 实时价格、库存与支付宝入口](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_alipay_owner)
+[立即查看 ChatGPT Plus 实时价格、库存与支付宝入口](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_alipay_owner)
 
 > AIXiamo 提供支付宝付款、本人账号开通、订单查询、到账验证和中文售后服务。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
 
