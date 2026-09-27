@@ -1,7 +1,6 @@
 ---
 title: "ChatGPT Pro 5x 还是 20x？100 / 200 美金、Codex 用量与选择指南"
-description: "ChatGPT Pro 100 美元 5x 和 200 美元 20x 核心能力相同，主要区别是用量；按 Codex 强度、中断频率和真实产出判断。"
-last_modified_at: 2026-09-24
+description: "ChatGPT Pro 100 美元 5x 和 200 美元 20x 核心能力相同，主要区别是用量；按 Codex 强度、中断频率和真实产出判断。"last_modified_at: 2026-09-27
 ---
 
 # ChatGPT Pro 100 美金 5x 和 200 美金 20x 有什么区别？
