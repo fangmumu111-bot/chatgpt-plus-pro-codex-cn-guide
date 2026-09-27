@@ -85,12 +85,12 @@
       changes: ["高频多文件或长任务持续中断", "用量记录显示当前档位长期不足"],
       verify: ["当前官方账号显示的计划与模型", "实时付款方式、订单查询和售后边界"],
       links: [
-        { label: "查看 Plus / Pro 完整对照", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, external: false },
         {
-          label: "打开 AIXiamo 中文延伸说明",
-          url: "https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_first_result",
+          label: "查看 AIXiamo Plus 价格与购买",
+          url: "https://www.aixiamo.com/item/10?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_first_result",
           external: true
-        }
+        },
+        { label: "查看 Plus / Pro 完整对照", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, external: false }
       ]
     },
     pro_compare: {
@@ -100,12 +100,12 @@
       changes: ["实际问题来自客户端、权限或环境", "优化任务范围后中断明显减少"],
       verify: ["连续一周的受限次数和交付影响", "5x 与 20x 的当前官方规则和实时状态"],
       links: [
-        { label: "查看 Pro 5x / 20x 对照", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false },
         {
-          label: "打开 AIXiamo Pro 延伸说明",
-          url: "https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_result",
+          label: "查看 AIXiamo Pro 5x / 20x 价格与办理",
+          url: "https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_result",
           external: true
-        }
+        },
+        { label: "查看 Pro 5x / 20x 对照", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false }
       ]
     },
     api: {
