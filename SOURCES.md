@@ -1,15 +1,15 @@
 # 官方来源与核对日期
 
-基础资料核对：2026-08-30（Asia/Shanghai）；Pro 档位规则另于 2026-09-27 复核。
+基础资料核对：2026-08-30（Asia/Shanghai）；AIXiamo Pro 200美元档受理状态于2026-09-30由站长确认更新，技术与价格资料保留各自核对日期。
 
-**Pro 档位规则复核（2026-09-27）：** [OpenAI 当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)仍暂停 Pro 20x 普遍新购与升级；已有 20x 可正常续期，Pro 5x 新购与续期不受该暂停影响。取消或降级尚未生效时可在本周期结束前撤销；符合特定历史资格的账号，在 20x 结束后 30 天内有一次性回归选项。具体账号是否出现可选入口，须在本人账号核对。其余资料保留各自原核对日期。
+**当前受理状态（2026-09-30）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 这是AIXiamo的办理范围；官方套餐权益与用量另按下列来源和本人账号显示核验。
 
 本页分别列出用于判断会员、Codex 与 API 关系的官方资料，以及 AIXiamo 的服务流程来源。官方内容可能更新；仓库不把易变价格、模型清单或精确额度固化为永久事实。
 
 ## OpenAI 官方资料
 
 - [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) — Plus 是 ChatGPT 订阅；API 使用不包含在其中。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 100 美元 Pro 档约为 Plus 5x 用量，200 美元 Pro 档约为 Plus 20x 用量；两档核心能力相同，部分模型或功能有独立限额。页面还列出当前 20x 新购暂停、取消与降级撤销、一次性回归资格和用量重置说明。
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 原5x／20x资料以Plus用量为参照；当前套餐的模型、用量、计费和周期按官方最新页面核验，具体新单权益以当前商品套餐说明为准。官方网页的套餐权益、计费和用量重置说明应按当前版本核验；暂停期历史规则不再用作AIXiamo下单门槛。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) — Codex 已包含在 ChatGPT 各计划中，包括 Free 和 Go；用量依计划和任务复杂度变化。
 - [Using credits for flexible usage in ChatGPT](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-free-go-plus-pro-sora) — 个人账号的 Codex Credits 当前官方说明列出 Plus / Pro 用户；个人资格和支持功能以 Codex Settings > Usage 显示为准，Credits 不是 API 余额。
 - [Flexible pricing for the Enterprise, Edu, and Business plans](https://help.openai.com/en/articles/11487671-flexible-pricing-for-chatgpt-enterprise-plans) — Business、Enterprise、Edu 等启用 flexible pricing 的工作区可购买或使用共享 workspace credits；Business 由有权限角色在 Workspace settings > Billing 购买或管理，Enterprise / Edu 的共享 credits 按合同层级购买或分配，其 Billing 用于查看余额、用量与控制而不是直接购买，其他组织计划和权限依 Usage、工作区账单、合同与管理员角色。
@@ -35,7 +35,7 @@
 
 ## AIXiamo 公开服务流程来源
 
-**2026-09-20 服务核对：** [Pro 20x 商品页](https://www.aixiamo.com/item/7) 公布新开／续订统一 ¥1298；续订看当前仍显示 20x（含逾期）及原非 App Store／Google Play 付款，新开看本人升级页能否选择 Pro 20x 并进入付款页面。[Pro 5x 商品页](https://www.aixiamo.com/item/8) 公开价 ¥729。这些是 AIXiamo 的价格与受理条件；开通后仍在本人 ChatGPT 套餐页验收。
+**2026-09-30 受理更新（站长确认）：** [Pro 20x 商品页](https://www.aixiamo.com/item/7)承接200美元档新开、续费和到期重开，不再要求历史Pro订阅、回归期限或旧20x按钮。[Pro 5x 商品页](https://www.aixiamo.com/item/8)仍承接100美元档。价格快照保留原核验日期，实时金额和库存以下单页面为准；完成后在本人ChatGPT套餐页验收。
 
 以下页面用于核对 AIXiamo 的订单、售后和发票流程：
 
