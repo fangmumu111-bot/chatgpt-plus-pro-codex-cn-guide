@@ -1,18 +1,20 @@
 ---
-title: "ChatGPT Pro 国内怎么开通或购买？没有海外银行卡的 5x / 20x 指南"
-description: "2026 ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元 20x 怎么选，没有海外银行卡如何用支付宝开通，并核对本人账号、订单与官网套餐。"
-last_modified_at: 2026-10-02
+title: "ChatGPT Pro 国内怎么开通或购买？100 / 200 / 500 美元档付款指南"
+description: "ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元（又名20x）、500 美元档怎么选，支付宝办理、本人官方账号充值、订单查询与官网核验。"
+last_modified_at: 2026-10-03
 ---
 
 # ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
 
-> 内容更新：2026-10-02（本人账号办理与官网核验说明；保留10月1日补充的Pro 5x升级200美元档流程）。
+> 内容更新：2026-10-03（补充 Pro 500美元档、3350元价格快照和办理入口；保留原有100／200美元档流程与历史核验记录）。
 
 ## 直接答案
 
 **受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 完整办理步骤见下方状态表。
 
 **没有海外银行卡，可以通过 AIXiamo 用支付宝为您本人的官方 ChatGPT 账号办理 Pro。** Pro 5x（100美元档）适合高频 Codex、深度研究和长任务；200美元档（又名20x）可按更连续的使用需求与预算比较。AIXiamo 提供人工办理、订单查询和中文售后；使用自己的海外银行卡自助订阅、应用商店付款的步骤也保留在下文，便于按现有付款方式选择。
+
+**Pro 500美元档也已加入 AIXiamo 办理范围，支持新开通与续费，2026-10-03价格快照为3350元。** 充值到您本人的官方 ChatGPT 账号，付款后人工按订单办理，完成后在官网核验套餐与有效期；不要求历史20x资格。直接查看 [Pro 500美元档商品与实时库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_500_buy)，或先阅读 [Pro 500美元档权益、价格与适用场景](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)。
 
 AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／续订统一 ¥1298**。充值到您本人的官方账号上，开通后可在 ChatGPT 官网“设置 → 我的套餐”核验 Pro 档位与有效期。实时价格、库存和交付规则以 Pro 页面为准。
 
@@ -31,6 +33,8 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 | 已有 Pro 200美元档，尚未到期 | 可以续费 | [立即开通／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)；办理后核验订阅周期 |
 | 已到期／逾期，账号仍显示20x或已不再显示 | 可以续费或重新开通 | 不要求旧20x状态或回归期限；使用同一商品 |
 | 新注册、当前无会员，或从未开通过20x | 可以新开200美元档 | 无需历史Pro资格、旧入口按钮或截图证明，直接下单 |
+| 准备新开或续费 Pro 500美元档 | AIXiamo 支持办理，3350元为2026-10-03价格快照 | [查看500美元档实时价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_500_buy)，按正常订单流程付款，完成后核验本人官方账号的套餐与有效期 |
+| 当前有 Plus、100或200美元档，想改为500美元档 | 先核对现有套餐、到期时间和原付款渠道 | 跨档办理的差价、周期和剩余权益处理，按商品说明或向 QQ **790433263** 确认；不把新开价格直接当作升级差价 |
 | 曾开通过20x，已过期很久 | 可以重新开通200美元档 | 不再沿用暂停期间的30天回归期限 |
 | 当前仍有 Plus / Pro 5x，准备改为200美元档 | Plus 可按商品说明办理；AIXiamo 支持当前在订 Pro 5x 升级200美元档 | Pro 5x 升级请在下单前咨询客服 QQ **928683877** 或[加入现有交流群](https://qm.qq.com/q/Bw0UoUeez0)，核对当前订阅与升级方案；原订阅后续扣款仍在原渠道管理。普通新开、续费和到期重开仍可直接下单 |
 | 原订阅通过 App Store / Google Play 付款开通 | 原付款渠道不再用作暂停期资格门槛 | 仍需在原商店管理后续扣款，避免重复订阅 |
@@ -55,14 +59,15 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 
 ## 先判断 Plus 还是 Pro
 
-先看 Codex 是用本人 ChatGPT 账号登录，还是使用 API Key。[OpenAI Codex 官方价格与用量说明](https://developers.openai.com/codex/pricing/)将 Pro 5x／20x 的订阅用量与 API Key 按使用量计费分开列出；如果 Key 来自第三方服务商，还应核对该服务商的账单与套餐。
+先看 Codex 是用本人 ChatGPT 账号登录，还是使用 API Key。[OpenAI Codex 官方价格与用量说明](https://developers.openai.com/codex/pricing/)将 ChatGPT 订阅用量与 API Key 按使用量计费分开说明；如果 Key 来自第三方服务商，还应核对该服务商的账单与套餐。
 
 | 实际情况 | 应该确认什么 | 对应下一步 |
 | --- | --- | --- |
-| 用本人 ChatGPT 账号登录 Codex，需要更高订阅用量 | 核对当前套餐、实际 Codex 用量、任务规模和受限频率 | 先[比较 Pro 5x／20x 用量](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)，再按下方账号条件选商品 |
+| 用本人 ChatGPT 账号登录 Codex，需要更高订阅用量 | 核对当前套餐、实际 Codex 用量、任务规模和受限频率 | 先[比较 Pro 100／200／500美元档](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)，再按下方账号条件选商品 |
 | 使用 API Key（包括程序、服务器或 CI 调用） | 确认 Key 的服务商和实际计费项目 | 查看对应服务商的用量与账单；购买 ChatGPT Pro 不会给 API 项目增加余额，不把 API 请求算作订阅用量 |
 | 已有 Plus，尚未到期，想办理 Codex 5x | 核对本人账号和 [Pro 5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)；剩余 Plus 权益以商品说明为准 | 符合条件可由 AIXiamo 人工办理 Pro 5x，无需等 Plus 到期；完成后按下方清单验收 |
 | 想办理 Codex 20x 新开或续订 | 确认购买的是本人ChatGPT账号的Pro 200美元档，API与Credits另计 | 按[当前开通与续费状态](#pro-availability)查看流程，直接选择同一 [Pro 20x 商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew) |
+| 准备办理 Pro 500美元档 | 先了解500档的权益和适用工作量，再核对实时价格与库存 | 阅读 [500美元档详细说明](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)，确定后进入 [500美元档商品](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_500_buy) |
 | 日常问答、写作、学习、偶尔写代码 | 核对 Plus 是否已满足日常需求 | 先看 Plus，不为偶发峰值长期支付更高成本 |
 | 多人共同使用 | 核对是否需要组织席位与管理能力 | 比较组织方案，不把个人会员当作共享席位 |
 
@@ -73,7 +78,7 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 1. 登录准备开通权益的本人 ChatGPT 账号，确认邮箱或登录方式无误。
 2. 查看当前官方升级页实际显示的计划与付款方式；能直接完成时，优先保存账单记录。
 3. 官方付款方式不适用时，再比较第三方服务；先看商品对象、交付方式、支付方式、订单查询和退款条件。
-4. 需要200美元档时，新开、续费和到期重开均使用同一商品，不要求暂停期特殊资格；核对实时金额、库存和订阅周期。5x仍是独立档位，不把Plus、API余额或共享账号当作同一商品。
+4. 按需要选择100、200或500美元档并核对实时金额、库存与订阅周期。200美元档新开、续费和到期重开使用同一商品，不要求暂停期特殊资格；500美元档新开与续费进入商品18。各档位、Plus、API余额和共享账号不是同一商品。
 5. 使用支付宝或结账页实时显示的 USDT 网络付款时，核对金额、链名称和订单状态，不要重复付款。
 6. 付款后通过订单页查看处理状态；人工订单需要等待时，以页面状态和售后说明为准。
 
@@ -83,7 +88,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 价格、库存、支付方式和处理时间都可能变化，不应把教程里的快照当成长期报价。
 
-具体用量参照见 [Pro 5x / 20x 选型与 Astra 五小时用量估算](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)。这张表用于理解使用强度，不能作为固定消息数承诺。
+具体用量参照见 [Pro 100／200／500美元档选型与用量说明](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)。需要进一步比较500档时，阅读 [Pro 500美元档完整指南](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)，按实际工作量与预算选择；订阅用量不换算成每项任务都固定的消息数。
 
 ## 已经有 Plus，升级 Pro 前先确认什么？
 
@@ -113,7 +118,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 ## 办理后怎么核验
 
 1. 在原订单查看“已付款、处理中、已完成”等进度，完成后继续核验本人账号的套餐与有效期。
-2. 在本人 ChatGPT 账号的“设置 → 我的套餐”核对实际显示的 Pro 5x／20x 档位与有效期，确认开通的是目标账号。
+2. 在您本人的官方 ChatGPT 账号“设置 → 我的套餐”核对购买的100／200／500美元档及有效期，确认开通的是目标账号；500美元档也按同样步骤验收。
 3. 确认 Codex 登录的就是这个 ChatGPT 账号，再到该账号的 Usage 页面查看当前可用情况；使用 API Key 的请求应按 Key 所属服务商的用量与账单核对，不混算为 ChatGPT 订阅用量。
 4. 如果套餐或 Codex 用量仍未显示预期状态，先按原订单核对处理进度并联系售后，不要重复购买。
 
@@ -128,6 +133,18 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 > 本指南为 AIXiamo 关联项目。2026-09-26 补充购买前判断与办理后核验；Pro 200美元档受理状态于2026-09-30由站长确认更新，其他历史核查保留原日期。实时价格、库存、付款方式与售后规则以页面当前显示为准。维护关系与推荐依据见 [维护与评测方法](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)。
 
 ## 下单前常见问题
+
+### ChatGPT Pro 500美元档国内多少钱，怎么购买？
+
+**AIXiamo 的 Pro 500美元档在2026-10-03的价格快照为3350元，支持新开通与续费。** 打开 [500美元档商品页](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_500_buy)，核对实时金额、库存和套餐说明，填写联系方式／查询凭证后选择付款方式。付款后人工按订单办理，充值到您本人的官方 ChatGPT 账号；订单状态可查，完成后在官网核验套餐与有效期，充值不成功经订单核验后全额退款。
+
+### 500美元档需要先购买200美元档或提供旧20x资格吗？
+
+**不需要先购买200美元档，也不要求历史20x资格。** 普通新开与续费按500美元档商品的正常流程办理。已有有效订阅并准备跨档升级时，核对当前档位、到期时间、原扣款渠道与升级方案即可；升级差价和剩余周期不能直接用3350元的新开价格推算，有疑问联系 QQ **790433263**。
+
+### Pro 500和200有什么区别，先看哪里？
+
+先看 [Pro 500美元档权益与使用说明](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)，了解其模型速度、适用产品、订阅用量与典型工作量，再用 [100／200／500美元档比较表](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)结合预算选择。100、200与500均充值到您本人的官方 ChatGPT 账号，不以共享号替代；API调用仍按自己的API账单处理。
 
 ### 以前在别处代充的 Pro 20x，可以找 AIXiamo 续费吗？
 
@@ -147,6 +164,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ## 继续判断
 
+- [ChatGPT Pro 500美元档多少钱、有什么权益、国内怎么买？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)
 - [ChatGPT Pro 5x 和 20x 有什么区别？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
 - [ChatGPT Plus 和 Pro 怎么选？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
 - [Codex 额度用完，Credits、Pro 还是 API？](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
