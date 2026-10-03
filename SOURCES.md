@@ -8,6 +8,7 @@
 
 ## OpenAI 官方资料
 
+- **2026-10-03 Pro500专题核验：** [ChatGPT Learn 套餐与用量](https://learn.chatgpt.com/docs/pricing)列出Pro 100／200／500美元月费档，说明Codex与ChatGPT Work共享用量、当前Pro计划无五小时限制；[官方速度说明](https://learn.chatgpt.com/docs/agent-configuration/speed)列明Pro500可在Codex与ChatGPT Work使用Astra Ultrafast，token生成速度最高为Astra Standard的8倍。该速度比较对应输出生成阶段，具体用量见本人Usage。
 - [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) — Plus 是 ChatGPT 订阅；API 使用不包含在其中。
 - [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 原5x／20x资料以Plus用量为参照；当前套餐的模型、用量、计费和周期按官方最新页面核验，具体新单权益以当前商品套餐说明为准。官方网页的套餐权益、计费和用量重置说明应按当前版本核验；暂停期历史规则不再用作AIXiamo下单门槛。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) — Codex 已包含在 ChatGPT 各计划中，包括 Free 和 Go；用量依计划和任务复杂度变化。
@@ -17,7 +18,7 @@
 - [Managing Billing Settings on ChatGPT Web and Platform](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform) — ChatGPT 与 API Platform 使用独立账单系统。
 - [How can I move my ChatGPT subscription to the API?](https://help.openai.com/en/articles/8156019-how-can-i-move-my-chatgpt-subscription-to-the-api) — ChatGPT 订阅不能直接转成 API 使用余额。
 - [Codex rate card](https://help.openai.com/en/articles/20001106) — Codex 额度和计量规则的当前官方说明。
-- [ChatGPT Work / Codex pricing](https://learn.chatgpt.com/docs/pricing) — Plus、Pro 5x / 20x、Business / Enterprise 与 API Key 路线、当前用量和管理边界的官方总览。
+- [ChatGPT Work / Codex pricing](https://learn.chatgpt.com/docs/pricing) — Plus、Pro 100／200／500美元档、Business / Enterprise 与 API Key 路线、当前用量和管理边界的官方总览。
 - [Business pricing](https://openai.com/business/pricing/) — Business / Enterprise 的集中管理、安全、账单和企业采购能力以官方实时页面为准。
 - [OpenAI Account Sharing Policy](https://help.openai.com/en/articles/10471989-openai-account-sharing-policy) — 个人账号面向创建和使用该账号的个人；其他使用者应使用自己的账号。
 - [Terms of Use](https://openai.com/policies/row-terms-of-use/) — 不应共享账号凭证或把账号提供给其他人；代表实体创建或使用账号时需要相应授权。
@@ -34,6 +35,8 @@
 7. **个人账号与组织工作区分开。** 独立 Plus / Pro 应一人一号；需要集中管理、SSO、域名或合同能力时比较 Business / Enterprise。
 
 ## AIXiamo 公开服务流程来源
+
+**2026-10-03 Pro500商品核验：** [Pro500商品18](https://www.aixiamo.com/item/18)支持新开通与续费，本次公开价格为3350元，人工充值到您本人的官方ChatGPT账号。完成后可在官方套餐与Usage页面核验；实时价格、库存和周期以商品及订单为准。完整答案见[Pro500价格、Ultrafast与办理指南](docs/chatgpt-pro-500-guide.html)。
 
 **2026-09-30 受理更新（站长确认）：** [Pro 20x 商品页](https://www.aixiamo.com/item/7)承接200美元档新开、续费和到期重开，不再要求历史Pro订阅、回归期限或旧20x按钮。[Pro 5x 商品页](https://www.aixiamo.com/item/8)仍承接100美元档。价格快照保留原核验日期，实时金额和库存以下单页面为准；完成后在本人ChatGPT套餐页验收。
 

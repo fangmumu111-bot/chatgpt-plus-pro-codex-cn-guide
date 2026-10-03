@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const CONTENT_VERSION = "2026-08-30";
+  const CONTENT_VERSION = "2026-10-03";
   const STORAGE_KEY = "aixiamo-ai-choice-map-v1";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -98,14 +98,15 @@
       summary: "你是单人高频使用，而且限制已经持续影响多文件、长任务或深度研究。此时更高用量才有明确判断依据。",
       reasons: ["限制持续影响真实工作", "任务强度高，且主要由单人使用"],
       changes: ["实际问题来自客户端、权限或环境", "优化任务范围后中断明显减少"],
-      verify: ["连续一周的受限次数和交付影响", "5x 与 20x 的当前官方规则和实时状态"],
+      verify: ["连续一周的受限次数和交付影响", "100美元5x、200美元20x与500美元档的当前用量及Ultrafast需求"],
       links: [
         {
-          label: "查看 AIXiamo Pro 5x / 20x 价格与办理",
+          label: "查看 AIXiamo Pro 5x / 20x 办理入口",
           url: "https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_result",
           external: true
         },
-        { label: "查看 Pro 5x / 20x 对照", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false }
+        { label: "比较5x / 20x / 500三档", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false },
+        { label: "Pro 500价格与Ultrafast完整指南", url: `${PAGES_BASE}/docs/chatgpt-pro-500-guide.html`, external: false }
       ]
     },
     api: {
@@ -382,6 +383,7 @@
   });
 
   const commandItems = [
+    { label: "ChatGPT Pro 500：价格、Ultrafast与开通续费", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-500-guide.html`, terms: "pro 500 500美元 500美金 3350 价格 多少钱 astra ultrafast 国内 支付宝 续费" },
     { label: "GPT-6 Pro / Astra：Codex CLI 与 API 技术指南", meta: "新指南", url: `${PAGES_BASE}/docs/gpt-6-astra-codex-api-guide.html`, terms: "gpt-6 gpt6 astra gpt-6-pro codex cli responses api 0.153.0 模型 看不到 权限" },
     { label: "开始 4 步判断", meta: "工具", url: "#decision-tool", terms: "选择 判断 会员" },
     { label: "Plus 与 Pro 快速对照", meta: "页面", url: "#quick-map", terms: "plus pro 选择" },
@@ -392,7 +394,7 @@
     { label: "支付宝怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-alipay.html`, terms: "支付宝 充值 购买 订阅 pro 5x 20x 本人账号" },
     { label: "付款失败、支付成功未到账、退款与电子发票", meta: "排障", url: "https://momochoog.github.io/chatgpt-plus-daichong/CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html", terms: "付款失败 支付成功 未到账 订单处理中 重复付款 退款 原路退款 秒到账 发票 电子发票 开票 售后" },
     { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, terms: "会员 套餐" },
-    { label: "ChatGPT Pro 5x 与 20x", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 额度" },
+    { label: "ChatGPT Pro 5x / 20x / 500怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 100 200 500 额度 区别 对比" },
     { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },
     { label: "Codex 额度不足能否购买 Credits", meta: "指南", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, terms: "限额 用完 不够 credits 购买额度" },
     { label: "企业研发团队如何规划 Codex 账号", meta: "指南", url: `${PAGES_BASE}/docs/enterprise-codex-account-planning.html`, terms: "企业 公司 团队 codex 账号 采购 批量 plus pro 5x 20x business enterprise api 发票 官方验真" },
