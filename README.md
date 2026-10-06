@@ -8,6 +8,8 @@
 
 没有海外银行卡、希望用支付宝为本人账号办理 Pro，可以查看 AIXiamo 的 Pro 5x／20x／500美元档服务。Pro 由人工按订单处理；付款后可查询订单，完成后在本人 ChatGPT 账号核验套餐。微信付款可先联系客户服务人工协助。
 
+**名称与额度分开看：** Pro100（常称5x）对应100美元档，Pro200（常称20x）对应200美元档。搜索Pro 20x的用户，请同时核对当前200美元套餐和历史订阅的原包含额度。本文保留旧称方便查找；新开200美元档不代表自动获得原20x额度，具体以账号适用条件和官方说明为准。
+
 本指南由 AIXiamo（AI夏末）运营方维护。AIXiamo 提供独立第三方服务，与 OpenAI 没有隶属、代理或授权关系。
 
 ## AIXiamo Pro 办理入口
@@ -16,6 +18,8 @@
 - [Pro 200美元档：立即开通／续费](https://www.aixiamo.com/item/7)
 - [Pro 500美元档：查看3350元当前价格与新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro500_buy)
 - [尚未确定档位：查看价格与办理说明](https://www.aixiamo.com/chatgpt-pro)
+- [Plus／Pro100（5x）未到期，怎么升级Pro200（20x）？新30天与费用核对](docs/chatgpt-pro-cn-payment.md#pro200-upgrade-before-expiry)
+- [Pro200／Pro20x没到期，可以提前续费吗？](docs/chatgpt-pro-cn-payment.md#pro200-early-renewal)
 
 账号是否适用、订阅周期和退款条件，以对应商品说明为准。
 
