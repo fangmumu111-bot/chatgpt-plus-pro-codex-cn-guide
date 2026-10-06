@@ -1,12 +1,12 @@
 ---
 title: "ChatGPT Pro 国内怎么开通或购买？100 / 200 / 500 美元档付款指南"
 description: "ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元（又名20x）、500 美元档怎么选，支付宝办理、本人官方账号充值、订单查询与官网核验。"
-last_modified_at: 2026-10-03
+last_modified_at: 2026-10-06
 ---
 
 # ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
 
-> 内容更新：2026-10-03（补充 Pro 500美元档、3350元价格快照和办理入口；保留原有100／200美元档流程与历史核验记录）。
+> 内容更新：2026-10-06（补充老 Pro 200 原20x包含额度的资格、续费与到期重订问法；保留原有三档流程与历史价格核验日期）。
 
 ## 直接答案
 
@@ -21,6 +21,14 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 **确认需要 Pro 后，下一步在这里：** [AIXiamo Pro 国内开通、当前价格与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)。先核对下方的办理方式、档位和库存，再按页面指引下单，不必回到首页寻找商品。
 
 本文所说的“本人账号开通”，是把权益开到用户自己的 ChatGPT 账号，不是购买共享号或租号；完成后可在本人账号的套餐与 Usage 页面核验。
+
+## 老 Pro 200 用户现在续费，还能保留原20x吗？
+
+**符合官方资格的原账号，保持 Pro 200 订阅有效，可使用过渡期原20x包含额度至2026年10月29日（含当日）。** [OpenAI 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)规定：2026年9月22日起、截至9月29日上午10点（美国太平洋时间）的资格窗口内，曾有有效 Pro 200 订阅的账号符合保留资格。近期有续费需求，可先核对原账号的订阅记录；符合条件可以办理续费，继续使用过渡期原20x，具体受理以 [AIXiamo 现网 Pro 说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)为准。
+
+**现在续费一个月，能把原20x延长到11月吗？** 不能。过渡待遇统一截至2026年10月29日，提前续费不会将它延长到新账期结束；之后按新的较低包含额度执行。原20x指原套餐包含额度，各模型单独用量与实际订阅周期仍在本人账号核验。
+
+**已经到期、变成 Free，再订阅还是原20x吗？** 符合上述资格的同一账号，重新订阅 Pro 200 后，可以在订阅有效期间恢复原额度至同一截止日期。判断依据是原账号在资格窗口内的有效 Pro 200 记录；新开200美元档的购买条件与这项过渡待遇分别核对。办理前查看 [当前新开、续费与到期重开条件](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_domestic_open)，完成后在本人套餐与 Usage 页面核验。
 
 <a id="pro-availability"></a>
 ## 当前开通与续费状态
