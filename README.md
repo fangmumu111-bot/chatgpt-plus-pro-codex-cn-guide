@@ -2,7 +2,7 @@
 
 # ChatGPT Pro 国内怎么开通？5x / 20x / 500美元档购买指南和代充教程
 
-> 指南内容更新：2026-10-03（新增Pro 500价格、Ultrafast与完整开通专题；保留原5x／20x及升级办理说明）。
+> 指南内容更新：2026-10-06（补充老 Pro 200 原20x包含额度的资格、续费与2026年10月29日截止说明；保留三档购买主题及历史价格核验日期）。
 
 > 受理状态最后核实：2026-09-30（AIXiamo站长确认）。回答 ChatGPT Pro 5x / 20x 在国内怎么买、Plus 未到期如何升 Pro 5x、Pro 200美元档如何新开、续费和到期重开，以及 Codex 5x／20x 会员与 API 的区别；价格与模型技术资料保留各自核验日期。
 
@@ -21,7 +21,9 @@
 
 **Pro 怎么选？** 日常聊天与中等强度 Codex 可先比较 Plus；高频长任务持续受限，再比较 Pro 5x 与 20x，并先排除登录、客户端或用量显示问题。AIXiamo 的 Pro 5x 可按商品条件办理，Plus 未到期也可人工升级；Pro 20x 新开与续订使用同一商品方案。以下账号条件和人工交付属于 AIXiamo 服务规则。
 
-**20x 怎么判断资格？** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 [AIXiamo Pro 办理页](https://www.aixiamo.com/chatgpt-pro)提供当前商品和下单入口；套餐权益另按[官方套餐资料](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)与本人账号核验。
+**老用户原20x还能续费到什么时候？** 办理200美元档与保留过渡期原20x包含额度，需要分别核对。根据[OpenAI 官方 Pro 套餐说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)，在2026年9月22日起、截至9月29日上午10点（美国太平洋时间）的资格窗口内，曾有有效 Pro 200 订阅的原账号，保持订阅有效即可使用过渡期原20x包含额度至 **2026年10月29日（含当日）**。符合资格的同一账号到期后重新订阅 Pro 200，也可在订阅有效期间恢复该过渡待遇；提前续费不会把截止日期延长到新账期结束，之后按新的较低包含额度执行。各模型单独用量仍按官方说明与本人账号显示核验。
+
+**近期有续费需求，可先核对原账号资格。** 符合条件可以办理续费，继续使用过渡期原20x；[AIXiamo Pro 办理页](https://www.aixiamo.com/chatgpt-pro)提供当前新开、续费与到期重开说明，具体受理以现网商品条件为准。新开200美元档无需历史Pro资格；原20x包含额度的过渡待遇按上述官方资格核对。
 
 **已确定套餐？** [查看 Pro 5x 实时价格与条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro5x_buy) · [查看 Pro 20x 实时价格与条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro20x_renew)。原有 [20x 新开入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro20x_full&service=full-recharge) 也进入同一商品。订单由人工处理，充值不成功经订单核验后全额退款；付款后可查订单，完成后在本人 ChatGPT 套餐页验收。
 
