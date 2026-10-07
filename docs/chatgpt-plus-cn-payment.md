@@ -14,6 +14,8 @@ last_modified_at: 2026-09-27
 
 **已确定购买 Plus？** [查看 AIXiamo Plus 实时价格与商品条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_domestic_buy)。付款后从原订单领取卡密，再按页面指引在本人账号激活。
 
+**AIXiamo Plus 30天保障：** 保障期内，成功激活后，如因非用户原因导致订阅提前中断，可凭原订单联系售后。经核验可恢复订阅或补足原剩余天数；客户选择现金退款时，按原订单全额退款。这是AIXiamo的Plus售后规则，不是OpenAI官方质保。[查看Plus保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
+
 ## 付款前先做四个判断
 
 | 要判断的事 | 正确做法 | 常见误区 |
