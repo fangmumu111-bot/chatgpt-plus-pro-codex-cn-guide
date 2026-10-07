@@ -14,10 +14,10 @@
 
 ## AIXiamo Pro 办理入口
 
-- [Pro100（5x）：开通／续费，直接下单](https://www.aixiamo.com/item/8)
-- [Pro200（20x）：开通／续费，直接下单](https://www.aixiamo.com/item/7)
+- [Pro100（5x）：开通／续费，直接下单](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro100_direct)
+- [Pro200（20x）：开通／续费，直接下单](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro200_direct)
 - [Pro 500美元档：查看3350元当前价格与新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro500_buy)
-- [尚未确定档位：查看价格与办理说明](https://www.aixiamo.com/chatgpt-pro)
+- [尚未确定档位：查看价格与办理说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro_owner_direct)
 - [Plus／Pro100（5x）未到期，怎么升级Pro200（20x）？新30天与费用核对](docs/chatgpt-pro-cn-payment.md#pro200-upgrade-before-expiry)
 - [Pro200／Pro20x没到期，可以提前续费吗？](docs/chatgpt-pro-cn-payment.md#pro200-early-renewal)
 
